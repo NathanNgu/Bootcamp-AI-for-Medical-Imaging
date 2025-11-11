@@ -39,9 +39,9 @@ Each module can be opened directly in **Google Colab** — just click and start 
 
 ---
 
-## 🩻 Application Bootcamp (Modules 6 – 10)
+## 🩻 Application Bootcamp (Modules 5)
 
-These modules connect foundational knowledge to **real-world applications** — from radiomics and foundation models to language and multimodal AI.
+This module aims to connect foundational knowledge to a **real-world application**.
 
 | Module | Learning Goal | Link |
 |---------|----------------|------|
