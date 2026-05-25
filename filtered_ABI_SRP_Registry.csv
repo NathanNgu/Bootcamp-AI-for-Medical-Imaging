@@ -1,0 +1,1413 @@
+SUBJID,MHH_MRN,Screening,Notes,Name,DOB,Current_Age,Sex,Race,Ethnicity,BMI,Inclusion Exclusion Criteria,deceased,Age >/= 18 at time of injury,anoxic brain injury (suspected),CT of brain,MRI of brain,2015 to 2025 (ideally),death not due to ABI
+60001,150729442,,,"CARRILLO,KRISTIN",1/12/1981,44,Female,Unknown,Unknown,29.81,,0,1,1,1,1,1,o
+60002,150724962,,,"HERNANDEZ,MATILDE",11/27/1958,67,Female,Hispanic,Hispanic or Latino,27.34,,1,1,1,1,1,1,o
+60003,150721010,,,"TANGO,BLUE RECTANGLE",9/19/1973,52,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",34.97,,1,1,1,1,0,1,o
+60004,150716551,,,"SIY,BELLA MANULID",10/15/1954,71,Female,Other Asian American,"Not Hispanic, Latino/a, or Spanish origin",27.77,,1,1,1,1,0,1,o
+60005,150711862,,,"AL AZZAWI,QASIM MOHAMMED HUSSEIN",12/15/1954,71,Male,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",39.1,,1,1,1,1,0,1,o
+60006,150710239,,,"OLIVER,VALLIE J",6/22/1953,72,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",45.71,,1,1,1,1,0,1,o
+60007,150705487,,,"CHOICE,WILLIAM HERSCHEL",5/22/1942,83,Male,White,"Not Hispanic, Latino/a, or Spanish origin",22.24,,1,1,1,1,1,1,o
+60008,150703967,,,"ATKINS,WAYNE LEE",3/27/1949,76,Male,White,"Not Hispanic, Latino/a, or Spanish origin",30.94,,1,1,1,1,1,1,o
+60009,150702481,,,"CRUZ,HILBERTO ANTONIO",1/26/1985,40,Male,Hispanic,Hispanic or Latino,15.68,,1,1,1,1,1,1,o
+60010,150702397,,,"JONES,DEBORA DENISE",7/2/1964,61,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",24.58,,1,1,1,1,1,1,o
+60011,150702253,,,"GAMBOA,SHARON",3/2/1948,77,Female,Other,Hispanic or Latino,54.91,,0,1,1,1,0,1,o
+60012,150701804,,,"JHON,BRYAN HOSONG",4/30/1962,63,Male,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",22.6,,0,1,1,1,1,1,o
+60013,150698228,,,"BOXLEY,ELLA FRANCES",1/16/1948,77,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",14.9,,0,1,1,1,1,1,o
+60014,150692462,,,"ROCHA,IRMA",4/29/1950,75,Female,"Hispanic
+Other",Hispanic or Latino,34.14,,1,1,1,1,1,1,o
+60016,150685413,,,"STITNIZKY,JORDAN",10/3/1995,30,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",32.85,,0,1,1,1,0,1,o
+60017,150682202,,,"SUAREZ HUERTA,SALVADOR",11/29/1995,30,Male,Hispanic,Hispanic or Latino,29.1,,0,1,1,1,1,1,o
+60018,150682099,,,"CARMOUCHE,LYNN G",6/2/1954,71,Female,White,"Not Hispanic, Latino/a, or Spanish origin",16.94,,1,1,1,1,0,1,o
+60021,150666109,,,"GRANGER,CORNELIUS DESHAWN",12/22/1999,25,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",29.75,,1,1,1,1,1,1,o
+60022,150664664,,,"WHITE,ALVIN RAY",5/23/1975,50,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",36.74,,1,1,1,1,0,1,o
+60023,150662625,,,"GRIGGS,JUAN GARRICK",2/16/1978,47,Male,"Black or African American
+Unknown","Not Hispanic, Latino/a, or Spanish origin",40.73,,1,1,1,1,1,1,o
+60024,150662563,,,"BANKER,NITESH",3/29/1967,58,Male,Asian Indian,"Not Hispanic, Latino/a, or Spanish origin",18.76,,0,1,1,1,0,1,o
+60025,150661946,,,"ROQUE,DAVID ISAAC JR.",1/10/1980,45,Male,White,Hispanic or Latino,30.91,,1,1,1,1,1,1,o
+60026,150643484,,,"ACEVES,RAFAEL",8/18/1981,44,Male,"Hispanic
+Other","Other Hispanic, Latino/a, or Spanish origin",20.6,,1,1,1,1,1,1,o
+60027,150641339,,,"GUTIERREZ,KELLY RENEE",7/17/1991,34,Female,White,"Not Hispanic, Latino/a, or Spanish origin",36.17,,0,1,1,1,1,1,o
+60028,150639592,,,"FLEISHER,LARRY EARL",3/10/1947,78,Male,White,"Not Hispanic, Latino/a, or Spanish origin",29.83,,1,1,1,1,0,1,o
+60029,150637876,,possible ABI,"HORIKAMI,NANCY LYNN",8/20/1962,63,Female,White,"Not Hispanic, Latino/a, or Spanish origin",30.08,,1,1,1,1,0,1,o
+60031,150635610,,,"HOTEL,MAROON RHOMBUS",1/1/1901,124,Male,Other,Unknown,24.78,,1,1,1,1,0,1,o
+60032,150626569,,possible anoxic brain injury,"ESPINOSA,CARLOS",6/23/1957,68,Male,White,Hispanic or Latino,25.97,,1,1,1,1,0,1,o
+60033,150626438,,,"CRAWFORD,ERNESTINE",7/25/1963,62,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",32.56,,0,1,1,1,1,1,o
+60034,150626208,,"CT says some, MRI says none","JENNINGS,CLARENCE",9/25/1960,65,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",36.56,,0,1,0,1,1,1,o
+60035,150625519,,unlikely but possible. imaging seems to suggest otherwise,"NEAL,CASANDRA RACHEL",5/15/1966,59,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",19.59,,0,1,0,1,0,1,o
+60036,150621914,,,"KOUML,JONATHAN ELISHAMA",7/31/2000,25,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",23.98,,1,1,1,1,0,1,o
+60037,150607995,,,"Rohr,Angie ",5/10/1962,63,Female,White,"Not Hispanic, Latino/a, or Spanish origin",28.87,,0,1,1,1,1,1,o
+60039,150598165,,no CT evidence for it,"JONES,ERNESTINE",1/8/1937,88,Female,Black or African American,Unknown,36.84,,0,1,0,1,0,1,o
+60040,150595973,,no MRI damage yet,"TIMS,KENNY",12/18/1952,73,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",32.25,,0,1,0,1,0,1,o
+60041,150595818,,,"ARNESON,ROBERT W",8/24/1960,65,Male,White,"Not Hispanic, Latino/a, or Spanish origin",25.05,,0,1,1,1,0,1,o
+60042,150592727,,,"CHANDLER,FRANCES",5/13/1948,77,Female,White,"Not Hispanic, Latino/a, or Spanish origin",24.64,,1,1,1,1,1,1,o
+60043,150592686,,Not on MRI but discharge summary says so,"TAYLOR,KATODD",2/17/1986,39,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",18.67,,0,1,1,1,0,1,o
+60044,150589205,,,"BAUNACH,NATALYA",4/23/1975,50,Female,Other,Unknown,20.59,,0,1,1,1,1,1,o
+60045,150584940,,early anoxic injury only,"JIMENEZ,GUADALUPE III",11/21/1969,56,Male,Hispanic,Hispanic or Latino,28.37,,0,1,0,1,1,1,o
+60047,150583259,,,"WILLIAMS,ROBERT LEE",5/24/1952,73,Male,Unknown,"Not Hispanic, Latino/a, or Spanish origin",25.06,,1,1,1,1,0,1,o
+60048,150582926,,,"PIERCE,DARRELL",2/14/1959,66,Male,White,"Not Hispanic, Latino/a, or Spanish origin",28.85,,0,1,1,1,1,1,o
+60049,150582726,,no anoxic brain injury via MRI,"LEEDIKER,JEREMY C",3/8/1976,49,Male,White,"Not Hispanic, Latino/a, or Spanish origin",20.71,,1,1,0,1,1,1,YES
+60050,150577849,,,"LOYA,ARTHUR JOE",6/30/1952,73,Male,White,Hispanic or Latino,36,,1,1,1,1,1,1,o
+60051,150576717,,,"SANDERS,KARTRE LASHAE",9/26/1979,46,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",33.06,,1,1,1,1,0,1,o
+60052,150570542,,,"LOPEZ RAMIREZ,HOMERO OBED",5/22/1990,35,Male,"Hispanic
+Other",Hispanic or Latino,27.43,,0,1,1,1,1,1,o
+60053,150553873,,,"TOLIVER,ORBRA",3/25/1958,67,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",18.23,,0,1,1,1,0,1,o
+60056,150540122,,,"BOWERSMATEEN,CAMERON MALIQ",6/9/1999,26,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",22.93,,1,1,1,1,0,1,o
+60057,150538349,,,"GONZALEZ,SERVANDO",12/10/1981,44,Male,Other,Hispanic or Latino,30.02,,1,1,1,1,0,1,o
+60058,150536019,,symmetrical bilateral diffusion restriction,"BRANDYBURG,THERESA ANN",4/28/1959,66,Female,Other,Unknown,35.09,,1,1,1,1,1,1,o
+60059,150531851,,waiting to declare but she died,"WILLIAMS,TIFFANY ODESSA",5/16/1995,30,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",41.35,,1,1,1,1,0,1,o
+60060,150528703,,highly concerning for this,"PARAMO DE RAZO,MA DE LA LUZ",12/14/1960,65,Female,Hispanic,Hispanic or Latino,27.37,,1,1,1,1,0,1,o
+60061,150527481,,,"SMITH,KYLE JOHN",9/23/1947,77,Male,"Black or African American
+Other","Not Hispanic, Latino/a, or Spanish origin",23.44,,1,1,0,1,0,1,YES
+60062,150523083,,,"CANELA ALFONSO,ELIZA",10/25/1974,51,Female,Other,Hispanic or Latino,26.26,,0,1,0,1,1,1,o
+60063,150522615,,,"PEREZ MENDEZ,CARLOS ALFREDO",4/26/1996,29,Male,Hispanic,Hispanic or Latino,27.43,,1,1,1,1,1,1,o
+60064,150522200,,,"TESFAYE,ALMAZ",5/7/1981,44,Female,Other,Unknown,26.96,,0,1,1,1,1,1,o
+60065,150520013,,,"HEARN,THOMAS WALTER JR.",7/20/1949,76,Male,White,"Not Hispanic, Latino/a, or Spanish origin",22.09,,0,1,1,1,1,1,o
+60066,150519018,,,"DOSTER,ROBERT DANIEL",11/4/1962,63,Male,White,"Not Hispanic, Latino/a, or Spanish origin",35.47,,1,1,1,1,1,1,o
+60068,150382393,,history of ABI,"BENNETT,FREDERICK",4/14/1953,72,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",18.38,,0,1,0,1,0,1,o
+60069,150381107,,,"Smith,Stefon Cottone",6/2/1965,60,Male,Hispanic,"Other Hispanic, Latino/a, or Spanish origin",28.27,,0,1,1,1,0,1,o
+60070,150380866,,,"SCHWANKE,BRITTANY",9/14/1986,39,Female,White,"Not Hispanic, Latino/a, or Spanish origin",16.27,,1,1,0,1,1,1,YES
+60071,150380410,,,"MAHINDU,SOPHIE",3/7/1979,46,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",23.37,,0,1,1,1,1,1,o
+60072,150369284,,,"NAVARRETE ORELLANA,JOSE RENE",12/3/1994,31,Male,Hispanic,Hispanic or Latino,28.67,,1,1,1,1,1,1,o
+60073,150367154,,,"VALLEJO,IRIS",7/4/1993,32,Female,Other,Hispanic or Latino,30.27,,1,1,1,1,0,1,o
+60074,150365845,,,"CASTILLO,RAYMOND",4/28/1975,50,Male,White,Hispanic or Latino,25.86,,1,1,1,1,1,1,o
+60075,150358909,,,"SOTO,ERNESTO",11/12/2003,22,Male,Hispanic,Hispanic or Latino,24.1,,0,1,1,1,0,1,o
+60076,150357532,,,"MORRIS,DELANO LADERRICK-KRISTEN",12/2/1998,27,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",30.76,,1,1,1,1,1,1,o
+60077,150352135,,,"LAMB,BOYD DAWSON JR.",8/26/1957,67,Male,White,"Not Hispanic, Latino/a, or Spanish origin",23.71,,1,1,1,1,0,1,o
+60079,150336272,,,"FALOMO,RUTH",6/25/1967,58,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",26.61,,0,1,1,1,1,1,o
+60080,150332604,,,"JONES,COURTNEY",12/4/2003,22,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",26.63,,0,1,1,1,0,1,o
+60081,150331914,,history of ABI,"WOODS,LATORSHA MARSHALL",9/18/1979,46,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",31.89,,1,1,1,1,0,1,o
+60082,150330004,,,"VELASCO,MARIA",8/21/1963,62,Female,"Hispanic
+Unknown","Mexican, Mexican American, or Chicano/a",26.78,,1,1,1,1,1,1,o
+60083,150329809,,,"CARDON,LEE",10/29/1955,70,Male,White,"Not Hispanic, Latino/a, or Spanish origin",32.59,,1,1,1,1,0,1,o
+60084,150327801,,,"Pham,Katy ",10/29/2006,19,Female,Vietnamese,"Not Hispanic, Latino/a, or Spanish origin",19.2,,0,1,1,1,1,1,o
+60086,150324645,,,"SIDDIQUI,ASIMA ZAHRA",6/3/1956,69,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",27.93,,1,1,1,1,1,1,o
+60087,150324618,,,"SANCHEZ,ELSA G",9/13/1976,49,Female,Hispanic,Hispanic or Latino,36.2,,0,1,1,1,0,1,o
+60088,150321983,,,"KENWARD,KAYDON",11/20/2003,22,Female,White,"Other Hispanic, Latino/a, or Spanish origin",19.32,,0,1,1,1,0,1,o
+60089,150321286,,,"MONETTE,MALCOM",12/1/2003,22,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",25.55,,0,1,1,1,1,1,o
+60090,150320293,,concerns of hypoxic brain injury,"JEFFERSON,RONNIE",9/7/1959,65,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",23.39,,1,1,0,1,1,1,YES
+60091,150309368,,,"LOVE,CHRISTY LEIGH",7/21/1981,44,Female,White,"Not Hispanic, Latino/a, or Spanish origin",38.44,,1,1,1,1,1,1,o
+60092,150309074,,,"JENSEN,STEPHANIE",5/16/1981,44,Female,White,"Not Hispanic, Latino/a, or Spanish origin",36.72,,0,1,1,1,1,1,o
+60093,150308830,,,"HOLMES,WILLIE HERMAN IV",12/29/1963,61,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",30.38,,1,1,1,1,1,1,o
+60094,150308776,,they said to assess for it,"THOMPSON,GERGINA",9/28/1963,62,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",23.45,,1,1,0,1,1,1,YES
+60095,150308621,,,"STROMAN,SHANNON WAYNE",7/2/1970,55,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",28.29,,1,1,1,1,1,1,o
+60096,150304913,,,"VECCHIO,DAVID",1/24/1954,71,Male,White,"Not Hispanic, Latino/a, or Spanish origin",31.14,,1,1,1,1,0,1,o
+60097,150304705,,"""suggestive of it""","NELSON,NIKCOL",8/23/1979,45,Female,White,"Not Hispanic, Latino/a, or Spanish origin",30.54,,1,1,1,1,0,1,o
+60098,150301680,,,"SINGLETON,JUDY",11/7/1956,69,Female,White,"Not Hispanic, Latino/a, or Spanish origin",21.98,,1,1,1,1,1,1,o
+60099,150301100,,,"CABRERA-GOMEZ,JAVIER",1/31/1979,46,Male,Other,Hispanic or Latino,24.24,,1,1,1,1,1,1,o
+60100,150296637,,likely due to ABI,"RAUDA,ARIANNA A",11/14/2001,23,Female,Other,Unknown,38.52,,1,1,1,1,1,1,o
+60101,150293949,,,"WASHINGTON,CASSANDRA RENEE",10/7/1960,65,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",37.22,,1,1,1,1,1,1,o
+60102,150292758,,could represent a sequela of global anoxic injury,"SPIVEY,BRIAN RASHAD",5/20/1978,47,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",39.2,,0,1,0,1,1,1,o
+60103,150291182,,slightly atypical of it,"ALEXANDER,SHEILA",6/27/1950,75,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",35.01,,1,1,0,1,1,1,YES
+60104,150290815,,,"JONES,APRIL EREICE",10/1/1968,57,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",35.21,,0,1,0,1,0,1,o
+60106,150284898,,,"SIMS,TRAILYN",10/30/2004,21,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",16.31,,0,1,1,1,1,1,o
+60107,150277229,,,"RIZALEZ CRUCES,MARITZA DEL VALLE",1/12/1959,66,Female,Other,Hispanic or Latino,29.42,,1,1,1,1,1,1,o
+60109,150268547,,,"CAMP,CARRIE",2/2/1971,54,Female,White,"Not Hispanic, Latino/a, or Spanish origin",36.06,,1,1,1,1,1,1,o
+60110,150254793,,,"HARMON,JUAN",9/29/1965,60,Male,Hispanic,Hispanic or Latino,25.67,,1,1,0,1,0,1,YES
+60111,150248768,,,"MICHEL,KAREN LEE",8/25/1956,68,Female,"Other
+White","Not Hispanic, Latino/a, or Spanish origin",27.86,,1,1,0,1,1,1,YES
+60112,150247570,,,"PILLOW,JOHN GRAHAM II",10/16/1965,60,Male,White,"Not Hispanic, Latino/a, or Spanish origin",31.34,,1,1,0,1,0,1,YES
+60113,150246094,,,"SALAZAR,RAMIRO ISRAEL JR.",10/20/1958,67,Male,Hispanic,"Not Hispanic, Latino/a, or Spanish origin",34.23,,1,1,1,1,1,1,o
+60114,150246082,,,"Patillo,Schannell Schannell",1/11/1970,55,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",28.13,,1,1,1,1,0,1,o
+60115,150245171,,,"PEREZ,SETURNINA ALBA",4/9/1954,71,Female,Other,Hispanic or Latino,42.38,,1,1,1,1,1,1,o
+60116,150243071,,can be secondary to ABI,"DECKARD,IVY M",9/6/1949,76,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",39.63,,1,1,0,1,1,1,YES
+60117,150239969,,,"JOHANNES,IAN",10/10/1944,81,Male,White,"Not Hispanic, Latino/a, or Spanish origin",29.13,,1,1,1,1,1,1,o
+60118,150239779,,,"VILLANUEVA,NANCY",9/1/1992,33,Female,Hispanic,Hispanic or Latino,23.87,,1,1,1,1,1,1,o
+60119,150236237,,,"ABURTO,LUIS",8/25/1964,60,Male,Hispanic,Hispanic or Latino,28.7,,1,1,1,1,1,1,o
+60120,150233191,,,"MARTIN,SUSAN",7/8/1946,79,Female,White,"Not Hispanic, Latino/a, or Spanish origin",27.22,,1,1,1,1,1,1,o
+60121,150232679,,,"Lopez,Rolando ",1/20/1977,48,Male,White,"Mexican, Mexican American, or Chicano/a",22.24,,0,1,1,1,1,1,o
+60122,150229322,,,"DAVIS,RAYMOND JR.",2/9/1986,39,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60123,150218090,,,"ROGERS,PAULINE RENEE",10/8/1962,63,Female,Black or African American,"Other Hispanic, Latino/a, or Spanish origin",25,,1,1,1,1,1,1,o
+60124,150216811,,,"FORD,JALEN T",12/17/1997,28,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",21.52,,0,1,1,1,1,1,o
+60125,150215804,,,"ACOSTA,CAROLINA C",8/24/1967,58,Female,Other,"Mexican, Mexican American, or Chicano/a",40.63,,1,1,1,1,0,1,o
+60126,150215544,,,"SCOTT,RACHAEL LORIECE",10/20/1996,29,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",31.32,,0,1,0,1,1,1,o
+60127,150212134,,,"SCHMITZ,LORI",12/21/1962,63,Female,White,"Not Hispanic, Latino/a, or Spanish origin",28.43,,0,1,1,1,0,1,o
+60129,150208272,,,"DEAR,MARIO",2/15/1992,33,Male,White,"Not Hispanic, Latino/a, or Spanish origin",21.14,,0,1,1,1,1,1,o
+60130,150207687,,,"LEWIS,DAVID",3/1/1969,56,Male,Black or African American,Unknown,67.76,,1,1,1,1,0,1,o
+60131,150191349,,,"OLENDORF,FORREST",7/31/1973,52,Male,White,"Not Hispanic, Latino/a, or Spanish origin",25.85,,0,1,1,1,0,1,o
+60132,150172162,,,"ESTRADA,ARMANDO",3/6/1961,63,Male,Hispanic,Hispanic or Latino,30.55,,1,1,1,1,0,1,o
+60133,150171872,,,"MEDER,CRYSTAL",1/11/1974,51,Female,Unknown,Unknown,25.7,,1,1,1,1,0,1,o
+60135,150170106,,,"STEFANAKIS,NIKOLAOS G",11/11/1971,54,Male,Other,"Mexican, Mexican American, or Chicano/a",26.17,,0,1,1,1,1,1,o
+60136,150159126,,,"MARTIN,LUKATA",12/12/1973,52,Male,White,"Not Hispanic, Latino/a, or Spanish origin",18.54,,0,1,1,1,0,1,o
+60137,150152495,,,"AGUILAR,LISETTE",1/29/2002,23,Female,White,Hispanic or Latino,27.28,,0,1,1,1,1,1,o
+60138,150151117,,,"ALJREERE,EMAD Y A",2/1/1961,64,Male,Asian Indian,"Not Hispanic, Latino/a, or Spanish origin",27.14,,1,1,1,1,1,1,o
+60139,150148841,,,"VERVILLE,ROGER",11/17/1941,83,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",33.31,,1,1,1,1,0,1,o
+60140,150148041,,,"LOEB,DELMA GUILLORY",4/27/1941,84,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",26.56,,1,1,1,1,0,1,o
+60142,150143928,,,"CORAKIS,CHRISTOS CHRIS DEMITRIO",8/8/1946,79,Male,White,Unknown,33.27,,0,1,1,1,1,1,o
+60143,150141447,,,"GONZALEZ,RAMON",6/29/1976,49,Male,Hispanic,Hispanic or Latino,21.31,,1,1,1,1,0,1,o
+60144,150136328,,,"HAWKINS,RICHARD",10/9/1977,48,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",27.94,,1,1,0,1,1,1,YES
+60145,150133368,,,"KUMAGA,MITCHELL",4/29/1960,65,Male,Unknown,Unknown,31.48,,1,1,1,1,1,1,o
+60146,150127447,,,"COPADO RODRIGUEZ,JUAN LUIS",6/24/1950,75,Male,White,Hispanic or Latino,25.78,,1,1,1,1,1,1,o
+60147,150126364,,,"MOODY MARCUS,DAKOTA",7/20/2006,19,Female,American Indian or Alaska Native,"Other Hispanic, Latino/a, or Spanish origin",17.18,,1,1,1,1,1,1,o
+60148,150124082,,,"SMOTHERMAN,BRUCE A",2/4/1961,64,Male,White,"Not Hispanic, Latino/a, or Spanish origin",24.86,,1,1,0,1,1,1,YES
+60149,150121250,,,"MCCONNEL,BRANDON SCOTT",3/6/1978,46,Male,Unknown,Unknown,45.57,,1,1,1,1,0,1,o
+60150,150118223,,,"HERNANDEZ,GISELL",5/14/2003,22,Female,"Hispanic
+Other",Hispanic or Latino,25.39,,0,1,1,1,0,1,o
+60152,150114318,,,"LEMUS,RAQUEL",5/27/1947,77,Female,White,Hispanic or Latino,21,,1,1,1,1,1,1,o
+60153,150114280,,,"DAVIDSON,RAMON CHRISTOPHER",9/22/1975,50,Male,Black or African American,Unknown,31.63,,1,1,1,1,0,1,o
+60154,150113382,,,"CHAVALOC PUAC,FELIPE HILARIO",2/26/1983,42,Male,Hispanic,Hispanic or Latino,26.84,,1,1,1,1,0,1,o
+60155,150111095,,,"MITHANI,HUMEIRA",3/24/1974,51,Female,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",28.76,,0,1,1,1,1,1,o
+60156,150108872,,,"SANCHEZ,LUCIO",3/15/1967,57,Male,"Other
+White","Not Hispanic, Latino/a, or Spanish origin",34.44,,1,1,1,1,0,1,o
+60157,150105347,,,"LUU,SIEU",9/27/1965,60,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",21.94,,0,1,1,1,1,1,o
+60158,150103495,,,"JENKS,GARY MELVIN",7/2/1963,61,Male,White,"Not Hispanic, Latino/a, or Spanish origin",27.9,,1,1,1,1,1,1,o
+60159,150103290,,,"SHAH,DEEPAK GOLPADAS",12/17/1956,68,Male,Asian Indian,"Not Hispanic, Latino/a, or Spanish origin",31.07,,1,1,1,1,0,1,o
+60160,150102977,,,"LARA,PABLO",7/2/1972,53,Male,Other,Hispanic or Latino,23.57,,1,1,1,1,1,1,o
+60161,150100977,,,"MOSES,SHERRY",6/3/1957,67,Female,White,"Not Hispanic, Latino/a, or Spanish origin",29.66,,1,1,1,1,0,1,o
+60162,150099986,,,"MANRIQUE,JUAN DOMINGO",8/1/1977,48,Male,Hispanic,Hispanic or Latino,33.53,,0,1,1,1,1,1,o
+60163,150098549,,,"HARLAN,BOYACE",6/26/1954,70,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",21.13,,1,1,1,1,1,1,o
+60164,150096675,,in a different study,"BUSH,STEPHANIE",7/23/1974,51,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",26.82,,0,1,1,1,0,1,o
+60165,150092767,,possible ABI,"QATTOUM,AYOUB S",7/11/1964,61,Male,Asian Indian,"Not Hispanic, Latino/a, or Spanish origin",22.5,,1,1,0,1,0,1,YES
+60166,150083425,,,"OLIVA,JOSE",3/9/1965,60,Male,Hispanic,Hispanic or Latino,26.76,,1,1,1,1,1,1,o
+60167,150083025,,in a different study,"HUMPHREY,BRODERICK ELLIS",5/6/1990,35,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",40.55,,1,1,1,1,1,1,o
+60168,150078835,,,"CRUZ,JOSEPHINE",9/22/1961,64,Female,Other Asian American,"Not Hispanic, Latino/a, or Spanish origin",37.02,,0,1,1,1,1,1,o
+60169,150076389,,,"SOLIS,ABIGAIL",10/7/2005,20,Female,Hispanic,Hispanic or Latino,25.86,,0,1,1,1,1,1,o
+60170,150073031,,,"SANFELIPE,LARRY JOSEPH",1/25/1954,70,Male,White,"Other Hispanic, Latino/a, or Spanish origin",32.79,,1,1,1,1,0,1,o
+60171,150072364,,,"COLEMAN,DENISE",10/17/1982,42,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",43.26,,1,1,1,1,1,1,o
+60173,150067329,,,"ARROYO EVANGELISTA,ALBERTO",12/15/1966,59,Male,Other,Hispanic or Latino,25.8,,1,1,1,1,0,1,o
+60174,150062031,,concerning for ABI???,"BROWN,LATRESSA",1/2/1960,65,Female,"Black or African American
+Unknown","Not Hispanic, Latino/a, or Spanish origin",17.32,,1,1,1,1,0,1,o
+60175,150061875,,,"LANE,MADISON",6/11/1956,69,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",29.57,,1,1,1,1,1,1,o
+60176,150059917,,,"FOWLER,MEGAN",7/10/1991,34,Female,"Unknown
+White","Not Hispanic, Latino/a, or Spanish origin",43.94,,1,1,1,1,1,1,o
+60177,150057662,,,"BROWN,RODNEY LOUIS",12/16/1966,59,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",25.42,,1,1,1,1,1,1,o
+60178,150055325,,,"AVERY,PATRICC",10/25/1991,34,Male,White,"Not Hispanic, Latino/a, or Spanish origin",18.31,,0,1,1,1,1,1,o
+60181,150049166,,concern for ABI,"KILPATRICK,SONNY",3/21/1969,56,Male,White,"Not Hispanic, Latino/a, or Spanish origin",30.81,,0,1,0,1,0,1,o
+60182,150045737,,,"AHMED,LINDA",1/20/1964,61,Female,White,"Not Hispanic, Latino/a, or Spanish origin",35.68,,1,1,1,1,1,1,o
+60183,150038539,,evaluation alluded to ABI,"HARPER,FAYE",3/28/1938,86,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",31.63,,1,1,1,1,1,1,o
+60185,150032435,,,"POPE,NEIL",5/22/1968,57,Male,White,Unknown,20.81,,1,1,1,1,0,1,o
+60186,150032047,,,"PARKER,TONY",12/4/1981,44,Male,Unknown,Unknown,28.63,,1,1,1,1,0,1,o
+60187,150028129,,,"LE,HOANG",12/31/1967,56,Male,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",23.67,,1,1,1,1,0,1,o
+60189,150025589,,,"COSTOPPEREZ,ARNULFO",8/15/1967,58,Male,Unknown,Unknown,21.48,,1,1,1,1,0,1,o
+60190,150022626,,,"GARZA,MANUEL",7/19/1974,51,Male,Other,Hispanic or Latino,27.7,,0,1,1,1,0,1,o
+60191,150018893,,,"WYSE,GWENDOLYN RENA",4/3/1964,61,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",25.69,,0,1,1,1,1,1,o
+60192,150017473,,concern for ABI,"FOXTROT,TEAL OVAL",1/1/1901,124,Male,Unknown,Unknown,23.66,,1,1,1,1,0,1,o
+60193,150013254,,,"COLLINS,PAUL",8/24/1991,34,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",29.89,,1,1,1,1,1,1,o
+60194,150010443,,,"RODRIGUEZ MENDOZA,GUILLERMO ALEXANDER",3/26/1979,45,Male,Other,Hispanic or Latino,47.47,,1,1,1,1,0,1,o
+60195,150007161,,,"MATTHEWS,BERYAL LEE",10/6/1984,41,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",28.17,,0,1,0,1,0,1,o
+60196,150004819,,,"IRIZARRY,MICHAEL",4/4/1989,36,Male,Unknown,Unknown,22.81,,1,1,1,1,0,1,o
+60197,150000432,,,"WILLIAMS,ROBERT",12/18/1955,68,Male,Other,Unknown,20.37,,1,1,1,1,1,1,o
+60201,85622098,,,"BROWNE,KEVIN WADE",1/24/1964,60,Male,White,"Not Hispanic, Latino/a, or Spanish origin",28.18,,1,1,1,1,0,1,o
+60202,85619565,,,"Crayton,Brandon ",2/1/1989,36,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",12.93,,0,1,1,1,1,1,o
+60203,85610482,,,"HERNANDEZ HIDALGO,HECTOR ANDRES",12/10/1946,79,Male,"Hispanic
+White","Not Hispanic, Latino/a, or Spanish origin",36.14,,1,1,1,1,1,1,o
+60204,85605465,,MRI 12/26/23 confirm,"EVANS,JAMES ALTON",9/11/1963,62,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60205,85604793,,ABI cannot entirely be excluded,"LAWSON,NOMETTA LINYEAR",10/21/1951,74,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",30.92,,1,1,0,1,0,1,YES
+60206,85604629,,,"Taylor,Dennis ",7/15/1967,58,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",23.27,,1,1,1,1,1,1,o
+60207,85603191,,,"McJunkin,Mike Michael",1/17/1950,75,Male,White,"Not Hispanic, Latino/a, or Spanish origin",20.67,,0,1,0,1,0,1,o
+60208,85571911,,"search for ""anoxic"" not showing results","MARQUEZ,GENEVIEVE",7/16/1969,56,Female,Other,Hispanic or Latino,29.94,,0,1,1,1,0,1,o
+60209,85555938,,,"SABOM,KATHERINE",3/24/1971,54,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",20.26,,1,1,1,1,1,1,o
+60210,85536250,,,"STREDIC,VELMA R",4/1/1939,86,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+60211,85531648,,,"CARTER,DANITA",9/12/1948,77,Female,White,Decline to Answer,27.97,,1,1,0,1,0,1,YES
+60212,85530361,,,"AFTAB,RIFFAT JABEEN",7/1/1945,80,Female,Asian Indian,"Not Hispanic, Latino/a, or Spanish origin",44.26,,1,1,1,1,1,1,o
+60213,85519324,,may represent ABI,"Jones,Kathleen G",5/16/1950,75,Female,White,"Not Hispanic, Latino/a, or Spanish origin",35.92,,1,1,0,1,0,1,YES
+60214,85510092,,ABI cannot be entirely excluded,"HERRING,GARY DALE",3/24/1942,83,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60215,85493937,,,"JUAREZ,MARIA DEJESUS",2/22/1959,66,Female,Other,Hispanic or Latino,27.06,,1,1,0,1,1,1,YES
+60216,85470563,,possible ABI,"BHUTTO,NASREEN AIJAZ",11/15/1954,71,Female,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",25,,0,1,0,1,1,1,o
+60217,85468529,,,"JACKSON,DESSERICK JARMAINE",3/9/1975,50,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",25.02,,0,1,1,1,1,1,o
+60218,85446720,,,"SCHINDLER,MISTY RENE",9/20/1972,53,Female,"Other
+White","Not Hispanic, Latino/a, or Spanish origin",24.86,,0,1,1,1,1,1,o
+60219,85422848,,"significant concern for ABI, but died","GARCIA,MAXIMO",10/25/1937,88,Male,Other,Hispanic or Latino,33.1,,1,1,1,1,0,1,o
+60220,85413340,,cerebellar infarction i think is the same as ABI,"BARRON-CORONADO,EUSTACIO",4/15/1944,81,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",27.46,,0,1,1,1,1,1,o
+60221,85386821,,,"EMBERS,MEISHAR EMBERS",8/7/1971,54,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",38.09,,0,1,1,1,1,1,o
+60222,85374380,,no specific indication of it,"GUPTA,SHRUTI",6/27/1983,42,Female,American Indian or Alaska Native,"Not Hispanic, Latino/a, or Spanish origin",23.29,,0,1,0,1,0,1,o
+60223,85326116,,,"BONNER,EDWARD THOMAS",2/6/1944,81,Male,White,"Not Hispanic, Latino/a, or Spanish origin",19.46,,0,1,0,1,0,1,o
+60224,85295734,,,"TA,HIEP NGHIA",4/9/1970,54,Male,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",26.04,,1,1,1,1,1,1,o
+60225,85294590,,,"WHITSITT,JOHN RICHARD",11/14/1960,63,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+60226,85273387,,,"FORTUNE,DIRK B",3/4/2004,21,Male,White,"Not Hispanic, Latino/a, or Spanish origin",24.58,,0,1,1,1,1,1,o
+60227,85270920,,cannot be excluded,"MCMENEMY,GUY",11/6/1931,92,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,0,1,0,1,YES
+60228,85218237,,,"WALDO,MINNIE",1/26/1955,69,Female,White,"Not Hispanic, Latino/a, or Spanish origin",27.59,,1,1,1,1,0,1,o
+60229,85203441,,,"SPENCER,ALEXANDRA A",12/1/1997,28,Female,White,"Not Hispanic, Latino/a, or Spanish origin",26.71,,1,1,1,1,0,1,o
+60230,85178465,,,"MURTAGH,BRIAN D",2/19/1965,60,Male,American Indian or Alaska Native,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60232,85163352,,,"MONTALVO,JOSE",9/21/1939,85,Male,White,"Not Hispanic, Latino/a, or Spanish origin",22.29,,1,1,1,1,0,1,o
+60233,85142406,,,"VARVARIS,IRENE",8/23/1968,57,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60234,85142124,,,"RICHARDSON,CAROLINE MEVIN LOUISE",12/6/1946,78,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",34.46,,1,1,1,1,1,1,o
+60235,85134063,,,"HERNANDEZ,ANJELIKA JUANITA",11/7/1990,35,Female,Other,Hispanic or Latino,43.52,,0,1,0,1,0,1,o
+60236,85133173,,,"NWOKOLO,CHIMA",11/6/1980,45,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",33.96,,1,1,1,1,0,1,o
+60237,85128885,,,"MORRIS,ELLA GRAY",7/24/1938,87,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",20.56,,0,1,0,1,0,1,o
+60238,85082090,,,"NOYES,LAURIE BERTOLLO",11/15/1960,65,Female,White,"Not Hispanic, Latino/a, or Spanish origin",28.43,,1,1,1,1,1,1,o
+60239,85018933,,abnormal appears could be due to this,"MCNEIL,GREGORY WAYNE",5/8/1967,58,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",31.89,,0,1,0,1,1,1,o
+60240,61071292,,,"James,Rita Decuier",9/4/1958,67,Female,"Black or African American
+Unknown","Not Hispanic, Latino/a, or Spanish origin",38.66,,0,1,1,1,1,1,o
+60241,61030645,,,"WASINGER,JAMES THOMAS JR.",9/15/1950,75,Male,White,"Not Hispanic, Latino/a, or Spanish origin",26.45,,1,1,0,1,0,1,YES
+60242,61010916,,,"SCOTT,RANISHA MARIE",7/21/1982,41,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+60243,61004955,,cannot entirely be excluded,"AMAJDAWEE,YASIR H",1/10/1952,73,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",16.32,,0,1,0,1,0,1,o
+60244,55805086,,,"WILLIAMS,GEORGE",12/14/1944,81,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",16.35,,0,1,1,1,1,1,o
+60245,55804103,,,"GRAY,DELORES",8/10/1954,69,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+60246,55801539,,,"BOWREN,CHRISTINE",11/30/1952,73,Female,"Unknown
+White","Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60247,55800261,,clinical indication: anoxic brain injury so I guess so,"GIBBS,GERALD",11/22/1958,67,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60248,55798162,,,"PRICE,WILLIAM J JR.",9/20/1946,77,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+60249,55795738,,,"CARRANZA,ROXANNE",6/2/1987,38,Female,Other,Hispanic or Latino,23.3,,0,1,0,1,0,1,o
+60250,55795400,,,"DAVILA,PEDRO",9/6/1967,56,Male,"Unknown
+White","Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+60251,55794741,,,"BRANCH,SIJAAMA TANA",1/2/1962,62,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+60252,55791763,,,"Rowland,Max or Mr. Rowland Jeffrey",2/16/1980,45,Male,White,"Not Hispanic, Latino/a, or Spanish origin",30.81,,0,1,0,1,1,1,o
+60253,55791596,,negative for infarct,"GONZALEZ,JUANA",4/28/1988,37,Female,White,Hispanic or Latino,30.83,,0,1,0,1,1,1,o
+60254,55791474,,,"KEYS,SAMUEL DESHAWN",7/12/1990,35,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",27.82,,0,1,1,1,1,1,o
+60255,55787130,,,"DUGUE,SANDER",7/12/1986,39,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60256,55786499,,,"ROUGEAU,SHARITA LASHAWN",11/16/1976,49,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",31.4,,0,1,1,1,0,1,o
+60257,55785417,,,"MULLALLY,JOSEPH KEVIN",3/4/1958,67,Male,White,"Not Hispanic, Latino/a, or Spanish origin",25.05,,0,1,1,1,1,1,o
+60258,55778718,,,"TORREGROSSA,FRANK",4/21/1985,40,Male,White,"Not Hispanic, Latino/a, or Spanish origin",26.63,,0,1,1,1,0,1,o
+60259,55778075,,,"DAVIS,PAULINE JENKINS",12/30/1955,69,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",36.98,,0,1,1,1,1,1,o
+60260,55777953,,"search for ""anoxic"" not showing results","PARKER,GARY D",9/22/1967,58,Male,White,"Not Hispanic, Latino/a, or Spanish origin",31.09,,1,1,1,1,1,1,o
+60261,55777908,,,"AMICK,PATRICK MATHEW",2/15/1973,51,Male,White,"Not Hispanic, Latino/a, or Spanish origin",33.98,,1,1,1,1,1,1,o
+60262,55774959,,,"MOSLEY,FREDERICK LOUIS",8/17/1955,70,Male,Unknown,Unknown,,,0,1,1,1,1,1,o
+60263,55773556,,,"TRAN,ASHLEIGH THU",10/15/1969,56,Female,Unknown,Unknown,,,0,1,1,1,1,1,o
+60264,55772514,,,"WATSON,STEPHANIE",2/8/1972,53,Female,Unknown,Unknown,,,0,1,1,1,1,1,o
+60265,55772147,,,"HIGGS,DARIN LEE",7/19/1966,59,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",26.7,,0,1,0,1,0,1,o
+60266,55771953,,,"Madison,Keith ",9/4/1954,71,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",31,,0,1,1,1,1,1,o
+60267,55767406,,,"JACKSON,TAYLAR JANELLE",5/19/1993,30,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+60268,55764289,,,"MOLBERT,MICHAEL W",7/16/1969,56,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60269,55763325,,,"THOMPSON,LEONARD JUNIOR",1/9/1970,55,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",30.61,,1,1,1,1,1,1,o
+60270,55761790,,,"VENTIMIGLIA,STEVEN J",6/21/1989,36,Male,White,"Not Hispanic, Latino/a, or Spanish origin",33,,0,1,1,1,0,1,o
+60271,55757760,,,"HENRY,DAVID NEVELS",12/20/1939,85,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",21.61,,1,1,1,1,1,1,o
+60272,55755201,,,"JAMAL,AATIKA",1/15/1997,28,Female,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",20.66,,0,1,0,1,0,1,o
+60273,55754912,,,"ADAMS,TODD ANTHONY",10/18/1973,52,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+60274,55750874,,,"BERNARD,MARY ELIZABETH",10/17/1953,72,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",19.52,,0,1,0,1,1,1,o
+60275,55748080,,"CT 10/21/23 ""acute cognitive change/cardiac arrest concern for anoxic brain injury""","LOPEZ,KRYSTAL DANIELLE",12/13/1991,34,Female,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",31,,0,1,0,1,0,1,o
+60276,55746860,,,"HINES,GABRIEL",8/27/1981,44,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60277,55746817,,cannot entirely be excluded,"LONG,DANIEL RAY",8/1/1984,41,Male,Unknown,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60278,55745096,,,"PHAM,THANH",2/20/1931,94,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",22.39,,1,1,0,1,0,1,YES
+60279,55742849,,,"JEMISON POLLARD,DIANNE F",12/2/1948,77,Female,Unknown,Unknown,24.44,,0,1,0,1,1,1,o
+60280,55740160,,,"CORNELIUS,DAVID L",8/13/1943,80,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+60281,55739522,,,"DALEY,MICHAEL L",4/12/1978,47,Male,White,"Not Hispanic, Latino/a, or Spanish origin",18.85,,0,1,1,1,1,1,o
+60282,55739029,,,"LARA,JOSE MERCED",6/27/1969,56,Male,Other,Hispanic or Latino,,,0,1,1,1,0,1,o
+60283,55733788,,cannot entirely be excluded,"PEGUES,CASSANDRA B",11/14/1971,54,Female,Unknown,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60284,55733157,,,"BORJAS,DAVID",8/2/1947,78,Male,Unknown,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60285,55731757,,,"ELLIS,SARA ELIZABETH",1/9/1959,65,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+60286,55730313,,,"JOHNSON,RAY E",1/7/1951,74,Male,Unknown,Unknown,,,0,1,1,1,1,1,o
+60287,55728214,,,"VO,NHU NGOC THI",11/25/1970,55,Female,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",25.26,,0,1,1,1,1,1,o
+60288,55726508,,,"JONES,LASONYA K",6/25/1980,45,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",26,,1,1,1,1,0,1,o
+60289,55725224,,,"NGO,MY THI",4/12/1940,85,Female,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60290,55720335,,,"HAYNES,KEITH",8/21/1955,70,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60291,55720129,,,"WOODARD,TOM",12/15/1932,91,Male,Unknown,"Not Hispanic, Latino/a, or Spanish origin",25.88,,1,1,0,1,0,1,YES
+60292,55718767,,,"CUEVAS JR,JERRY",3/1/2002,23,Male,Other,Hispanic or Latino,31.94,,0,1,0,1,1,1,o
+60293,55718306,,,"MARSHALL,TOMMY JAMES",3/17/1984,41,Male,Unknown,Unknown,,,0,1,1,1,0,1,o
+60294,55718234,,,"FRAZIER,POLLY CHEESMAN",1/20/1954,71,Female,White,"Not Hispanic, Latino/a, or Spanish origin",24.56,,0,1,0,1,1,1,o
+60295,55716188,,,"URBINA ARAGON,EMELINA",9/15/1954,71,Female,Other,Hispanic or Latino,27.12,,1,1,1,1,1,1,o
+60296,55714785,,,"RICHARDSON,JEFFERY DAVID",9/30/1971,54,Male,White,"Not Hispanic, Latino/a, or Spanish origin",28.26,,0,1,0,1,1,1,o
+60297,55709403,,,"CARTER,CARL EDWARD",4/3/1945,80,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+60298,55708792,,,"YBARRA,GUADALUPE G",2/27/1952,73,Male,Other,Hispanic or Latino,30.17,,0,1,1,1,1,1,o
+60299,55706788,,,"Lee,Erchelia ",8/4/1977,48,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",15.99,,1,1,1,1,1,1,o
+60300,55705455,,,"HAYES,KRISTIE MONIQUE",3/22/1982,43,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",22.49,,0,1,1,1,1,1,o
+60301,55695770,,,"BELLARD,DEBRA ANN",12/9/1960,65,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",35.56,,0,1,1,1,1,1,o
+60302,55694558,,,"WHITAKER,MARY M",10/14/1948,75,Female,White,"Not Hispanic, Latino/a, or Spanish origin",48.56,,1,1,1,1,1,1,o
+60303,55693867,,,"KHAN,OUSMAN",1/30/1942,83,Male,Other,Unknown,25.57,,1,1,1,1,0,1,o
+60304,55692916,,,"NGUYEN,JOHN HUNG TRI",12/29/1959,65,Male,Unknown,Unknown,,,0,1,1,1,1,1,o
+60305,55688880,,,"RODRIGUEZ,MARIA MARGOTH",8/20/1954,71,Female,Hispanic,Hispanic or Latino,21.95,,0,1,1,1,0,1,o
+60306,55683859,,cannot entirely be excluded,"POTTS,KAY FRANCIS",10/3/1955,70,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",34.3,,0,1,0,1,0,1,o
+60307,55681763,,component of ABI is possible,"BERRIOS,JOSE",4/2/1970,55,Male,Unknown,Unknown,,,0,1,0,1,1,1,o
+60308,55677908,,talk about normal deterioration of the brain with age,"ROBLES,ROSA VIOLANDA",1/6/1951,74,Female,Unknown,Unknown,,,0,1,0,1,0,1,o
+60309,55677276,,,"SUTTONMOTLEY,SHANNON",8/13/1970,54,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+60310,55673399,,cannot entirely be excluded,"CREAR,ROSE",7/29/1969,56,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60311,55673020,,,"MARSHALL,ANESTA",7/25/1966,59,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",21.87,,0,1,0,1,1,1,o
+60312,55671449,,,"CRUZ,ANDRES A",11/25/1960,65,Male,Other,Hispanic or Latino,22.81,,0,1,0,1,1,1,o
+60313,55669803,,,"RIVERA,DIANA MARIE",12/7/1964,61,Female,Unknown,Unknown,,,0,1,1,1,0,1,o
+60314,55665523,,cannot entirely be excluded,"MATTHEWS,KATINA TYLER",8/14/1972,53,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",28.13,,0,1,0,1,1,1,o
+60315,55660968,,,"HOUSTON,SHARON DIANE",1/12/1964,61,Female,Unknown,Unknown,27.69,,0,1,0,1,0,1,o
+60316,55658562,,"enhancing lesions and severe diffuse white matter disease but could be cancer, not necessarily ABI","SMITH,ARLENE",3/15/1955,70,Female,Unknown,Unknown,27.64,,0,1,0,1,1,1,o
+60317,55658414,,,"JIYAVIA,HARSHANG MANOJKUMAR",5/1/1990,35,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",22.2,,0,1,1,1,0,1,o
+60318,55658279,,,"FLETCHER-KIEL,STEPHANIE DIANE",4/20/1963,62,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",26.69,,1,1,1,1,1,1,o
+60319,55658213,,,"SALMERON,PATRICIA ALMEIDA",9/2/1964,61,Female,Other Asian,Hispanic or Latino,,,0,1,1,1,1,1,o
+60320,55656767,,cannot entirely be excluded,"HORTON,JAMES",12/10/1970,55,Male,Unknown,Unknown,,,0,1,0,1,1,1,o
+60321,55654225,,,"BIGGS,AARON K",6/22/1984,41,Male,Unknown,Unknown,,,0,1,1,1,1,1,o
+60322,55653672,,,"WHITE,SHANTEL ANNETTE",1/30/1979,46,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60323,55651740,,cannot entirely be excluded,"MAJOR,MICHAEL",10/26/1976,49,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60324,55651566,,,"WALKER,SAMUEL",2/8/1943,81,Male,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",20.18,,1,1,1,1,0,1,o
+60325,55650590,,,"HONEYCUTT,GARY",10/5/1948,77,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60326,55650301,,,"AKEL,MARY G",11/17/1947,78,Female,White,Unknown,23.33,,0,1,0,1,1,1,o
+60327,55649773,,cannot entirely be excluded,"BELL,GARY",12/12/1962,63,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",32.89,,0,1,0,1,0,1,o
+60328,55648475,,"search for ""anoxic"" not showing results, mild chronic microvascular ischemic changes is the closest i found","Dressen,Steve Richard",4/30/1963,61,Male,White,"Not Hispanic, Latino/a, or Spanish origin",24.2,,1,1,0,1,1,1,YES
+60329,55647403,,,"THOMAS,KAFARA K",12/11/1977,48,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",45.91,,1,1,1,1,1,1,o
+60330,55646439,,,"FRANSAW,CARLA",6/3/1973,52,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60331,55645621,,wihtout evidence of ABI,"BIRKENFELD,KENNETH LEE",9/20/1971,54,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60332,55643232,,,"LEE,LARRY",3/9/1937,88,Male,Unknown,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60333,55641109,,nothing raising concern for ABI,"Rodriguez,Alan Alberto",8/28/1985,40,Male,Hispanic,Hispanic or Latino,35.73,,0,1,0,1,0,1,o
+60334,55638379,,,"DUDUYEMI,AFOLABI",8/14/1990,35,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",26.99,,0,1,1,1,1,1,o
+60335,55635867,,cannot entirely be excluded,"MARTINEZ,CARLOS",9/27/1962,63,Male,Unknown,Unknown,,,0,1,0,1,0,1,o
+60336,55634487,,,"LOPEZ HERNANDEZ,AMANDO",9/5/1973,52,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60337,55628363,,,"NZENWA,GINIKACHUKWU",6/6/1996,29,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",38.08,,0,1,1,1,1,1,o
+60338,55624523,,,"TREJO,MARIA E",8/22/1954,71,Female,Unknown,Unknown,,,0,1,1,1,0,1,o
+60339,55623452,,No CT evidence for ABI,"RODRIGUEZ,JUANITA M",7/17/1968,57,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60340,55616061,,,"AARON,LINDA",6/27/1958,67,Female,Black or African American,Hispanic or Latino,,,0,1,1,1,1,1,o
+60341,55611416,,mild chronic microangiopathy and temporal volume loss but shes 91 y/o,"RAYSON,MARJORIE BELL",5/15/1934,91,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+60342,55610074,,,"FIELDER,IMANI",5/25/2003,22,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60343,55607154,,,"VALDEZ,EVA",9/16/1963,62,Female,White,Hispanic or Latino,,,0,1,0,1,0,1,o
+60344,55602491,,,"RYBARCZYK,MARK",4/21/1955,70,Male,Unknown,Unknown,,,0,1,1,1,1,1,o
+60345,55598456,,without definite findings for ABI,"BEDFORD,JOHNNIE VERA",1/6/1930,95,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",17.19,,0,1,0,1,0,1,o
+60346,55597879,,,"HOLCOMB,JORDAN",2/5/1997,27,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",24.8,,1,1,1,1,1,1,o
+60347,55596771,,,"THOMASSON,DARLENE ANN",9/6/1958,67,Female,White,"Not Hispanic, Latino/a, or Spanish origin",15.73,,1,1,1,1,1,1,o
+60348,55592911,,,"ADAMS,PATRICIA ANN",1/13/1966,59,Female,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",22.05,,1,1,1,1,1,1,o
+60349,55589472,,,"JACKSON,FLOYD EARL",9/28/1956,69,Male,Unknown,Unknown,28.34,,0,1,1,1,1,1,o
+60350,55588462,,,"DAVIS,SHAWN",12/23/1963,62,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60351,55587586,,,"DUNCAN,OHERRON",10/7/1946,79,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60352,55585332,,,"MARTINEZ,ARTEMIO",10/20/1957,68,Male,Unknown,Unknown,,,0,1,1,1,0,1,o
+60353,55582400,,,"HILL,JUSTIN",3/4/1991,34,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60354,55580873,,,"PERDUE,CLIFTON LEE",10/10/1951,74,Male,White,"Not Hispanic, Latino/a, or Spanish origin",32.17,,1,1,1,1,1,1,o
+60355,55577556,,no definite sign of it,"WILLIAMS,JC",11/16/1941,84,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",26.59,,0,1,0,1,0,1,o
+60356,55571100,,,"MORALES,ROSA",9/4/1962,63,Female,Unknown,Unknown,,,0,1,1,1,1,1,o
+60357,55570639,,,"HUDSON,MICHAEL",1/17/1973,52,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60358,55568670,,cannot entirely be excluded,"CABRERA,SYLVIA MARIE",6/12/1957,66,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,0,1,0,1,YES
+60359,55565442,,,"BOHLMANN,HANS WRIGHT JR",3/16/1971,54,Male,White,"Not Hispanic, Latino/a, or Spanish origin",38.13,,0,1,1,1,1,1,o
+60360,55562716,,,"AULT,BENJAMIN",7/14/1953,72,Male,White,"Not Hispanic, Latino/a, or Spanish origin",21.14,,0,1,1,1,1,1,o
+60361,55558818,,,"GUTIERREZ,JOSUE ENRIQUE",9/14/1992,33,Male,Unknown,Unknown,,,0,1,1,1,1,1,o
+60362,55557734,,cannot entirely be excluded,"CACH,MEGAN ELIZABETH",3/5/1988,37,Female,Unknown,Unknown,,,0,1,0,1,0,1,o
+60363,55554222,,could be either ABI or just hypoperfusion,"WHISMORE,KATHY BELLE",3/3/1957,67,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,0,1,1,1,YES
+60364,55553323,,,"GAGE,VEASEAN",6/23/1968,57,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60365,55552911,,,"JOHNSON,YOLANDA D",3/12/1976,49,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",28.35,,0,1,1,1,1,1,o
+60366,55551246,,,"GONZALES,HAILIE",5/13/2003,22,Female,White,"Not Hispanic, Latino/a, or Spanish origin",21.53,,0,1,1,1,0,1,o
+60367,55550652,,,"DENLEY,TOMAROE",9/11/1971,52,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+60368,55550253,,,"HENSON,MICHAEL WAYNE",6/9/1955,70,Male,Unknown,Unknown,,,0,1,1,1,1,1,o
+60369,55550022,,no gross anoxic injury present,"BANKS,MYRTLE WRIGHTSIL",6/13/1944,81,Female,Unknown,Unknown,,,0,1,0,1,0,1,o
+60370,55548910,,cahnges related to hypoxic anoxic ischemia or conversely artifacts,"BRADY,MICHAEL PATRICK",2/14/1958,67,Male,White,"Not Hispanic, Latino/a, or Spanish origin",19.2,,0,1,1,1,1,1,o
+60371,55547319,,MRI: no evidence of ABI,"PERKINS,TYLER OWEN",5/17/1989,36,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+60372,55543641,,2x MRI says no ABI,"ONEILL,BONALYN ANN",11/21/1948,77,Female,Unknown,Unknown,,,0,1,0,1,1,1,o
+60373,55537495,,,"WESTBROOK,CRAIG ALLAN",4/27/1969,56,Male,White,"Not Hispanic, Latino/a, or Spanish origin",28.76,,1,1,1,1,0,1,o
+60374,55535130,,cannot entirely be excluded,"GONZALEZ,ADELA",1/28/1941,83,Female,Other Asian,Hispanic or Latino,,,1,1,0,1,0,1,YES
+60375,55521515,,,"BRADY,SHIRLEY IRVING",7/30/1956,69,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",32.47,,1,1,1,1,1,1,o
+60376,55520539,,,"HERNANDEZ,RACHEL",2/4/1976,49,Female,Other Asian,Hispanic or Latino,24.37,,0,1,1,1,1,1,o
+60377,55520020,,anoxic or metabolic encephalopathy,"MILLER,KENNETH EARL",10/4/1956,69,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+60378,55515032,,cannot entirely be excluded,"LUTZ,SANDRA",9/9/1959,66,Female,Unknown,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60379,55513615,,,"EDENS,CARRIE RENEE",5/14/1964,60,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",32.77,,1,1,1,1,1,1,o
+60380,55510890,,,"STEVENSON,VAUGHN A",6/18/1962,63,Female,Unknown,Unknown,,,0,1,1,1,0,1,o
+60381,55506229,,"do not suspect ABI, likely in correct clinical context","VARISTE,ANGELA CHERYL",2/2/1961,64,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",33.84,,0,1,0,1,1,1,o
+60382,55501290,,,"MEDRANO,SHYANNE I",9/28/1991,34,Female,White,Hispanic or Latino,,,0,1,1,1,1,1,o
+60383,55493782,,,"EDWARDS,LARRY J",12/22/1972,51,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",21.79,,1,1,1,1,1,1,o
+60384,55492156,,,"GARCIA,JACOB EDGAR",11/28/1974,51,Male,Other,Hispanic or Latino,29.29,,1,1,1,1,1,1,o
+60385,55489649,,,"JOHNSON,ROY LEE",12/12/1950,75,Male,White,"Not Hispanic, Latino/a, or Spanish origin",30.41,,1,1,1,1,1,1,o
+60386,55476698,,,"GARLAND,DIAN E",12/28/1950,74,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",27.72,,0,1,1,1,0,1,o
+60387,55476342,,,"AMARO,RACHEL E",1/29/1995,30,Female,White,Unknown,,,0,1,1,1,1,1,o
+60388,55461639,,,"GARZA,JUAN JAIME",2/3/1984,41,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60389,55455972,,,"EPTING,EDWARD CHARLES",9/20/1958,67,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",18.77,,0,1,1,1,1,1,o
+60390,55455898,,,"WILLIAMS,QUINDELL",6/16/1994,30,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+60391,55454647,,,"WILLIAMS,GLADYS SUE",7/10/1942,83,Female,White,"Not Hispanic, Latino/a, or Spanish origin",23.91,,1,1,1,1,0,1,o
+60392,55452643,,"probably reflecting ABI, but must correlate with neuro symptoms","MINOR,AUDREY LEE",8/23/1948,77,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",14.17,,0,1,1,1,0,1,o
+60393,55447625,,cannot entirely be excluded,"JACKSON,IVORY BENJAMIN",3/29/1993,32,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",22.69,,0,1,0,1,1,1,o
+60394,55443676,,,"JOHNSON,EDDIE",9/24/1956,69,Male,Unknown,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60395,55427341,,,"CRANE,DIANA RUTH",3/1/1952,73,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60396,55413969,,,"SANTOS,MEGAN",2/28/1993,32,Female,"Hispanic
+Other Asian","Not Hispanic, Latino/a, or Spanish origin",29.77,,1,1,1,1,0,1,o
+60397,55409793,,,"WALKER,SHANQUITA MONIQUE",2/22/1990,35,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",26.64,,0,1,1,1,1,1,o
+60398,55405385,,might be caused by ABI or other thins,"WATSON,CAROLYN ALEXANDER",3/2/1962,63,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",38.65,,0,1,0,1,1,1,o
+60399,55386905,,cannot entirely be excluded,"PALLANEZ,EDDIE REYES",10/9/1946,79,Male,Other,Hispanic or Latino,28.9,,0,1,0,1,0,1,o
+60400,55386478,,,"PUENTE PLAZA,SERGIO ARTURO",11/26/1979,46,Male,Other,Hispanic or Latino,23.11,,1,1,1,1,0,1,o
+60401,55378908,,,"CLARK,PAMELA JOYCE",3/21/1946,79,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",26.47,,0,1,1,1,1,1,o
+60402,55375551,,Presented to UTMB ED for cardiac arrest,"MOORE,ONIKKA PATRIESE",3/9/1980,44,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",34.74,,1,1,1,1,0,1,o
+60403,55373123,,,"PETRY,JOE EDWARD",1/18/1978,47,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",16.51,,1,1,1,1,0,1,o
+60404,55370503,,no findings of concern for anoxic injury,"PERRY,ALLISON CLAIRE",6/12/2000,25,Female,White,"Not Hispanic, Latino/a, or Spanish origin",41.05,,0,1,0,1,1,1,o
+60405,55367106,,,"CORTEZ,ALBERTO",10/9/1972,53,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",54.18,,1,1,1,1,0,1,o
+60406,55365113,,,"SOLANO CRUZ,CARLOS",12/22/1974,51,Male,Other Asian,Hispanic or Latino,19.55,,1,1,1,1,1,1,o
+60407,55350446,,,"REYNA,HENRY RAYMOND",8/5/1952,73,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60408,55347387,,,"SUMBE,HELCIO",10/4/1993,32,Male,Unknown,Unknown,16.63,,0,1,1,1,0,1,o
+60409,55347267,,,"CONRAD,DONZELL J",12/4/1990,35,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",39.62,,0,1,1,1,1,1,o
+60410,55345702,,,"LUCHAVEZ,CHRISTINE MAE BOTE",7/17/1981,44,Female,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",26.74,,0,1,1,1,1,1,o
+60411,55342654,,,"ATKINSON,JAMES EARL",2/16/1972,53,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",25.97,,1,1,1,1,0,1,o
+60412,55340981,,without findings of concern for ABI,"LACEY,LENA CASTLEBERRY",9/25/1953,72,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",22.15,,1,1,0,1,0,1,YES
+60413,55339072,,,"YANEZ,JUAN",5/8/1972,53,Male,White,Hispanic or Latino,30.33,,0,1,1,1,1,1,o
+60414,55333785,,,"JOHNSON,BEN JR.",8/26/1943,82,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",26.85,,1,1,1,1,0,1,o
+60415,55325087,,,"GUERRERO,AGUSTIN",7/24/1970,54,Male,Hispanic,"Other Hispanic, Latino/a, or Spanish origin",26.2,,1,1,1,1,1,1,o
+60416,55322190,,,"GREGORY,VERN MICHAEL",4/22/1949,75,Male,Unknown,"Not Hispanic, Latino/a, or Spanish origin",19.3,,1,1,1,1,0,1,o
+60417,55316403,,,"LIGHTSEY,EUGENE W",2/21/1948,77,Male,"Other
+White","Not Hispanic, Latino/a, or Spanish origin",27.03,,1,1,1,1,0,1,o
+60418,55311989,,,"CRAWFORD,NELDA SELMAN",7/2/1948,77,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60419,55295602,,,"FORD,GAIL VALENCIA",10/14/1958,65,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+60420,55291908,,,"CAMBA,SONIA ELIZABETH",9/2/1977,48,Female,White,"Not Hispanic, Latino/a, or Spanish origin",39.02,,0,1,1,1,1,1,o
+60421,55263670,,,"TAGLIERE,STEPHEN PAUL",4/14/1944,80,Male,White,"Not Hispanic, Latino/a, or Spanish origin",36.32,,1,1,1,1,1,1,o
+60422,55247997,,,"MUNIER,ALICE DAVIDSON",11/12/1989,34,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+60423,55244908,,cannot entirely be excluded,"ROGERS,EVA SAHIB",7/12/1958,67,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60424,55210552,,,"LAWLEY,TARA",2/23/1991,34,Female,White,"Not Hispanic, Latino/a, or Spanish origin",31.5,,0,1,1,1,1,1,o
+60425,55201006,,,"ANDERSON,WILLIAM",11/25/2002,23,Male,White,"Not Hispanic, Latino/a, or Spanish origin",20.27,,1,1,1,1,1,1,o
+60426,55150290,,cannot entirely be excluded,"CASSELL,JEANETTE C",8/5/1956,69,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",24.58,,0,1,0,1,0,1,o
+60427,55142287,,,"BERTRAM,BRIAN LEE",4/14/1961,64,Male,White,"Not Hispanic, Latino/a, or Spanish origin",30.62,,1,1,1,1,0,1,o
+60428,55109586,,,"LANG,DAVID",9/11/1990,35,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60429,55103948,,osmotic demyelination or anoxic brain injury,"GALVAN,LOREN ELIZABETH",11/14/2000,23,Female,White,"Not Hispanic, Latino/a, or Spanish origin",18.94,,1,1,1,1,1,1,o
+60430,55075334,,,"DIRDEN,ROBRIEL LOVENIA",7/26/1994,31,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",38.43,,0,1,1,1,1,1,o
+60431,55060862,,suspected ABI,"WORLEY,TODD WAYNE",5/20/1965,60,Male,White,"Not Hispanic, Latino/a, or Spanish origin",26.08,,0,1,1,1,1,1,o
+60432,55040341,,,"SRIVASTAVA,SANDHYA LATA",5/3/1972,52,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+60433,55030184,,global anoxic injury,"Lumpkin,Cheterria Lanett",3/2/1991,34,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",39.49,,0,1,1,1,1,1,o
+60434,55012211,,,"LITTLE,ANNE EVERITT",6/7/1946,79,Female,White,"Not Hispanic, Latino/a, or Spanish origin",25.79,,1,1,1,1,1,1,o
+60435,49770806,,changes noted concerning anoxic injury in CT,"HOLSINGER,WILLIAM",7/15/1951,73,Male,Other,Hispanic or Latino,,,1,1,1,1,0,1,o
+60436,49770733,,,"OLIVER,SHAWN OKEE",11/15/1971,54,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",23.98,,1,1,1,1,0,1,o
+60437,49766732,,without findings for ABI,"HUTCHISON,BREANNA",6/19/2005,20,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60438,49764455,,"MRI 9/26/24 ""hypoxic ischemic encephalopathy""","HALL,GLORIA",8/2/1946,79,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",35.56,,1,1,1,1,1,1,o
+60439,49760532,,concerning for anoxic brain injury,"GILHOUSEN,SCOTT R",1/5/1974,50,Male,Unknown,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+60440,49755884,,never mentions anoxia,"SPILLER,NATHANIEL",2/9/1959,66,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+60441,49755735,,,"RIVERA MORENO,NESTOR",2/26/1977,48,Male,Other,Hispanic or Latino,,,0,1,1,1,1,1,o
+60442,49755519,,,"PATEL,KISHAN",8/8/1993,32,Male,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",30.3,,0,1,1,1,0,1,o
+60443,49752677,,,"BHATT,ROMA SAMIR",10/1/1984,41,Female,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",20.6,,0,1,1,1,1,1,o
+60444,49749956,,no definite findings for ABI,"DEPAZSIGUENZA,JUAN",4/3/1979,46,Male,Other,Hispanic or Latino,,,0,1,0,1,0,1,o
+60445,49749177,,,"Blacknell,Charles Ray",7/13/1947,78,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60446,49748176,,no findings with high concern of ABI,"ROMERO,ERICKA",1/4/1996,29,Female,Other,Hispanic or Latino,27.52,,0,1,0,1,0,1,o
+60447,49747534,,,"Torres,Alberto ",12/30/1976,48,Male,White,Hispanic or Latino,25.51,,0,1,1,1,1,1,o
+60448,49747325,,,"RAMOS,ANTONIO HUGO",3/28/1952,73,Male,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",20.96,,0,1,1,1,1,1,o
+60449,49747165,,,"BLATTNER,BRITTANY NICOLE",10/14/1994,29,Female,"Unknown
+White","Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+60450,49746679,,,"HENDERSON,TERRENCE KEITH",2/21/1972,52,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+60451,49744960,,,"REYNOSO AVELLANEDA,ROSENDO",10/26/1971,54,Male,Other,Hispanic or Latino,31.67,,0,1,1,1,1,1,o
+60452,49744010,,is in a large differential diagnosis,"HERNANDEZ CASTILLO,EVER JAREF",4/13/2004,21,Male,Other Asian,Hispanic or Latino,,,0,1,0,1,1,1,o
+60453,49739047,,,"WILLIAMS,CARY WAYNE",10/18/1977,48,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60454,49738029,,,"DE LA FUENTE,DIEGO",11/23/2002,21,Male,Other,Hispanic or Latino,,,1,1,1,1,0,1,o
+60455,49734486,,,"LEWING,THERESA KATHERYN",6/13/1989,36,Female,White,"Not Hispanic, Latino/a, or Spanish origin",32.41,,0,1,1,1,1,1,o
+60456,49732423,,in another study,"Ramirez,Samuel Martin",9/15/2005,20,Male,Hispanic,Hispanic or Latino,25.1,,0,1,1,1,0,1,o
+60457,49731551,,,"JONES,DERRICK",1/1/1969,56,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",25.73,,1,1,1,1,1,1,o
+60458,49731421,,,"SMANIOTTO,KATHERINE",5/11/1988,36,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+60459,49731135,,,"SINGLETON,JAMES",4/5/1962,63,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",25.8,,1,1,1,1,1,1,o
+60460,49731115,,,"NIEDERMAYER,GALE",10/2/1954,69,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+60461,49725423,,,"OLLERO,AARON JOHN",1/12/1988,37,Male,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60462,49724066,,cannot entirely be excluded,"REED,DANIEL",5/22/1997,28,Male,White,"Not Hispanic, Latino/a, or Spanish origin",22.86,,0,1,0,1,0,1,o
+60463,49721944,,,"TRAVIS,CALEB",3/7/2005,20,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",16.87,,0,1,1,1,1,1,o
+60464,49718462,,,"CHAVEZ,SERGIO",8/29/2003,22,Male,Hispanic,Hispanic or Latino,23.26,,0,1,1,1,0,1,o
+60465,49716296,,,"LE,KHOI",10/7/1968,57,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",20.9,,0,1,1,1,1,1,o
+60466,49713868,,,"GONZALES,RUBEN JAMES",10/5/2003,20,Male,Other,Hispanic or Latino,,,1,1,1,1,0,1,o
+60467,49713775,,,"HAMPTON,JERRY",3/16/1958,67,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60468,49712884,,,"DAVIS,PATRICIA",6/12/1953,72,Female,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60469,49711604,,,"BUSBY,KATHLEEN LOIS",8/24/1968,55,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+60470,49711343,,,"JULIET030,GHMALE",9/8/1944,79,Male,Other Asian,Hispanic or Latino,,,1,1,1,1,1,1,o
+60471,49708103,,,"LEEDE,NICHOLAS ELLIOTT",9/7/1998,25,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+60472,49706427,,,"WIGGINS,MITCHELL LEE",10/28/1959,64,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",25.01,,1,1,1,1,1,1,o
+60473,49706260,,,"JONES,MARY ANN",8/4/1959,64,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+60474,49705887,,,"BUSTAMANTE DE ARREAZA,HAYDEE CONSUELO",11/15/1946,77,Female,Other,Hispanic or Latino,,,1,1,1,1,0,1,o
+60476,49701697,,questionable ABI,"CROWLEY,BILLY",6/12/1965,60,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60477,49700181,,cannot entirely be excluded,"VOWELL,DARRELL FLOYD",8/27/1968,57,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60478,49700058,,cannot entirely be excluded,"JOHNSON,JANICE LAUDANO",7/25/1948,75,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,0,1,0,1,YES
+60479,49700044,,,"CRUZ ASENCIO,SANTIAGO",2/25/1965,59,Male,Other,Hispanic or Latino,,,1,1,1,1,1,1,o
+60480,49697091,,,"MONTOYA,TERESO",10/25/1964,59,Male,Other,Hispanic or Latino,,,1,1,1,1,1,1,o
+60481,49696579,,,"COBY,JOYCE LATRICE",12/31/1973,50,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+60482,49695300,,cannot entirely be excluded,"VAZQUEZ,LETICIA VARGAS",8/16/1959,66,Female,Other,Hispanic or Latino,32.66,,0,1,0,1,0,1,o
+60483,49694610,,noe vidence of ABI by CT,"Molden,Brad Parker",1/23/1981,44,Male,White,"Not Hispanic, Latino/a, or Spanish origin",24.71,,0,1,0,1,0,1,o
+60484,49694357,,,"GONZALEZ,APOLONIO",2/9/1962,62,Male,Other Asian,Hispanic or Latino,,,1,1,1,1,0,1,o
+60485,49691097,,,"BASS,CHARLENE E",8/29/1983,42,Female,"Black or African American
+Unknown","Not Hispanic, Latino/a, or Spanish origin",36.28,,0,1,1,1,1,1,o
+60486,49690173,,,"FOXTROT104,SWMALE",1/1/1901,123,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+60487,49689008,,,"DIAZ RIVERA,FRANCISCO JAVIER",9/20/1990,33,Male,Unknown,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+60488,49688348,,cannot entirely be excluded,"CARDENAS,PETE",8/25/1965,58,Male,Other,Hispanic or Latino,,,1,1,0,1,0,1,YES
+60489,49687636,,,"Garcia,Israeel ",6/11/1969,56,Male,"Hispanic
+White",Hispanic or Latino,54.21,,0,1,1,1,0,1,o
+60490,49687423,,,"HURTADO CUBILLOS,JOSE",5/21/1992,33,Male,Other Asian,Hispanic or Latino,,,0,1,1,1,1,1,o
+60491,49686774,,,"DAVIS-ALLEN,PAMELA",3/30/1956,68,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+60492,49685538,,,"COLLAZO,JULIA A",7/10/1946,79,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",25.01,,0,1,1,1,1,1,o
+60493,49682258,,,"MCCAFFERTY,ROBERT",5/15/1971,54,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60494,49679915,,,"Heese,David ",4/15/1974,51,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60495,49679835,,CJD is favored given reported history,"VERA,TERESA ROMERO",5/19/1967,57,Female,White,Hispanic or Latino,,,1,1,0,1,1,1,YES
+60496,49674802,,,"HARRIS,ROYCE VAL",2/14/1958,66,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+60497,49674394,,,"SHAKUR,KHALEEL J",12/23/1997,28,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60498,49673959,,,"BARNES,TITUS M JR.",1/28/1940,84,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+60499,49672607,,,"NGUYEN,BRIAN",2/23/1989,35,Male,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+60500,49672028,,,"GARCIA SANCHEZ,MA DEL ROCIO",3/29/1969,56,Female,White,Hispanic or Latino,25.39,,0,1,1,1,0,1,o
+60501,49670644,,no evidence of ABI on CT or MRI,"THORN,TERRY JR.",11/25/1967,58,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",28.86,,0,1,0,1,1,1,o
+60502,49670556,,,"PETTIS,ANDREW DARNELL",5/11/1984,40,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+60503,49667240,,,"GORSKI,MATTHEW B",3/2/1985,39,Male,"Other
+White","Not Hispanic, Latino/a, or Spanish origin",27.76,,1,1,1,1,0,1,o
+60504,49666514,,,"RODRIGUEZ,JAVIER",6/16/1974,51,Male,White,Hispanic or Latino,,,0,1,1,1,0,1,o
+60505,49666175,,,"MARTINEZ,RUDY ANTONIO",3/25/1980,44,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+60506,49664983,,,"SALINAS-LOPEZ,SONIA V",10/23/1971,53,Female,White,Hispanic or Latino,20.36,,1,1,1,1,1,1,o
+60507,49664509,,,"KUNLE OJO,ABRAHAM DAVIES",10/24/1963,60,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+60508,49662801,,possible ABI but no other mentions,"WATKINS,ALLEN JEROME",12/7/1967,58,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+60509,49661122,,,"ACEVEDO ZUNIGA,GERARDO PABLO",6/14/1972,53,Male,Other,Hispanic or Latino,21.06,,0,1,1,1,1,1,o
+60510,49659839,,possible early anoxic brain injury,"CAO,QING",4/8/1989,36,Male,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",23.32,,0,1,0,1,1,1,o
+60511,49659098,,,"FOSTER,RICHARD STEPHEN",9/18/1955,70,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60512,49658383,,,"GARCIA,JUDY FLORES",1/13/1972,52,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+60513,49656413,,,"MAO,CHUCK",10/11/1981,42,Male,Unknown,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+60514,49655844,,,"PEREZ,JOEL ANDREW JR.",8/13/1979,46,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60515,49650790,,,"NATION,KEVIN",5/29/1977,48,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60516,49646969,,,"SANCHEZ,JISABEL",11/18/1945,78,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+60517,49646880,,,"HAYES,SARA CATHERINE",4/16/2004,21,Female,White,"Not Hispanic, Latino/a, or Spanish origin",22.72,,0,1,1,1,1,1,o
+60518,49646109,,,"ZAMORA,ADOLFO",2/26/1971,53,Male,White,Hispanic or Latino,,,1,1,1,1,1,1,o
+60519,49642499,,cannot entirely be excluded,"Casey,Mike Martin",5/6/1947,78,Male,White,"Not Hispanic, Latino/a, or Spanish origin",27.24,,0,1,0,1,1,1,o
+60520,49638303,,,"WELLS,DOUGLAS SCOTT",12/28/1955,68,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+60521,49634603,,,"MORALES ALVARADO,ERIC",2/1/1981,44,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",28.73,,0,1,1,1,1,1,o
+60522,49633161,,,"PATEL,NAGIN NATWERBHAI",4/20/1946,78,Male,"Other
+Other Asian","Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+60523,49632195,,MRI shows no ABI,"HACKADAY,JENICE",3/19/1963,62,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+60524,49632153,,,"MACKEY,JESSICA",9/6/1979,44,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+60525,49625236,,"CT 3/5/24 - ""no evidence anoxic brain injury on this noncontrast CT head""","CASTILLO OCHOA,JESUS A",8/28/1956,69,Male,Unknown,Hispanic or Latino,,,0,1,1,1,1,1,o
+60526,49622912,,,"MORRIS,MILDRED ELVIRA",8/27/1951,72,Female,"Black or African American
+Other","Not Hispanic, Latino/a, or Spanish origin",26.64,,1,1,1,1,1,1,o
+60527,49621995,,,"GUIDRY,MELISSA",1/15/1968,57,Female,White,"Not Hispanic, Latino/a, or Spanish origin",21.41,,1,1,1,1,1,1,o
+60528,49621318,,cannot entirely be excluded,"JIMENEZ,JOSE",3/19/1959,66,Male,Other,Unknown,,,0,1,0,1,0,1,o
+60529,49620392,,,"DELACRUZ,SERGIO T",8/12/1963,60,Male,"Other
+Unknown",Hispanic or Latino,,,1,1,1,1,1,1,o
+60530,49615980,,,"ALBERT,PATRICIA GALE",8/16/1953,72,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",24.85,,0,1,1,1,0,1,o
+60531,49615456,,,"WILLIS,CAMERON",6/22/2004,21,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60532,49614249,,cannot entirely be excluded,"REVUELTA,JUAN FELIPE",8/25/1986,39,Male,White,Hispanic or Latino,,,0,1,0,1,0,1,o
+60533,49613395,,,"GONZALEZ,BLAYAN SESAR",8/24/1986,39,Male,Hispanic,"Not Hispanic, Latino/a, or Spanish origin",33.38,,1,1,1,1,1,1,o
+60534,49610612,,"Cardiopulmonary arrest, 8/23","RODGERS,SHYVINCENCIA SHYNETT",2/3/1990,35,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",20.6,,0,1,1,1,1,1,o
+60535,49609718,,cannot entirely be excluded,"HALL,JEANNETTE",3/24/1968,57,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60536,49608375,,,"CRYER,DEWAYNE ALLEN",3/17/1956,69,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60537,49607979,,cannot entirely be excluded,"RODRIGUEZ,MAGDALENO",6/25/1962,63,Male,Other,Hispanic or Latino,,,0,1,0,1,0,1,o
+60538,49607114,,,"ARNOLD,ZACKARY DALTON",6/14/1993,30,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+60539,49605280,,,"CRABTREE,PAUL",3/11/1985,40,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60540,49604786,,,"Young,Micah ",7/28/2003,22,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",25.25,,0,1,1,1,1,1,o
+60541,49601630,,,"CHERAMIE,DAVID",8/13/1959,66,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60542,49597306,,,"US TOJ,JULIO",6/23/1963,62,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60543,49596184,,,"WILLIAMS,WILBARD THEOPHILUS",9/1/1965,60,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60544,49593910,,,"VOUGHT,DAVID A",1/19/1968,57,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60545,49592745,,,"DAMATO,NICHOLAS",10/17/2000,25,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60546,49592662,,,"CARVER,RYAN",1/13/1992,33,Male,Unknown,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60547,49590533,,no evidence of global anoxic injury,"KINSEY,ROBERT",6/1/1949,76,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+60548,49585684,,,"WARNER,CHAD ALAN",3/9/1975,50,Male,White,"Not Hispanic, Latino/a, or Spanish origin",24.71,,0,1,1,1,1,1,o
+60549,49582337,,,"PARRISH,CRANSTON",11/21/1987,38,Male,White,"Not Hispanic, Latino/a, or Spanish origin",40.56,,0,1,1,1,0,1,o
+60550,49576315,,no CT evidence of ABI,"NAVAS GUERRERO,VICTOR",9/8/1951,74,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60551,49572312,,,"DILWORTH,EVA",7/27/1969,56,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60552,49570780,,,"STEPHENS,CRYSTAL",5/7/1982,43,Female,White,"Not Hispanic, Latino/a, or Spanish origin",18.85,,0,1,1,1,0,1,o
+60553,49568134,,CT suspicious of ABI,"MAXWELL,SCOTT ALLEN",6/14/1967,58,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60554,49567245,,,"HINES,BREASIA DANISE SHANTA",6/25/2002,23,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",24.21,,0,1,1,1,0,1,o
+60555,49564362,,cannot entirely be excluded,"PAPA098,SWFEMALE",1/1/1901,124,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60556,49561699,,no evidence of ABI,"FOLMAR,GARY LYNN",12/17/1955,68,Male,White,"Not Hispanic, Latino/a, or Spanish origin",25.33,,1,1,0,1,1,1,YES
+60557,49559633,,,"WILLIS,YOLANDA",7/5/1961,64,Female,Unknown,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60558,49555098,,,"CARROLL,YOLANDA THORNTON",1/13/1962,63,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",57.18,,0,1,1,1,1,1,o
+60559,49551946,,,"ALI,MEHBOOB",9/13/1966,59,Male,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",25.06,,1,1,1,1,0,1,o
+60560,49551094,,,"ROBINSON,RENEE",8/3/1972,53,Female,Black or African American,Hispanic or Latino,,,0,1,1,1,0,1,o
+60561,49550963,,,"JONES,QUANTEISHA",11/13/1986,39,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",31.25,,0,1,1,1,0,1,o
+60562,49549970,,cannot entirely be excluded,"SOTO,ELOY",10/6/1989,36,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60563,49546940,,,"PINEDA GODOY,JOSE R",10/25/1959,66,Male,Other,Hispanic or Latino,23.58,,0,1,1,1,1,1,o
+60564,49546540,,,"SANCHEZ,JAIME",9/26/1974,51,Male,Other,Hispanic or Latino,,,0,1,1,1,1,1,o
+60565,49545496,,,"CLARIOND LOZANO,RENEE JEANNETTE",7/13/1972,53,Female,White,Hispanic or Latino,,,0,1,1,1,0,1,o
+60566,49543303,,,"MORROW,JEREMY D",6/15/1986,39,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60567,49542090,,risk of it but nothing else gives any indication of this,"MAXEY,LOGAN",1/4/1988,37,Male,Unknown,Unknown,,,0,1,0,1,0,1,o
+60568,49541953,,cannot entirely be excluded,"RIOS IBARRA,JOSE A",7/24/1957,68,Male,Other,Hispanic or Latino,,,0,1,0,1,0,1,o
+60569,49539156,,cannot entirely be excluded,"LABEAU,MARY NOELIEN",10/30/1931,94,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",33.63,,0,1,0,1,1,1,o
+60570,49538580,,,"RIOS,OLIVIA GRACE",7/23/2002,23,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60571,49535585,,,"KITE,LEWIS D",6/14/1945,80,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60572,49530414,,,"ADAMS,TERRION DEMOND",5/21/1978,47,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",29.99,,0,1,1,1,1,1,o
+60573,49529829,,no evidence of ABI,"MEISENZAHL JR,THOMAS W",12/13/1946,79,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+60574,49526128,,,"WHITEHURST,BRANDON",7/25/1988,37,Male,Unknown,"Not Hispanic, Latino/a, or Spanish origin",31.26,,0,1,1,1,1,1,o
+60575,49525059,,,"BIEHLER,MARCELLA A",12/7/1962,63,Female,White,"Not Hispanic, Latino/a, or Spanish origin",27.49,,0,1,1,1,0,1,o
+60576,49520260,,seems to be metabolic encephatlopathy,"HAMANN,SHIRLEY M",7/27/1948,77,Female,White,"Not Hispanic, Latino/a, or Spanish origin",26.08,,0,1,0,1,0,1,o
+60577,49516738,,,"ALVARADO,MARIA GALICIA",1/26/1951,74,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60578,49514815,,,"CUNNINGHAM,CARMEN RENEE",2/24/1984,41,Female,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",24.94,,0,1,1,1,0,1,o
+60579,49514183,,no intracranail infarct or acute abnormality?,"SVETLIK,JOSEPH FRANK",6/30/1945,80,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+60580,49510527,,,"SUAZO,AXEL FRANCISCO",7/22/2000,25,Male,Other,Hispanic or Latino,,,0,1,1,1,1,1,o
+60581,49509227,,,"RIVERA TRUJILLO,ANGEL RUBEN",3/24/2002,23,Male,White,Hispanic or Latino,,,0,1,1,1,0,1,o
+60582,49507304,,,"MOSER,RICHARD",9/2/1959,66,Male,Unknown,"Not Hispanic, Latino/a, or Spanish origin",23.38,,0,1,1,1,1,1,o
+60583,49506455,,,"WILKERSON,NINA",11/26/1984,41,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60584,49505535,,,"ZAUNBRECHER,JUSTIN",5/12/1987,38,Male,White,,,,0,1,1,1,0,1,o
+60585,49500856,,,"DELGADO,ALFRED LEE",8/16/1961,64,Male,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",26.79,,0,1,1,1,1,1,o
+60586,49497985,,,"KIRKMAN,ADAM",11/27/2004,21,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60587,49497814,,,"CHAVIS,DOMINIC",4/3/1984,41,Male,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",20.69,,0,1,1,1,0,1,o
+60588,49497537,,,"BLEVINS,LATANYA",9/23/1970,55,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60589,49496621,,suggesting sequela of global anoxic injury,"TEAMER,GELANA",3/12/1935,90,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60590,49496293,,risk of it but nothing else gives any indication of this,"ABAD,ALFREDO ISIDORO",1/12/1955,69,Male,Other,Hispanic or Latino,23.28,,1,1,0,1,0,1,YES
+60591,49495487,,,"DUBE,PRACHI",8/24/1974,51,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60592,49495091,,no definite findings for ABI,"GAFFORD,NOVA",7/26/2003,22,Female,White,Hispanic or Latino,25.7,,0,1,0,1,1,1,o
+60593,49493631,,showed signs of ABI,"Minor,Will Louis",6/19/2000,25,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",22.47,,0,1,1,1,1,1,o
+60594,49491657,,concern for axonal injury insteald of global anoxic injury,"SORENSEN,JOSEPH",2/3/2004,21,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",15.63,,0,1,0,1,1,1,o
+60595,49487422,,some discharge note said HIE,"MAURICIO,MARIA ESTHER",9/15/1944,80,Female,White,Hispanic or Latino,26.63,,1,1,1,1,0,1,o
+60596,49486442,,,"BEHZADPOUR,MOHAMMAD AMIN",9/19/1958,67,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",18.79,,0,1,1,1,1,1,o
+60597,49484791,,,"THOMAS,CHRISTOPHER",8/18/1975,50,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60598,49482812,,syspected minimal restricted difussion on MRI,"CARRINGTON,JOHN",8/28/1980,45,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+60599,49482518,,,"NOLASCO FERREIRA,OLVIN ESNEN",7/16/1997,28,Male,Other,Hispanic or Latino,,,0,1,1,1,1,1,o
+60600,49480768,,,"BEALL,GEORGE S JR.",1/27/1957,68,Male,White,"Not Hispanic, Latino/a, or Spanish origin",19.96,,0,1,1,1,1,1,o
+60601,49480164,,,"WEHAUSEN,ZACHARY TYLER",7/18/1997,28,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60602,49476575,,cannot entirely be excluded,"MARTINEZ,LESTER",1/24/1988,37,Male,Other,Unknown,30.85,,0,1,0,1,0,1,o
+60603,49476204,,,"LOGANADHAN,VINODH ABEL",7/2/1954,71,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60604,49474758,,,"KODURU,SUSROONYA",9/30/1997,28,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60605,49472976,,,"KELSO,MACKENZIE",6/16/2005,20,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60606,49466404,,,"MAGASSA,AMADOU",6/27/2003,22,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60607,49465529,,,"MCKINNEY,BRYSEN",11/16/2000,24,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",24.37,,1,1,1,1,1,1,o
+60608,49464955,,cannot entirely be excluded,"NEMIRAJAIAH,SUDHANVA",1/1/1970,55,Male,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",23.88,,0,1,0,1,0,1,o
+60609,49461849,,MRI and neuro exam were concerning for ABI,"HUTCHINSON,LANCE DARNELL",4/10/1988,37,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",40.04,,0,1,1,1,1,1,o
+60610,49451289,,,"MALONE,ANDREW",4/11/1992,33,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",18.02,,0,1,1,1,1,1,o
+60611,49450918,,,"LINCOLN,TORRENCE",8/17/1968,57,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60612,49447081,,latest update says no evidence of ABI,"KNICK,JOSEPH EDWARD",12/9/1977,48,Male,White,"Not Hispanic, Latino/a, or Spanish origin",31.48,,0,1,0,1,1,1,o
+60613,49445432,,,"CZYMOCH,COHEN THOMAS",1/12/2006,19,Male,White,"Not Hispanic, Latino/a, or Spanish origin",16.69,,0,1,1,1,1,1,o
+60614,49443036,,no current concern for ABI,"HERNANDEZ,MARINO RUIZ",12/2/1980,45,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60615,49441030,,,"Sheets,Ken Scott",10/26/1965,60,Male,White,"Not Hispanic, Latino/a, or Spanish origin",19.05,,0,1,1,1,1,1,o
+60616,49436540,,,"BROWN,TIMOTHY",6/29/1962,63,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60617,49435639,,,"NYBERG,PER DANIEL",4/2/1983,42,Male,Unknown,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60618,49435504,,,"BECERRA,RICARDO",8/13/1976,49,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",39.64,,0,1,1,1,1,1,o
+60619,49430561,,,"BUTLER,HARVEY",11/13/1963,62,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60620,49422776,,,"MASON,TYLER WILLIAM",6/27/1991,34,Male,White,"Not Hispanic, Latino/a, or Spanish origin",31.26,,0,1,1,1,1,1,o
+60621,49422457,,,"DUNCAN,SUZANNE",9/21/1979,45,Female,White,"Not Hispanic, Latino/a, or Spanish origin",30.35,,1,1,1,1,1,1,o
+60622,49421326,,,"WHEELER,GLENN CHARLES",5/11/1951,74,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60623,49419171,,MCA infarct on CT was likely an artifact,"GONZALES,ADELINA",4/2/1934,90,Female,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,0,1,1,1,YES
+60624,49415862,,,"EVANS,DAHLIA",7/3/1984,41,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60625,49415049,,,"KELLYYOUNG,HELEN",3/18/1958,67,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60626,49413622,,,"ESTRADA,JOEL",1/10/2002,23,Male,Other,Hispanic or Latino,28.47,,0,1,1,1,0,1,o
+60627,49412960,,,"TAITANO,DEVON",1/30/1998,27,Male,Native Hawaiian or Other Pacific Islander,Hispanic or Latino,,,0,1,1,1,1,1,o
+60628,49412504,,cannot entirely be excluded,"RODRIGUEZ,JOSHUA GILBERTO",6/8/2002,23,Male,White,Hispanic or Latino,20.98,,0,1,0,1,0,1,o
+60629,49409943,,"suspected ABI, MRI concerning for ABI","SIMON,SHIBLE",7/5/1953,72,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",36.93,,1,1,1,1,1,1,o
+60630,49408555,,,"JOUBERT,JOSEPH",12/22/1959,66,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60631,49403504,,"possible ABI due to OD, but non contrast CT was good","ELLIS,JALEN",11/29/1993,32,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60632,49400446,,,"GONZALES,SHAWANDA",8/20/1979,46,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60633,49399449,,no evidence of ABI,"MARTIN MARRERO,JESUS",1/27/1982,42,Male,Other,Hispanic or Latino,,,1,1,0,1,1,1,YES
+60634,49398372,,"seizures, small subtle changes not specifically related to ABI","GRIFFIN,JAMON",7/19/1980,45,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",20.98,,0,1,1,1,1,1,o
+60635,49398189,,cannot entirely be excluded,"DARGIN,PETER F",2/6/1953,72,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",28.17,,0,1,0,1,0,1,o
+60636,49397486,,Hemothorax -> MRI showed anoxic brain injury,"COLEMAN,JEFFREY",9/15/1972,53,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60637,49396355,1,"CT, MRI, 23 yo M, Cardiac Arrest, MRI ""hypoxic ischemic injury affecting the hemispheric white matter""","GONZALEZ RODRIGUEZ,ERIC R",1/16/2000,25,Male,Unknown,Unknown,,,0,1,1,1,1,1,o
+60638,49391656,,,"WHITE,JOHNNY",7/29/1952,73,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60639,49389384,,,"CARTER,LEE O",10/5/1979,46,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60640,49386494,,,"HOLMES,CHRISTOPHER",12/6/1982,43,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60641,49385024,,,"MARCHAND,JADEN JOSEPH",1/15/2001,24,Male,White,"Not Hispanic, Latino/a, or Spanish origin",18.6,,0,1,1,1,0,1,o
+60642,49383405,,cannot entirely be excluded,"MERINO,ROBERTO",5/28/1957,68,Male,Other,Hispanic or Latino,,,0,1,0,1,0,1,o
+60643,49380444,,,"DAVID,JERRY",1/15/1965,60,Male,White,"Not Hispanic, Latino/a, or Spanish origin",25.07,,0,1,1,1,1,1,o
+60645,49374428,,,"BAX,ADRIAN M",10/16/1998,27,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",17.94,,0,1,1,1,1,1,o
+60646,49374358,,"CT 3/4/23 - ""generalized decrease in gray-white contrast in the cortex and deep nuclear structures, suggest possible global anoxic ischemic encephalopathy""","LEWIS,DEREK",1/2/1983,42,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60648,49372463,,,"HICKS,PATRICK",6/22/1980,45,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60649,49370716,,,"PASCAL,ANNES",9/13/1986,39,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60650,49370557,,,"TEYLOR SOSA,KIMBERLY MADELINA",11/22/2001,24,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60651,49364746,,,"MIRANDA,CESAR ALEXANDER",10/27/2005,20,Male,Other,Hispanic or Latino,21.06,,0,1,1,1,1,1,o
+60652,49364205,,,"YOKOTA,MARK",6/4/1977,48,Male,Native Hawaiian,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60653,49362358,,,"GIPSON,SHIRLEY MAE",1/4/1947,77,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+60654,49361268,,,"GOODRICH,GUILLAUME",1/16/1995,30,Male,Unknown,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60655,49360528,,,"ROJAS,FELIPE",9/21/1989,36,Male,Hispanic,Hispanic or Latino,29.83,,0,1,1,1,0,1,o
+60656,49360277,,,"OKOCHA,RAPHAEL ODOGWU",11/11/1952,73,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",23.72,,1,1,1,1,0,1,o
+60657,49359351,,,"THOMPSON,NICOLE RENEE",9/26/1994,31,Female,White,"Not Hispanic, Latino/a, or Spanish origin",16.61,,0,1,1,1,0,1,o
+60658,49358573,,part of he diferential with stroke mostly,"JONES,JANET FAITH",10/13/1956,69,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",37.18,,1,1,0,1,1,1,YES
+60659,49356289,,no findings of global anoxic injury,"WILLIAMS,LARRY WAYNE",6/23/1958,67,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",33.49,,0,1,0,1,0,1,o
+60660,49354631,,,"ENRIQUEZ-PINEDO,ROGELIO",2/14/1969,56,Male,Other,Hispanic or Latino,21.38,,0,1,1,1,1,1,o
+60661,49354511,,,"CHARLES,STEPHON KENNETH",12/16/1990,35,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",22.3,,0,1,1,1,0,1,o
+60662,49353951,,,"WALLACE,ANTHONY RAY",6/17/1956,68,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",26.92,,1,1,1,1,0,1,o
+60663,49353099,,,"MIKEASKY,STEVEN",8/18/1965,60,Male,White,"Not Hispanic, Latino/a, or Spanish origin",25.18,,0,1,1,1,1,1,o
+60664,49348483,,global anxoic is possible but cannot be proven conclusively,"RHODEN CASTRO,SANDY LEOLIN",2/14/1998,27,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",20.99,,0,1,0,1,1,1,o
+60665,49347241,,,"DIGGINS,TAMIKA",8/18/1981,44,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60666,49346717,,,"ALZAABI,ASMA SAEED",1/2/1998,27,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60667,49346651,,,"CLASS,HOLLY ANN",3/6/1982,43,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60668,49346484,,,"DEBNATH,SUBIR",9/1/1975,50,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",26.73,,0,1,1,1,1,1,o
+60669,49346153,,no ct evidence of ABI,"CENTENO RODRIGUEZ,JULIO SAMUEL",2/16/1962,63,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60670,49345677,,,"Christian,Darneicia Aunjanea",2/8/1995,30,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",21.25,,0,1,1,1,1,1,o
+60671,49344163,,"CT 1/14/23 ""mild or early hypoxic anoxic brain injury cannot be entirely excluded"" and neurology consult found no significant abnormalities on imaging","DELTA022,GHFEMALE",1/1/1889,136,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60672,49342832,,appears to be severe ABI,"YBARRA,ORALIA GONZALES",1/1/1947,78,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60673,49338175,,,"BOSO,JEFFREY MICHAEL",2/9/1995,29,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60674,49327350,,,"WEEKS,ANNA L",2/13/1991,34,Female,White,"Not Hispanic, Latino/a, or Spanish origin",22.89,,0,1,1,1,0,1,o
+60675,49324959,,,"PAGAR,MITHIL",5/14/1997,28,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60676,49323722,,,"GARCIA,JONATHAN",12/15/2004,21,Male,Other,Hispanic or Latino,,,0,1,1,1,0,1,o
+60677,49320808,,,"WILLIAMS,EZEKIEL",9/30/1969,56,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60678,49320309,,,"Reinke,John ",7/11/1975,50,Male,White,"Not Hispanic, Latino/a, or Spanish origin",23.06,,0,1,1,1,1,1,o
+60679,49318226,,cannot entirely be excluded,"TUCKER,JOHMICA F",2/17/1973,52,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",30.36,,0,1,0,1,1,1,o
+60680,49300774,,,"ALDHAHERI,ABDULLA",3/30/1963,62,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60681,49282088,,probable mild ABI,"SANDERS,GRAYSEN C",2/2/1965,60,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60682,49274888,,"CT 2/3/24 ""mild or early hypoxic anoxic brain injury cannot be entirely excluded""","HOPKINS,LARRY WAYNE",4/22/1993,32,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+60683,49272634,,no arly sign of ABI,"UDDIN,SYED JALAL",5/1/1948,77,Male,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60684,49272173,,,"JARRETT,JOHN-BRYAN",9/11/1995,30,Male,White,"Not Hispanic, Latino/a, or Spanish origin",17.63,,0,1,1,1,0,1,o
+60685,49269846,,no evidnce of ABI,"SUMPTER,ELTON",12/18/1953,72,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+60686,49263912,,,"RUSSELL,KYLE GARRETT",12/31/1991,33,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",24.46,,0,1,1,1,1,1,o
+60687,49262690,,cannot entirely be excluded,"BRENT,BESSIE",9/4/1953,72,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+60688,49259350,,,"BROWN,ANNA SALAS",12/7/1975,50,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60689,49257101,,,"SAFIER,CAROL",5/21/1951,74,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60690,49253032,,no evidnce of ABI by CT,"FOUGERE,KATRINA",3/25/1960,65,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60691,49248285,,,"SRINIVASAN,GAYATHRI",11/24/1981,44,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",22.73,,0,1,1,1,1,1,o
+60692,49242939,,cannot entirely be excluded,"REYNOLDS,ANDY DON",3/2/1972,53,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60693,49242921,,no diffuse anoxic injury,"DOUGLAS,ARDIS JOHN",11/8/1973,52,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",23.61,,0,1,0,1,1,1,o
+60694,49242724,,,"ASHLEY,DELANCE U",7/10/1971,54,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",21.55,,0,1,1,1,1,1,o
+60695,49241448,,cannot entirely be excluded,"LITTLE,STEPHANIE",11/14/1966,59,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60696,49240771,,,"THOMPSON,TY",6/5/2002,23,Male,White,"Not Hispanic, Latino/a, or Spanish origin",24.96,,0,1,1,1,0,1,o
+60697,49238270,,,"FIELDS,JEROME",10/18/1951,74,Male,Unknown,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60698,49237126,,,"PRATT,BONNITA",7/3/1957,68,Female,White,"Not Hispanic, Latino/a, or Spanish origin",33.92,,1,1,1,1,1,1,o
+60699,49234904,,,"RYAN,DARIN",1/2/1975,50,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60700,49227765,,,"FLUEGGE,BRANDON KEITH",12/23/1992,33,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60701,49221024,,,"NICHOLS,JACOB",4/11/1978,47,Male,White,"Not Hispanic, Latino/a, or Spanish origin",24.41,,0,1,1,1,1,1,o
+60702,49220861,,,"EGUZOUWA,JAMES",1/5/1949,76,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60704,49218644,,,"BOYETT,CHANCE",11/25/1996,29,Male,White,"Not Hispanic, Latino/a, or Spanish origin",20.95,,0,1,1,1,0,1,o
+60705,49218632,,without evidence of diffus ABI,"WELLMAN,VERNON",10/16/1991,34,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60706,49213860,,,"GALLIEN,DWAYNE",1/18/1967,58,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60707,49210979,,no fidnigs fo anoxic injruy in CT,"GONZALEZ,ENRIQUE",4/5/1970,55,Male,Other,Hispanic or Latino,,,0,1,0,1,0,1,o
+60708,49207559,,cannot entirely be excluded,"CORNEJO LOPEZ,MARIA ELOISA",6/15/1949,76,Female,Hispanic,Hispanic or Latino,28.05,,0,1,0,1,0,1,o
+60709,49190873,,,"BLY,ESPY CADE",10/23/2003,22,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60710,49183083,,,"DALLIMORE,SCOTT ROBERT",3/13/1990,35,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60711,49180492,,,"ORONA,FAITH",10/21/1991,34,Female,White,Hispanic or Latino,,,0,1,1,1,1,1,o
+60712,49176980,,,"CORBIN,MARY B",4/8/1949,76,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60713,49175438,,"""anoxic brain injury/chronic encephalopathy and seizures"", unsure if first episode is documented at MHH, looks like repeared episodes","JONES,GWENDOLYN",4/2/1956,69,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",23.09,,0,1,1,1,0,1,o
+60714,49175073,,,"TIBERIA,VINCENZA A",10/26/1953,72,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",13.99,,0,1,1,1,1,1,o
+60715,49172408,,cardiac arrest w anoxic brain injury,"WOODS,WILLIE",7/6/1945,80,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60716,49167925,,,"ASKEW,JULIAN",6/28/1992,33,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60717,49167851,,,"ALCANTAR,ESMERALDA MARIE",8/23/2002,23,Female,White,Hispanic or Latino,12.35,,0,1,1,1,1,1,o
+60718,49166705,,,"LAWS,RHEA HICKMOND",11/14/1954,71,Male,White,"Not Hispanic, Latino/a, or Spanish origin",36.12,,0,1,1,1,1,1,o
+60719,49165977,,nothing specifically to indicate global ABI,"HARRIS,JESSICA LEKESHA",3/9/1988,37,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",27.44,,0,1,0,1,1,1,o
+60720,49165887,,,"SANCHEZ,JOEL",10/12/1987,38,Male,White,Hispanic or Latino,,,0,1,1,1,0,1,o
+60721,49164209,,,"ROLLINS,PAUL",8/21/1986,39,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60722,49161208,,,"ROTHERS,JC",9/4/1974,51,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60723,49161112,,,"MACHADO,DANNY",5/30/1982,43,Male,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60724,49157318,,atypical for ABI more typical for toxic leukocephalopathy,"BOOTH,ROBERT JOSEPH",9/28/1977,48,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+60725,49153265,,,"SAENZ,KENNETH",5/27/1971,54,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60726,49153187,,,"PRIMES,LILLY MARIE",8/8/1951,72,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+60727,49150914,,CT suggest hypoxic ABI,"WALKER,KIRK",9/9/1975,50,Male,White,"Not Hispanic, Latino/a, or Spanish origin",29.85,,1,1,1,1,1,1,o
+60728,49146151,,,"MOORE,JAMES LOUIS",7/30/1981,44,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60729,49145287,,,"LEHMAN,JUDITH",5/22/1958,67,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60730,49144876,,,"HUYNH,VAN",8/24/1961,64,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60731,49144619,,,"CORONA,CELIA PATRICIA",5/20/1958,67,Female,Other,Hispanic or Latino,48.28,,0,1,1,1,0,1,o
+60732,49140197,,diferent doctors say both (including most current note) but the most current MRI after the heart incident says no definitive MRI evidence of ABI,"GRANT,AMANDA DAVONNE",7/24/1990,35,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",29.29,,0,1,0,1,1,1,o
+60733,49140078,,cannot entirely be excluded,"SERRATO,ASHLEY",2/20/2004,21,Female,Hispanic,Hispanic or Latino,39.68,,0,1,0,1,0,1,o
+60734,49138815,,,"STEVERSON,TRINITY H",4/25/2000,25,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60735,49138226,,cannot entirely be excluded,"WHITE,KEVIN",8/17/1992,33,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60736,49132609,,,"POSPESEL,DEAN",12/31/1958,66,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60737,49130321,,,"JONES,CLAUDETTE LOUISE",7/1/1948,77,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",29.1,,0,1,1,1,1,1,o
+60738,49129518,,,"PEREZ,CRYSTAL ROXANN",2/2/1987,38,Female,Other,Hispanic or Latino,28.62,,0,1,1,1,0,1,o
+60739,49128660,,,"MUNIZ,KRIZIA LEE",2/11/2002,23,Female,White,Hispanic or Latino,22.83,,0,1,1,1,1,1,o
+60740,49126973,,no acute abrnomality of ABI,"MANCIAS,ROBERTO C",4/1/1964,61,Male,Other,Hispanic or Latino,,,0,1,0,1,1,1,o
+60741,49122992,,,"MENDOZA,VALERIANO",12/2/1958,67,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",33.73,,0,1,1,1,1,1,o
+60742,49119615,,,"SAENZ,TEODORO EDWARDO",3/12/1954,71,Male,Other,Hispanic or Latino,35.03,,1,1,1,1,0,1,o
+60743,49118636,,no definite findins of ABI,"MARTINEZ RAMIREZ,KARLA VANNESSA",11/8/1979,46,Female,Hispanic,Hispanic or Latino,21.56,,0,1,0,1,1,1,o
+60744,49116595,,,"SHEPPARD,STEVEN T",4/13/1958,67,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+60745,49114325,,,"CASTRO,EDWIN JR.",5/27/1998,26,Male,Other,Hispanic or Latino,42.68,,1,1,1,1,0,1,o
+60746,49112798,,,"PIERRE,LILY FAE",10/16/1960,65,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60747,49112478,,,"OQUELI,GUSTAVO ADOLFO",9/9/1962,63,Male,Other,Hispanic or Latino,,,0,1,1,1,0,1,o
+60748,49112219,,,"PATRICK,KENNETH RAY",1/23/1952,73,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60749,49112214,,cannot entirely be excluded i dont think this includes chronic microvascular ischemia,"FARLEY,JAMES ARNUM",5/7/1938,87,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",23.99,,0,1,0,1,1,1,o
+60750,49110778,,No notes available?,"LIGHTFOOT,DARRECK",5/9/1953,72,Female,Unknown,"Not Hispanic, Latino/a, or Spanish origin",21.87,,0,1,1,1,1,1,o
+60751,49102717,,cannot entirely be excluded i dont think this includes chronic microvascular ischemia,"ABDI,MARYAM",12/4/1991,34,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60752,49102361,,,"TRUSS,LAURA L",5/7/1938,87,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60753,49102038,,weird because MRI talks about ABI but CT dos not mention it,"McCarthy,Charles Christopher",9/22/1964,61,Male,White,"Not Hispanic, Latino/a, or Spanish origin",17.81,,0,1,1,1,1,1,o
+60754,49098577,,,"LACAN TZOC,MARGARITA",3/22/2001,24,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60755,49097234,,no signs of recent ischemic injury or intracranial hemorrhage,"BROWN,RODNEY TRAVIS",9/21/1975,50,Male,White,"Not Hispanic, Latino/a, or Spanish origin",27.4,,0,1,0,1,1,1,o
+60756,49092124,,,"MURRY,TRISTEN DON",6/19/1997,28,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",22.52,,0,1,1,1,1,1,o
+60757,49089496,,,"EJIM,CHIEDOZIE MARK",2/18/1995,30,Male,"Black or African American
+Decline to Answer","Not Hispanic, Latino/a, or Spanish origin",28.98,,1,1,1,1,1,1,o
+60758,49089385,,,"TRAN,QUA",12/19/1939,86,Male,Unknown,Unknown,,,0,1,1,1,1,1,o
+60759,49083661,,,"HERNANDEZ RIVERA,EMELII ANN",9/26/1999,26,Female,White,Hispanic or Latino,39.94,,0,1,1,1,1,1,o
+60760,49080560,,,"GARRETT,SHAUN",1/5/1980,45,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60761,49073369,,cannot entirely be excluded i dont think this includes chronic microvascular ischemia,"CARTER,KELLAN MERLE",9/13/1989,36,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60762,49073195,,cannot entirely be excluded i dont think this includes chronic microvascular ischemia,"HUTCHINS,THOMAS",9/22/1965,60,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60763,49070936,,"hard to say. there i amedical code for ABI, but CT says no evience and theres no MRI to confirm","HENDERSON,ARLENE",12/28/1965,59,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60764,49070317,,,"MORENO,BRIGIDA",7/24/1963,62,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60765,49061742,,cannot entirely be excluded i dont think this includes chronic microvascular ischemia,"DENNIS,MARGRET ARABA AKROMA",5/2/1944,81,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60767,49059514,,,"BARRAS,MICHELLE RENEE",10/31/1976,49,Female,White,Hispanic or Latino,,,0,1,1,1,1,1,o
+60768,49059069,,,"THOMAS,SUSAN JANE",10/1/1962,63,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",28.5,,0,1,1,1,1,1,o
+60769,49057648,,family says she has ABI but multiple MRI say unremarkable,"MILLER,LAKISHA",12/5/1974,51,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+60770,49056541,,no definite signs of global anoxic injury in CT,"BANUELOS,JOSE",10/18/1981,44,Male,Other,Hispanic or Latino,,,0,1,0,1,0,1,o
+60771,49055499,,less liely ABI,"MCGOEY,MARY G",7/12/1954,71,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+60772,49055208,,cannot entirely be excluded i dont think this includes chronic microvascular ischemia,"FLORES,CHAZ ALEXANDER",12/7/1984,41,Male,Other,Hispanic or Latino,,,0,1,0,1,1,1,o
+60773,49054418,,,"FRISCH,ROBERT D",5/23/1960,65,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60774,49053499,,cannot entirely be excluded i dont think this includes chronic microvascular ischemia,"SANCHEZ CARDENAS,SERGIO",3/12/1971,54,Male,Other,Unknown,,,0,1,0,1,0,1,o
+60775,49052568,,no diffuse hypoxic ischemic hanges,"HARDAWAY,DANIEL",3/28/1968,57,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+60776,49052338,,,"AVERY,JUDITH INMAN",11/15/1946,77,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",26.9,,1,1,1,1,1,1,o
+60777,49050826,,,"MARTINEZ,ALVIN",10/17/1991,34,Male,White,Hispanic or Latino,30.25,,0,1,1,1,1,1,o
+60778,49050096,,,"WILLIAMS,HAZEL",8/1/1960,65,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60779,49048518,,no findings of ABI present,"BRIDGES,LUKE",5/24/1995,30,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60780,49046184,,no findigns present,"Thompson,Andrian ",5/26/1972,53,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",28.17,,0,1,0,1,0,1,o
+60781,49042244,,,"FULTS,KEVIN",8/26/1965,60,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60782,49039861,,MRI unremarkable no concern for ABI,"GASS,KEVIN",10/24/1984,41,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+60783,49033672,,,"HACKNEY,DAVID E",8/8/1942,82,Male,White,"Not Hispanic, Latino/a, or Spanish origin",29.51,,1,1,1,1,1,1,o
+60784,49030122,,no diffuse hypoxic ischemic hanges,"PARKS,JOHNNY",6/15/1951,74,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60785,49029131,,likely anoxic > stroke,"FUENTES,DANIEL RAY",4/12/1976,49,Male,White,Hispanic or Latino,30.6,,1,1,1,1,1,1,o
+60786,49028818,,,"HERNANDEZ,DEMETRIO ADRIAN",10/14/1966,59,Male,White,Hispanic or Latino,26.78,,0,1,1,1,0,1,o
+60787,49028069,,,"FUNDI,ANITA MASRORI",5/4/1941,84,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60788,49024085,,cocnerning matter loss if in context of ABI. no ABi context,"TURNER,DUTCHESS",1/23/2002,23,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60789,49017563,,,"SAITO,CHRISTOPHER",12/16/1987,38,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60790,49016924,,cannot entirely be excluded i dont think this includes chronic microvascular ischemia,"PLEZE,LYNETTE",4/9/1967,58,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+60791,49015828,,,"VANCE,LINDA DARLENE",8/9/1938,87,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60793,49012741,,,"AYALA,ANISSA",2/15/1994,31,Female,Unknown,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60794,49011958,1,"CT, Hypoxia admitted for COVID-19","HERRERA GARCIA,LIUSEL",10/3/1982,43,Male,White,Hispanic or Latino,28.35,,0,1,1,1,0,1,o
+60795,49010795,,,"CANTERO,RAYMUNDO",3/15/1957,68,Male,Unknown,Unknown,,,0,1,1,1,1,1,o
+60796,49007140,,,"HAYDEN,AARON",4/11/1990,35,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60797,49006721,,cannot entirely be excluded i dont think this includes chronic microvascular ischemia,"GUOX,GUMERCINDO CHUN",1/14/1981,44,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+60798,49003888,,,"SMITH,KENNETH",5/10/1962,63,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60799,49003863,,MRI 8/27/22 - numerous areas of regional ischemia consistent with anoxic brain injury s/p cardiad arrest,"MARSHALL,ROBERT",3/22/1965,60,Male,Unknown,Unknown,,,0,1,1,1,1,1,o
+60800,47337197,,no obvious evidence,"MONCADA,CARLOS",6/25/1946,78,Male,Other,Hispanic or Latino,,,1,1,0,1,0,1,YES
+60801,47337118,,,"JEAN,BENINAH JAMES",12/4/1989,34,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+60802,47337029,,,"HICKEY,ROBERT MCNEIL",6/28/1946,79,Male,White,"Not Hispanic, Latino/a, or Spanish origin",33.45,,0,1,1,1,1,1,o
+60803,47337026,,no obvious evidence,"COLEMAN,MARY",8/31/1949,76,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+60804,47336575,,,"YOUNG,RICHARD ALLEN",10/1/1985,38,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+60805,47336479,,,"PARAMORE,COLBY",7/21/2000,25,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60806,47336478,,,"PERILLOUX,SHERILYN JO",3/26/1946,78,Female,White,"Not Hispanic, Latino/a, or Spanish origin",30.45,,1,1,1,1,1,1,o
+60807,47336410,,,"PEREZ,TOMASA RIVERA",6/7/1951,73,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+60808,47335666,,,"JOHN,HANSJOCHEN MICHAEL SR.",2/15/1941,84,Male,White,"Not Hispanic, Latino/a, or Spanish origin",36.96,,0,1,1,1,1,1,o
+60809,47335070,,,"KNIGHTEN,TIANA NASHAE",10/13/1998,27,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",23.9,,0,1,1,1,0,1,o
+60810,47334625,,mri showed it,"HIRSEKORN,FRANKLIN DONALD",7/3/1955,70,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60811,47334484,,MRI no signs,"GAMBLE,JOHN EDWARD",12/18/1975,50,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+60812,47333972,,,"BHAKTA,ASHISH VIRENDRA",8/28/1983,42,Male,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60813,47333614,,,"JONES,AMIAH JOYZELLE",10/15/2000,25,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60814,47333561,,,"WARNER,BREANNA",11/28/2000,25,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60815,47333545,,,"GONZALEZ,CARLOS",7/3/1969,56,Male,Other,Hispanic or Latino,,,0,1,1,1,0,1,o
+60816,47333501,,,"PRUETT,JAMES EDWIN",6/8/1979,46,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60818,47332918,,cannot entirely be excluded,"CARROLL,ISABEL",4/21/1950,75,Female,"Other
+Other Asian",Unknown,31.89,,0,1,0,1,0,1,o
+60819,47332674,,,"LOPEZ,NADIA",1/24/1999,25,Female,Other,Hispanic or Latino,,,1,1,1,1,0,1,o
+60820,47331923,,concerning for ABI if patient is not young,"ALEJANDRE,INGRID",1/13/2003,22,Female,Other,Hispanic or Latino,,,0,1,0,1,0,1,o
+60821,47331743,,has abi needs nutrition ig thats a reason,"JENNINGS,CARL E",2/15/1934,91,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",26.19,,0,1,1,1,1,1,o
+60822,47331692,,"cardiac arrest yes but ""anoxic"" has no results, no current problems with CT","Fleming,Billy Hurt",7/22/1963,62,Male,White,"Not Hispanic, Latino/a, or Spanish origin",26.88,,0,1,0,1,0,1,o
+60823,47331592,,MRI before first mention of ABI,"BANKSTON,RUBEN",2/24/1947,78,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60824,47330427,,"repeat head CT not concerning for severe ABI, last note","SHEPARD,BARRY D",12/15/1975,50,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60825,47330179,,suspeicion of it but unremarkable CT,"KERRY,AGNES",5/12/1966,59,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60826,47330139,,cannot entirely be excluded,"PIVODA,LARUE KEETON",4/16/1942,83,Female,White,"Not Hispanic, Latino/a, or Spanish origin",21.75,,0,1,0,1,0,1,o
+60827,47330006,,"restricted diffusion in multiple parts of brain, they recommended contrast MRI","MEYERS,CATHERINE A",12/21/1954,69,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+60828,47329881,,possible ABI,"JOHNSON,TIFFANY",8/13/1971,54,Female,Unknown,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60829,47329839,,may represent artifact or ABI,"WALKER,VIOLA SISSON",6/3/1943,82,Female,White,"Not Hispanic, Latino/a, or Spanish origin",26.63,,1,1,0,1,1,1,YES
+60830,47328853,,concerning for anoxic injury byt not guaranteed,"HARRIS,DENA NICOLE",3/15/1984,41,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+60831,47328163,,no obvious evidence of ,"OLINGER,STEVEN PAUL",4/23/1953,72,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60832,47326637,,"CT 9/21/21 ""carbon monoxide poisoning, possible anoxic brain injury, versus toxic metabolic injury""","HOBSON,DANNA LYNN",12/15/1959,66,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+60833,47326521,,less likly,"ARREOLA,FLORIBERTO E",4/4/1972,53,Male,Other,Hispanic or Latino,,,0,1,0,1,1,1,o
+60834,47326418,,,"LIVANEC,NORBERT ANTON",6/26/1944,81,Male,White,"Not Hispanic, Latino/a, or Spanish origin",31.75,,0,1,1,1,0,1,o
+60835,47325799,,,"CANTU,JOSE I",7/18/1995,30,Male,Other,Hispanic or Latino,,,0,1,1,1,1,1,o
+60836,47321655,,,"HODGE,ROBERT",10/16/1952,73,Male,White,"Not Hispanic, Latino/a, or Spanish origin",32,,0,1,1,1,1,1,o
+60837,47304789,,chronic abi,"VASQUEZ,ANDREW PAUL",2/28/1948,77,Male,White,Hispanic or Latino,28.09,,0,1,1,1,1,1,o
+60838,47125143,,,"TERRY,JAMES THOMAS",12/13/1978,47,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60839,47071358,,no acute abnormality,"MATA,LEONARDO",12/8/1992,31,Male,White,Hispanic or Latino,15.04,,1,1,0,1,0,1,YES
+60840,46992872,,"COVID 19 complicated by anoxic brain injury - inpatient rehab at TIRR, unsure if admission at MH","ROBERTSON,TORRY",8/14/1974,51,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",30.88,,0,1,1,1,1,1,o
+60841,46990697,,,"MOCK,GERRY LOUIS SR",8/4/1957,68,Male,Unknown,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60842,46987126,,cannot entirely be excluded,"HERNANDEZ,JOSE",10/23/1982,43,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60843,46979965,,,"GARCIA,JORGE PATRICIO",6/4/1966,59,Male,Hispanic,Hispanic or Latino,27.92,,1,1,1,1,1,1,o
+60844,46975842,,,"SILVER,JESSICA CATHRYN",5/22/1985,40,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60845,46972964,,,"SPACKEY,PATSY",4/13/1942,82,Female,White,"Not Hispanic, Latino/a, or Spanish origin",29.95,,1,1,1,1,0,1,o
+60846,46971374,,,"ALMHEIRI,MOUZA RASHED S",3/25/1972,53,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60847,46968313,,,"BRUCE,TERREN",3/13/1977,48,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60848,46963594,,history of global ischemia rapidly developing brain hanges seen,"CONLEY,RICKEY D",8/4/1954,71,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",20.63,,0,1,1,1,0,1,o
+60849,46942801,,MRI no evidence of asbi,"LOPEZ,JOHN VINCENT",3/10/1956,69,Male,Other,Hispanic or Latino,43.15,,0,1,0,1,1,1,o
+60850,46937367,,prognosis good from abi standpoitn??,"BRICENO LOPEZ,CESAR VIRGILIO",11/15/1962,63,Male,Other,Hispanic or Latino,17.07,,0,1,1,1,1,1,o
+60851,46937279,,,"MCFADIN,RONALD WILEY",5/22/1960,65,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60852,46934643,,,"JOHNSON,JASPER DENSON",5/2/1957,68,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60853,46922090,,cannot entirely be excluded,"BAILEY,DEBRA ANN",12/10/1955,70,Female,White,"Not Hispanic, Latino/a, or Spanish origin",16.14,,0,1,0,1,1,1,o
+60854,46920996,,diffuse anoxic encephalogrpahy,"OLUBIYI,SUNDAY O",4/10/1960,65,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",20.51,,0,1,1,1,1,1,o
+60855,46914125,,cannot entirely be excluded,"AMEEN,NAHEEMAT OLORUNFUN MI OLATOK",10/11/1984,41,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",34.84,,0,1,0,1,0,1,o
+60856,46902351,,little evidence twoard it,"STAGG,ANGELA",1/21/1972,53,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60857,46897877,,no fidngs to suggest anoxic injury,"SMITH,JACKQUIENSLYN EQUILA",8/8/1991,34,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",36.14,,0,1,0,1,1,1,o
+60858,46895832,,,"EARLS,MICHELLE L",2/26/1975,50,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",25.85,,0,1,1,1,1,1,o
+60859,46893458,,,"WARD,JAMES KEVIN",3/5/1964,61,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",36.2,,1,1,1,1,1,1,o
+60861,46881640,,,"ANDERSON,LAWRENCE RAY",9/14/1963,62,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",16.08,,1,1,1,1,1,1,o
+60862,46872096,,,"Melton,Kaesha J",6/2/1991,34,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",26.98,,0,1,1,1,0,1,o
+60863,46869006,,,"REDMON,CRAIG STEVEN",9/29/1965,59,Male,White,"Not Hispanic, Latino/a, or Spanish origin",25.25,,1,1,1,1,1,1,o
+60864,46867872,,,"ROTH,DOUGLAS",9/28/1956,69,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60865,46857176,,,"GLENN,PENNY MARLANA",3/26/1959,66,Female,White,"Not Hispanic, Latino/a, or Spanish origin",22.52,,0,1,1,1,0,1,o
+60866,46857025,,,"MARQUEZ-GARCIA,FRANCISCO J",10/16/1953,72,Male,Hispanic,"Not Hispanic, Latino/a, or Spanish origin",44.81,,0,1,1,1,1,1,o
+60867,46838170,,,"GONZALEZ REYES,JESUS",10/3/1947,78,Male,"Hispanic
+Other",Hispanic or Latino,21.63,,1,1,1,1,1,1,o
+60868,46834588,,,"PHILLIPS,GREGORY ALLEN",12/10/1980,45,Male,White,"Not Hispanic, Latino/a, or Spanish origin",26.54,,0,1,1,1,0,1,o
+60869,46815268,,cannot entirely be excluded,"BUENO,GREGORIA",5/9/1951,74,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60870,46802642,,,"HUDSON,JOSEPH",6/27/1983,42,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60871,46788824,,,"DOBBINS,LAMAR DEON",1/7/1982,43,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",24.36,,1,1,1,1,1,1,o
+60872,46785149,,no acute infarct,"GUARCHAJ Y GUARCHAJ,SANTOS EDGAR",8/4/1995,30,Male,Other Asian,Hispanic or Latino,,,0,1,0,1,1,1,o
+60873,46778718,,,"GENTRY,DEBRA",11/18/1969,56,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60874,46771852,,suspicious of abi,"MANNING JR,TED CARTER",2/20/1961,64,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60875,46742134,,strongly suspicious of abi,"GOUDIE,MATTHEW",4/7/1995,30,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",26.48,,0,1,1,1,0,1,o
+60876,46740449,,,"DAVILAGARCIA,FELICIANO",6/9/1953,72,Male,Unknown,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60877,46739939,,,"ANGTON,ANDERSON CHARLES",2/8/1948,77,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",28.73,,0,1,1,1,1,1,o
+60878,46729622,,,"ETTINOFFE,CURVIN CLIFTON",4/12/1979,46,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",25.09,,0,1,1,1,0,1,o
+60879,46725459,,,"GUY,LESTER",8/21/1963,62,Male,Unknown,Unknown,,,0,1,1,1,1,1,o
+60880,46723720,,no current findigns of abi,"TINSLEY,CHRISTINA DIANE",8/7/1971,54,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60881,46718294,,noevdiecne of abi,"KETSELA,FAWLECH",8/8/1959,66,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",30.29,,0,1,0,1,1,1,o
+60882,46712981,,,"HART,AZALIE YVETTE",12/31/1963,61,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60883,46712399,,cannot entirely be excluded,"ONEAL,CALVIN",8/22/1950,73,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+60884,46692855,,cannot entirely be excluded,"UMANZOR YANEZ,SANTOS",1/24/1994,31,Male,Other,Hispanic or Latino,,,0,1,0,1,0,1,o
+60885,46685313,,,"TORIBIO,ISAAC",3/4/1998,26,Male,Other,Hispanic or Latino,17.17,,1,1,1,1,1,1,o
+60886,46685189,,normal MRI of the brain,"HUCKVALE,GREGORY",6/22/1970,55,Male,White,"Not Hispanic, Latino/a, or Spanish origin",26.08,,0,1,0,1,1,1,o
+60887,46679336,,cannot entirely be excluded,"RIVERA,JEZER",9/24/1987,38,Male,White,Hispanic or Latino,32.02,,0,1,0,1,0,1,o
+60889,46641087,,MRI suggestive of abi,"MARTINE,JOHN PETER",2/7/1948,77,Male,White,"Not Hispanic, Latino/a, or Spanish origin",25.48,,0,1,1,1,1,1,o
+60890,46635712,,no conern for abi,"PHAM,CONG TIEN",7/10/1955,70,Male,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",22.06,,1,1,0,1,0,1,YES
+60891,46633223,,no mRI findigns of diffuse cerebral anoxic injury,"Daniel,Gerard Anthony",12/29/1948,76,Male,White,"Not Hispanic, Latino/a, or Spanish origin",34.57,,0,1,0,1,1,1,o
+60892,46606173,,extensive global anoxic injury,"EDWARDS,ZETTIE W",2/12/1955,69,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",29.38,,1,1,1,1,1,1,o
+60893,46606152,,cannot entirely be excluded,"MOORE,ERNEST",3/28/1962,63,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",27.46,,1,1,0,1,0,1,YES
+60894,46605824,,"ct conern for abi, then the patient stopped breathing, mri from previous","ALLEN,CATHRYN LOUISE",2/20/1950,75,Female,White,"Not Hispanic, Latino/a, or Spanish origin",27,,1,1,1,1,0,1,o
+60895,46604879,,cannot entirely be excluded,"BLAIR,RENEE",3/10/1983,42,Female,Other,Hispanic or Latino,,,0,1,0,1,0,1,o
+60896,46579736,,,"LESTER,JOSEPH LANCELOT III",9/24/1943,82,Male,Other,Hispanic or Latino,31.3,,0,1,1,1,0,1,o
+60897,46573554,,,"Williams,Lisa ",6/12/1964,61,Female,"Black or African American
+White","Not Hispanic, Latino/a, or Spanish origin",23.78,,0,1,1,1,1,1,o
+60898,46567253,,cannot entirely be excluded,"CERVANTES,SASHA",10/15/2002,23,Female,Other,Hispanic or Latino,37.79,,0,1,0,1,0,1,o
+60899,46564818,,,"JARQUIN,ALFREDO",9/19/1939,85,Male,White,Hispanic or Latino,27.66,,1,1,1,1,1,1,o
+60900,46562844,,,"BRUCE,JOHN L",8/13/1954,71,Male,White,"Not Hispanic, Latino/a, or Spanish origin",31.48,,1,1,1,1,1,1,o
+60901,46545349,,,"STEVESON,KALEB RYAN",7/28/1993,32,Male,White,"Not Hispanic, Latino/a, or Spanish origin",21.43,,0,1,1,1,0,1,o
+60902,46525414,,consistent w previous abi,"CHAVEZ,MANUEL FRANCISCO",12/20/1971,54,Male,Other,Hispanic or Latino,19.24,,0,1,1,1,1,1,o
+60903,46513715,,"Search for ""anoxic"" has no results","RESNICK-ATTIA,SARAH YASMIN",10/4/1979,46,Female,White,"Not Hispanic, Latino/a, or Spanish origin",26.65,,0,1,1,1,0,1,o
+60904,46505966,,cannot entirely be excluded,"SALDANA,GENARO JR.",10/25/1962,61,Male,White,Hispanic or Latino,,,1,1,0,1,1,1,YES
+60905,46499343,,,"CARDENAS,CARLOS",7/9/1962,63,Male,Other,Hispanic or Latino,,,0,1,1,1,0,1,o
+60906,46493851,,no CT signs to suggest abi,"KIRSCH,JON RAY",1/20/1936,89,Male,White,"Not Hispanic, Latino/a, or Spanish origin",23.52,,0,1,0,1,0,1,o
+60907,46492405,,,"DURON DE CONTRERAS,SAGRARIO S",10/22/1951,73,Female,Other,Hispanic or Latino,30.36,,1,1,1,1,0,1,o
+60908,46464499,,,"MONIRUDDIN,MOIZUDDIN",10/29/1951,74,Male,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",30.19,,0,1,1,1,1,1,o
+60909,46452627,,"""no neuro signs of poor prognosis after abi"" - i asume this is a yes","PHAM,TUAN MANH",5/5/1959,64,Male,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+60910,46451729,,,"Girndt,John Lawrence",12/22/1960,65,Male,White,"Not Hispanic, Latino/a, or Spanish origin",43.41,,0,1,1,1,1,1,o
+60911,46444996,,,"FLORES,LUIS CARLOS",2/26/1986,39,Male,White,Hispanic or Latino,43.17,,1,1,1,1,0,1,o
+60912,46432898,,,"DAVIS,RICKEDRIC DEDRE",3/27/2001,24,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",24.97,,0,1,1,1,1,1,o
+60914,46427404,,,"DEL VALLE,MICAELA SANCHEZ",1/30/1952,73,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60915,46393486,,,"MORRIS,ISAAC JR",3/3/1961,64,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60916,46373574,,,"VO,LAN THI",11/2/1939,85,Female,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",23.19,,1,1,1,1,1,1,o
+60917,46365680,,,"WALKER,MICHAEL",4/26/1979,46,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",25.1,,0,1,1,1,0,1,o
+60918,46354741,,,"ALLEN,CREMESHIA T",3/1/1992,33,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",41.52,,1,1,1,1,1,1,o
+60919,46345126,,"""abi, with enceph, snce admit""","JOHNSON,JOHNNY LEE",4/11/1946,79,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",36.38,,0,1,1,1,1,1,o
+60920,46339446,,,"GRUENER,SHERI",5/25/1962,63,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60921,46338087,,,"MCGUFFIE,HALEY KATHLEEN",10/1/1994,29,Female,White,"Not Hispanic, Latino/a, or Spanish origin",47.45,,1,1,1,1,1,1,o
+60922,46333084,,,"VAZQUEZ-GARCIA,SIMON",5/16/1946,79,Male,Other,Hispanic or Latino,33.46,,1,1,1,1,0,1,o
+60923,46332235,,,"MALONE,JAYLEN L",11/16/2004,21,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",22.21,,0,1,1,1,0,1,o
+60924,46290485,,no findigns concern it,"BLACKSHIRE,CRYSTAL F",5/28/1982,43,Female,"Black or African American
+Other","Not Hispanic, Latino/a, or Spanish origin",16.45,,0,1,0,1,1,1,o
+60925,46278572,,,"ROTTGER,MARILYN JANE",7/15/1951,74,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",23,,0,1,1,1,1,1,o
+60926,46269878,,,"BUTZ,LARRY JAMES",7/2/1970,55,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60927,46262534,,cannot entirely be excluded,"MUHAMMAD,BILAL LUQMAN",8/7/1940,85,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",29.99,,0,1,0,1,1,1,o
+60928,46244395,,,"ARELLANOPORTILLO,TOMAS",4/19/1964,61,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60929,46233867,,no findigns concern it,"CASTRO,MARTHA E",6/8/1986,39,Female,Hispanic,"Not Hispanic, Latino/a, or Spanish origin",28.73,,0,1,0,1,0,1,o
+60930,46225566,,,"TREVINO,GEANE ARAUJO",6/9/1983,42,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",22.49,,0,1,1,1,1,1,o
+60931,46198450,,,"MORALES,GERARDO JR.",2/27/1984,40,Male,Other,Hispanic or Latino,,,1,1,1,1,1,1,o
+60932,46188849,,,"FARLEY,LAURA",9/2/1975,50,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60933,46184651,,,"NELSON,ANDRE A",4/28/1968,57,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",21.96,,0,1,1,1,1,1,o
+60934,46161362,,in the differential,"OLSEN,DOMINIQUE DARNELL",12/29/1994,30,Male,Other,Hispanic or Latino,,,0,1,0,1,0,1,o
+60935,46155669,,,"HARPER,NAILAH C",12/30/1991,33,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60936,46145159,,,"WANG,WEI-HUNG",11/12/1942,81,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+60939,46105073,,,"BROWN,DARRYL",2/17/1969,56,Male,Unknown,Unknown,,,0,1,1,1,1,1,o
+60940,46094011,,,"MOIZ,SHAMSA",2/21/1955,70,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",28.19,,0,1,1,1,1,1,o
+60941,46079389,,,"DEARBORNE,ANTOINETTE L",10/24/1956,69,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",40.17,,1,1,1,1,1,1,o
+60944,46025925,,no findigns concern it,"CHAPMAN,CHRISTOPHER",12/6/1973,52,Male,White,"Not Hispanic, Latino/a, or Spanish origin",33.38,,0,1,0,1,1,1,o
+60945,46017847,,cannot entirely be excluded,"MEDINA,GILBERT",1/21/1948,77,Male,Other,Hispanic or Latino,39.89,,0,1,0,1,0,1,o
+60946,45964444,,,"CLARK,DEBRA ISABELLA",8/20/1954,71,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60947,45895687,,,"CASTILLO,EDUARDO L",11/27/1991,34,Male,White,Hispanic or Latino,29.55,,1,1,1,1,1,1,o
+60948,45891736,,no ct evidence of abi,"MORIN,ROBERT CHARLES",6/10/1958,67,Male,White,"Not Hispanic, Latino/a, or Spanish origin",28.17,,0,1,0,1,0,1,o
+60949,45886355,,no mri evidence of abi,"Amerson,Maurice ",1/29/1979,46,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",27.75,,0,1,0,1,1,1,o
+60950,45865026,,cannot entirely be excluded,"SAUNDERS,ALBERT EDWARD",7/3/1960,65,Male,White,"Not Hispanic, Latino/a, or Spanish origin",25.98,,1,1,0,1,0,1,YES
+60951,45841873,,,"FLORES,ERICA ELIZABETH",10/1/1993,32,Female,White,Hispanic or Latino,29.22,,0,1,1,1,1,1,o
+60952,45826047,,,"GUZMAN,STEVEN",6/2/1991,34,Male,Hispanic,Hispanic or Latino,43.46,,1,1,1,1,1,1,o
+60954,45803950,,,"JOHNSON,MARILYN DANA",8/1/1963,62,Female,White,"Not Hispanic, Latino/a, or Spanish origin",29.86,,0,1,0,1,0,1,o
+60955,45749634,,,"ANTUNEZSALGADO,SANTIAGO",7/25/1985,40,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60956,45738086,,,"RUIZ,PAUL A",1/9/1970,55,Male,White,"Not Hispanic, Latino/a, or Spanish origin",34.13,,0,1,1,1,1,1,o
+60957,45728437,,they're not really sure but patient does not have full function yet,"ANDERSON,LLOYD TOBEY",2/21/1990,35,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",20.63,,0,1,1,1,0,1,o
+60958,45727862,,cannot entirely be excluded,"SCOTT,MICHAEL DWAYNE",5/10/1962,63,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",25.36,,0,1,0,1,0,1,o
+60959,45725885,,,"Moreno,Consuelo ",2/7/1949,76,Female,"Other Asian
+White","Mexican, Mexican American, or Chicano/a",28.76,,1,1,1,1,1,1,o
+60960,45706486,,no findigns concern it,"WILLIAMS,JAMES",1/18/1945,80,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60961,45696018,,sezirues likely seocndary to ABI --> probably has abi,"DORSEY,LUKENDER",5/27/1986,39,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60962,45670084,,,"MALONE,SELVIN GLENN",11/3/1966,58,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",30.73,,1,1,1,1,0,1,o
+60963,45649554,,,"BUCHANAN,ROBERT E",6/28/1943,82,Male,White,"Not Hispanic, Latino/a, or Spanish origin",39,,1,1,1,1,1,1,o
+60964,45646598,,cannot entirely be excluded,"CHAVERO,GUSTAVO",11/20/1980,45,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60965,45641515,,,"MOSS,BENNETT LEE",11/24/1954,69,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+60966,45618070,,,"BERRY,EDGAR",10/1/1938,87,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60967,45613846,,,"WILLIAMS,EMMITT HOWARD",10/5/1957,68,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60968,45612159,,,"BLOCKSON,CARLA DENEEN",9/23/1972,53,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",46.22,,1,1,1,1,0,1,o
+60969,45581410,,,"ADIGUN,ADEFUNKE OYETEJU",10/15/1958,65,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",19.96,,1,1,1,1,1,1,o
+60970,45566337,,,"WILLIAMS,SARAH ANN",3/15/1965,60,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",21.72,,1,1,1,1,1,1,o
+60971,45550858,,cannot entirely be excluded,"SALAZAR,SAMANTHA",2/8/1997,28,Female,White,"Not Hispanic, Latino/a, or Spanish origin",39.26,,0,1,0,1,0,1,o
+60972,45538223,,,"VALLE,DAVID",7/23/1967,58,Male,Unknown,Unknown,30.15,,1,1,1,1,1,1,o
+60973,45486984,,,"THOMAS,VALERIE WADDLE",3/13/1958,67,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",36.68,,0,1,1,1,0,1,o
+60974,45485485,,cannot entirely be excluded,"WEST,JERRY WAYNE",7/27/1972,53,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+60975,45478447,,cannot entirely be excluded,"FIELDS,LISA KAY",12/16/1965,60,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",37.44,,0,1,0,1,1,1,o
+60976,45478338,,,"NOORANI,IMRAN N",11/20/1968,57,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",32.87,,1,1,1,1,1,1,o
+60977,45469274,,no evidence of abi,"RICHMOND,RONALD A",12/19/1958,67,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+60978,45464401,,CT conerning of abi but MRI is normal. nothing clinically related,"VELASCO,KRISTOFER",8/26/1995,30,Male,Other,Hispanic or Latino,39.48,,0,1,0,1,1,1,o
+60979,45459970,,,"VILLANUEVA,AURORA MARAVILLAS",11/25/1938,87,Female,Other Asian,Decline to Answer,24.59,,0,1,1,1,1,1,o
+60980,45440671,,appeared to have abi,"HARRISON,DELORIS HELTON",7/18/1950,75,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",34.42,,0,1,1,1,1,1,o
+60981,45406568,,repeate mri negative for abi,"JACKSON,VAN MICHELLE",12/16/1965,60,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",24.92,,1,1,0,1,1,1,YES
+60982,45391617,,,"JACKSON,ANTIONETTE",7/5/1987,38,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60983,45391368,,cannot entirely be excluded,"NALITZ,SANDRA JANE",12/10/1954,71,Female,White,"Not Hispanic, Latino/a, or Spanish origin",20.64,,0,1,0,1,0,1,o
+60984,45368963,,may have suffered an abi but died before it could be daignosed. has other ischemia and acute encephalopathy + CVA accident. I'll say yes just because it seems possible but who knows. MRI supports this decision,"RUCKER-BYARS,ROSE MAE",1/8/1951,73,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",23.22,,1,1,0,1,1,1,YES
+60985,45361154,,,"BARRIENTES,MISTY MARIE",5/7/1976,49,Female,"Unknown
+White","Not Hispanic, Latino/a, or Spanish origin",32.39,,1,1,1,1,1,1,o
+60986,45355229,,,"MIMS,MARION POLK",6/25/1955,70,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",21.33,,0,1,1,1,1,1,o
+60987,45350755,,cannot entirely be excluded,"DUFRESNE,ROBERT D",9/12/1939,84,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,0,1,0,1,YES
+60988,45332862,,CT called t rule out anoxic injury. findings basically say it was unremarkable. no MRI done,"JAMES,ANDREW CARNELL",4/29/1961,64,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",31.55,,1,1,0,1,0,1,YES
+60989,45326374,,no evidence of abi from ct,"BUENROSTRO,MARTHA ELISA",9/22/1959,64,Female,Other,Hispanic or Latino,,,1,1,0,1,0,1,YES
+60990,45312266,,,"DAVIS,TAMARCUS JERMAINE",10/2/1975,50,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",33.88,,1,1,1,1,1,1,o
+60991,45277262,,no evidence of abi from ct,"PORTILLO,MARIA",1/27/1953,71,Female,White,Hispanic or Latino,50.59,,1,1,0,1,0,1,YES
+60992,45253468,,,"SMITH,STEVEN R",2/5/1964,61,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",30.22,,0,1,1,1,1,1,o
+60993,45233598,,,"GARCIA,MIRIAM",12/10/1954,69,Female,White,Hispanic or Latino,,,1,1,1,1,0,1,o
+60994,45197762,,,"WILLIAMS,KELVIN D",2/10/1963,62,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+60995,45116286,,cannot entirely be excluded,"TOVAR,JOSE",8/16/1952,73,Male,Other,Hispanic or Latino,,,0,1,0,1,0,1,o
+60996,45112496,,,"NGUYEN,DAO",10/8/1974,51,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",25.34,,0,1,1,1,1,1,o
+60997,45061623,,,"ANANE-SEKYERE,ERNEST S",12/10/1942,83,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+60998,45045941,,,"TAT,DANNY HA",4/30/1953,71,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",28.38,,1,1,1,1,1,1,o
+60999,45041318,,,"WOODARD,CURTIS DEE",5/16/1933,92,Male,White,"Not Hispanic, Latino/a, or Spanish origin",31.1,,1,1,1,1,0,1,o
+61000,45026271,,,"WHITEHEAD,ELIZABETH E",2/27/1960,65,Female,White,"Not Hispanic, Latino/a, or Spanish origin",29.13,,1,1,1,1,1,1,o
+61001,45026147,,,"WILLIAMS,DEBORAH A",12/9/1958,67,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",24.8,,0,1,1,1,1,1,o
+61002,45001239,,,"CONNAUGHTON,JERRY T",12/29/1966,58,Male,White,"Not Hispanic, Latino/a, or Spanish origin",35.3,,1,1,1,1,1,1,o
+61003,41632167,,brain damage bc hydrocephalus the mri says,"COURTNEY,BEVERLY ANN",2/26/1964,61,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",18.14,,0,1,0,1,1,1,o
+61004,41631459,,possibel abi but bro is fine,"Ritter,Matt A",1/22/1995,30,Male,White,"Not Hispanic, Latino/a, or Spanish origin",27.72,,0,1,0,1,0,1,o
+61005,41626107,,,"BARBER,JAMES",6/9/1953,72,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+61006,41624301,,without evidence of abi,"THURMAN,TOMMY",10/14/1969,56,Male,"Unknown
+White","Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+61007,41613366,,,"WILSON,TRACY",10/3/1961,64,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61008,41606236,,nothing bad. conern for it but not guaraneed,"FABIAN MONTALVO,ORLANDO",5/21/1980,45,Male,Other,Hispanic or Latino,,,0,1,0,1,0,1,o
+61009,41605204,,,"BLANKENSHIP,ROBERT L JR.",4/24/1957,68,Male,White,"Not Hispanic, Latino/a, or Spanish origin",32.93,,0,1,1,1,1,1,o
+61011,41561924,,,"HICKS,LOWELL",3/1/1939,86,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+61012,41557925,,,"Villasmil,Jhoan Jose",2/21/1971,54,Male,Hispanic,Unknown,24.18,,0,1,1,1,1,1,o
+61013,41550648,,,"Alvarado,Jaime Franklin",3/20/1972,53,Male,"Hispanic
+Other",Hispanic or Latino,27.98,,0,1,1,1,1,1,o
+61014,41536424,,uspected abi instead of metaboli encephatlopathy,"UHLE,MARY LUCILLE",5/24/1953,72,Female,Unknown,"Not Hispanic, Latino/a, or Spanish origin",22.43,,0,1,1,1,1,1,o
+61015,41527123,,,"RICHTER,KIRK TIMOTHY",8/2/1960,65,Male,Unknown,"Not Hispanic, Latino/a, or Spanish origin",24.94,,0,1,1,1,0,1,o
+61016,41519220,,doc said it was unlikely abi,"DIEHL,ROBERT ANTHONY",1/30/1952,73,Male,White,"Not Hispanic, Latino/a, or Spanish origin",35.88,,0,1,0,1,1,1,o
+61017,41510650,,,"ARIAS,ARTHUR",5/31/1963,62,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61018,41505846,,no evidence of abi on ct mri,"DOW,SANDRA LEE",3/1/1949,76,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+61019,41500987,,,"BELTON,CARLA",2/12/1952,73,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61020,41499251,,concern for anoxic injury global. mri recommended but none done,"DADE,SONYA M",7/20/1968,57,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+61021,41491110,,,"SPILLMAN,BEVERLY",6/6/1962,63,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61022,41490814,,,"ROTHWELL,CHARLOTTE E",9/22/1942,83,Female,White,"Not Hispanic, Latino/a, or Spanish origin",23.03,,0,1,1,1,1,1,o
+61023,41489515,,,"STEPHENS,LARRY GUY",12/5/1955,68,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+61024,41489154,,no signs of abi,"LAMELL,ELIZABETH L",2/11/1945,80,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+61025,41482997,,,"RILEY,TONIE",4/4/1950,75,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61026,41478486,,,"RAYGOZA,MOISES",1/8/1948,76,Male,Other,Hispanic or Latino,33.83,,1,1,1,1,0,1,o
+61027,41462380,,no signs of abi,"JONES,ASHLEY",7/31/1989,36,Female,White,"Not Hispanic, Latino/a, or Spanish origin",16.31,,0,1,0,1,1,1,o
+61028,41461819,,,"NGUYEN,THI THUY HANG",10/18/1985,40,Female,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",24.56,,0,1,1,1,1,1,o
+61029,41448993,,,"QUINTEROS,LUIS ALONZO",10/15/1959,66,Male,Unknown,Hispanic or Latino,30,,0,1,1,1,1,1,o
+61030,41446840,,,"SANYAOLU,JOEL OLANREWAJU",5/15/1973,52,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",25.25,,0,1,1,1,1,1,o
+61031,41446825,,,"WILLIAMS,RUTHIE LEE",10/16/1950,75,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",16.57,,1,1,1,1,1,1,o
+61032,41437624,,"its from a prior toxic meabolic injury, no evidence of acute edema or injury","MITCHELL,VERNON",12/2/1961,64,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+61033,41428099,,,"BROWN,KALEB TRUMAN",8/7/1991,34,Male,White,"Not Hispanic, Latino/a, or Spanish origin",17.08,,0,1,1,1,0,1,o
+61034,41413294,,,"McCreash,Tori Christine",8/5/1982,43,Female,White,"Not Hispanic, Latino/a, or Spanish origin",25.24,,0,1,1,1,1,1,o
+61035,41411521,,,"MERCADO,LUIS A",5/22/1965,60,Male,Other,Hispanic or Latino,,,0,1,1,1,1,1,o
+61036,41399032,,it is a possibility but nothing wrong other than chronic microvascular ischemia and mild parenchymal atrophy,"MARTINEZ,ERNEST",10/25/1958,67,Male,Other,Hispanic or Latino,32.38,,0,1,0,1,1,1,o
+61037,41393431,,"CT was limited in diagnois possible but likely represents chronic changes, but then i think they died","WRIGHT,SHERI HUSE",3/24/1969,55,Female,White,"Not Hispanic, Latino/a, or Spanish origin",28.5,,1,1,0,1,1,1,YES
+61038,41344014,,,"CANTU,ALFREDO",12/7/1966,59,Male,Other,Hispanic or Latino,,,0,1,1,1,1,1,o
+61039,41326638,,cannot entirely be excluded,"SIMS,JASON",10/3/1978,47,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",29.9,,0,1,0,1,0,1,o
+61040,41294042,,,"PENA,ALISSA RENEE",12/14/1984,39,Female,Other,Hispanic or Latino,,,1,1,1,1,0,1,o
+61041,41227145,,,"ULRICH,WINFRIED",9/21/1940,83,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+61042,41128638,,,"HARNESS,HARLEY",8/3/2002,23,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61043,40996484,,no mri evdience of abi,"BROWN,JERRY L",7/14/1962,63,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+61044,40921641,,,"RODRIGUEZ,ANTONIO",9/22/1946,79,Male,Hispanic,Hispanic or Latino,31.87,,1,1,1,1,1,1,o
+61045,40911305,,abi workup negative,"NGUYEN,LARRY PHU DUC",6/6/1966,59,Male,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",27.58,,0,1,0,1,1,1,o
+61046,40871777,,,"COURSER,HOPE",5/26/1990,35,Female,White,"Not Hispanic, Latino/a, or Spanish origin",28.22,,0,1,1,1,1,1,o
+61047,40858586,,,"BABIN,DUSTIN",1/10/1989,36,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61048,40856973,,cannot entirely be excluded,"ANDERSON,FURNIS JOSEPH",10/15/1962,63,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+61049,40849111,,,"THIBODEAUX,JERRY LEE",2/7/1963,61,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+61050,40805952,,,"BATISTE,SHAYNA EMILE",1/27/1997,28,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",22.35,,0,1,1,1,0,1,o
+61051,40786419,,,"WHITE,ALEXIS MARIE",11/19/1980,45,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61052,40752291,,,"PAPKA,SCOTT",10/8/1968,57,Male,Unknown,"Not Hispanic, Latino/a, or Spanish origin",25.25,,0,1,1,1,1,1,o
+61053,40733525,,,"SINGER,RODNEY KEITH JR.",5/21/1976,48,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",15.4,,1,1,1,1,1,1,o
+61054,40716563,,,"RIVERA,JOSE ARMANDO",7/4/1956,69,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+61055,40476975,,without obviou evidence of abi,"JONES,AMON GARY",9/15/1948,77,Male,White,"Not Hispanic, Latino/a, or Spanish origin",37.71,,1,1,0,1,1,1,YES
+61056,40471233,,,"LEWIS,SHAWANA",5/3/1985,39,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+61057,40448729,,no clear evidence of it,"BAILEY,CLAYDINE",3/18/1944,81,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+61058,40427864,,,"JOUBERT,MICHEAL KEITH",10/13/1964,59,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",28.86,,1,1,1,1,0,1,o
+61059,40425381,,,"MOLINARI,DOUGLAS E",6/18/1968,57,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+61060,40408424,,,"AMIRIAN,JAMES HENRY",5/19/1955,70,Male,White,"Not Hispanic, Latino/a, or Spanish origin",27.12,,0,1,1,1,0,1,o
+61061,40374600,,,"WOODARD,CRYSTAL J",10/14/1996,29,Female,White,"Not Hispanic, Latino/a, or Spanish origin",27.25,,1,1,1,1,1,1,o
+61062,40324595,,cannot entirely be excluded,"HELLERSISLE,SHANNON LEIGH",3/16/1977,48,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+61063,40316522,,cannot entirely be excluded,"ROBINSON,DONALD ALLEN",4/14/1960,65,Male,Unknown,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+61064,40315295,,,"MCKINNEYALDRICH,NANCY G",9/7/1946,78,Female,White,"Not Hispanic, Latino/a, or Spanish origin",33.4,,1,1,1,1,1,1,o
+61065,40296979,,,"MUCHMORE,DEIDRA DARLENE",4/8/1968,57,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+61066,40290004,,,"LEWIS,ANITA FAYE",3/12/1969,56,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",34.47,,0,1,1,1,1,1,o
+61067,40283241,,,"WOODS,MWANAISHA",5/16/1976,49,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",22.75,,0,1,1,1,1,1,o
+61068,40263895,,,"MARTINEZ,ELUTERIA",2/20/1963,62,Female,Other Asian,Hispanic or Latino,26.27,,0,1,1,1,0,1,o
+61069,40223338,,,"SETTLES,EMILY ANNETTE",9/5/1939,86,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",24.54,,0,1,1,1,0,1,o
+61070,40174829,,,"EAGLIN,JOYCE",4/28/1947,77,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+61071,40141284,,,"PRICE,MICHAEL",5/31/1977,48,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61072,40124304,,mild or early abi,"GOETZ,RUSTY ALLEN",3/1/1982,43,Male,White,"Not Hispanic, Latino/a, or Spanish origin",30.74,,0,1,1,1,0,1,o
+61073,40083262,,no evidence at this time,"GRAY,BRENDA L",9/10/1941,84,Female,White,"Not Hispanic, Latino/a, or Spanish origin",27.92,,0,1,0,1,1,1,o
+61074,40080809,,,"ALVAREZ,OFELIA LUCIA",1/7/1964,61,Female,"Unknown
+White",Hispanic or Latino,,,0,1,1,1,1,1,o
+61076,40051123,,,"SOMBITO,LAURENCE J",1/29/1973,51,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+61077,40045023,,no fidnigns cncern it,"DISHMAN,CALEB MATTHEW",9/23/1998,27,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",25.84,,0,1,0,1,0,1,o
+61078,40044307,,,"HERNANDEZ,LAISHA",9/14/2001,24,Female,Other Asian,Hispanic or Latino,19.01,,0,1,1,1,1,1,o
+61079,40036608,,,"JUNG,KYUNGTAE",8/5/1968,55,Male,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+61080,40028716,,,"HERNANDEZ,MELISSA BARRIOS",12/31/1994,29,Female,Other,Hispanic or Latino,,,1,1,1,1,0,1,o
+61081,40001953,,,"HERNANDEZ,DANIEL J",7/22/1962,63,Male,Other,Hispanic or Latino,,,0,1,1,1,1,1,o
+61082,39943069,,,"HERNANDEZ,ALAN",2/3/1989,36,Male,Other,Hispanic or Latino,,,0,1,1,1,0,1,o
+61083,39887913,,"multiple areas of edema in the brain suggestive of acute infarcts, never says exactly but they died before mri or any other exams","CARDONA-ARANGO,JAVIER H",2/10/1962,62,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+61084,39865765,,,"BAKER,LATASHA ANN",1/20/1982,43,Female,Unknown,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61085,39864952,,cannot entirely be excluded,"CERVANTES,NANCY LILIANA",3/28/1983,42,Female,Other,Hispanic or Latino,33.68,,0,1,0,1,0,1,o
+61086,39842768,,,"DANIELS,CAROL A",9/8/1960,65,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",34.84,,0,1,1,1,1,1,o
+61087,39836213,,,"PETTAS,BRUCE GEORGE",10/28/1950,75,Male,White,,,,0,1,1,1,1,1,o
+61088,39825513,,no evidence at this time,"MILLER,JAKE",7/29/1938,87,Male,White,"Not Hispanic, Latino/a, or Spanish origin",29.95,,0,1,0,1,1,1,o
+61089,39777523,,,"ESCALANTE,PEDRO A",8/4/1945,79,Male,Other,Hispanic or Latino,21.86,,1,1,1,1,1,1,o
+61090,39769995,,no definite findings for it,"Mackenzie,Brian Kevin",1/18/1955,70,Male,White,"Not Hispanic, Latino/a, or Spanish origin",24.15,,1,1,0,1,0,1,YES
+61091,39753538,,no evidence to suggest abi,"JOHNSON,JOHNNIE LEE",1/20/1941,84,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",21.17,,0,1,0,1,0,1,o
+61092,39733890,,cannot entirely be excluded,"ORTEGA,ROQUE J",4/5/1938,87,Male,White,Hispanic or Latino,19.7,,0,1,0,1,0,1,o
+61093,39706918,,,"GUO,LIAN XIANG",11/23/1939,86,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",24.36,,0,1,1,1,0,1,o
+61094,39621027,,subtle abi in differential,"ALEXANDER,W T",4/23/1932,92,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,0,1,1,1,YES
+61095,39616511,,,"SOTO,JO NELL",11/25/1962,63,Female,White,"Not Hispanic, Latino/a, or Spanish origin",14.1,,1,1,1,1,0,1,o
+61096,39575072,,,"SILVERTHORNE,GENNY CHEN",3/15/1949,76,Female,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",21.48,,0,1,1,1,1,1,o
+61097,39558338,,smething happened t the patient. doctor said between blood los and abi an other problems the patient has a low likelihod of survial. i assume since they survived they ave abi,"VENTERS,CHARLENE",5/13/1934,91,Female,"Black or African American
+Other","Not Hispanic, Latino/a, or Spanish origin",25.72,,0,1,1,1,0,1,o
+61098,39544806,,no ct evidence of it,"MADOJUTIMI,JANE ROSALINE",1/26/1960,65,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",23.8,,0,1,0,1,1,1,o
+61100,39513753,,,"BRATTON,ROSA ISABEL",1/9/1986,39,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",26.37,,0,1,1,1,0,1,o
+61101,39485448,,low suspicion of it,"LEE,DESTINEY BLACK",4/26/1990,35,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+61102,39468860,,without fidnigns to sugest abi,"MUELLER,DONALD",4/29/1956,69,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+61103,39467915,,cannot entirely be excluded,"HARRIS,CLOI SIMONE",7/10/1991,34,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+61104,39464338,,,"TAYLOR,BLANCHE PITTMAN",12/14/1950,74,Female,Black or African American,Unknown,51.21,,1,1,1,1,0,1,o
+61105,39441011,,possile but mri would be of value. seems like little prolem with the brain other than chonic vascular problems bc no bleeding an no specific abi designation,"WILSON,LILLIAN MARIE",2/18/1955,70,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",26.68,,0,1,0,1,1,1,o
+61106,39437019,,,"WHITE,THELMA TAYLOR",8/13/1945,80,Female,Unknown,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61107,39195275,,cannot entirely be excluded but also getign seisures 3 years later and now has some abnormalities??,"VASQUEZ,JULEE REBECCA",4/1/1979,46,Female,White,"Not Hispanic, Latino/a, or Spanish origin",29.45,,0,1,0,1,1,1,o
+61108,39159769,,,"WILLIAMS,BEVERLY",2/28/1959,66,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",34.61,,0,1,1,1,1,1,o
+61109,39148734,,,"JAMES,EVERLY",8/10/1969,56,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",23.7,,1,1,1,1,1,1,o
+61110,39079788,,probable abi,"RANDLE,ROGER LEE JR.",7/2/1976,49,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",46.82,,0,1,1,1,1,1,o
+61112,39067004,,cannot entirely be excluded,"REYNANTE,JOAQUIN",8/16/1959,66,Male,Hispanic,Cuban,24.73,,1,1,0,1,1,1,YES
+61113,39063433,,,"BALDERAS,MARIA ELENA",10/8/1982,43,Female,White,Hispanic or Latino,36.67,,0,1,1,1,1,1,o
+61114,39042785,,cannot entirely be excluded,"SCHAUPERT,TERRY LEE",1/24/1963,61,Male,White,"Not Hispanic, Latino/a, or Spanish origin",13.12,,1,1,0,1,0,1,YES
+61115,39042509,,,"AUSTIN,LYNETTRA KAYE",7/18/1973,52,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61116,39031684,,"diffuse areas of prenchymal high denity with surroudnign vasogenic edema throughout hemispheres, concerning for abi","LEVY,LEROY JOSEPH",9/11/1948,77,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+61117,38979387,,,"STANLEY,SEAN",5/23/1976,49,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+61118,38976736,,,"LUGO,REYES",4/10/1955,70,Male,Unknown,Hispanic or Latino,,,0,1,1,1,1,1,o
+61119,38942878,,it just says history of it but idk when it started. i will assume it was not congenital,"SANDERS,MARC",6/13/1997,28,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+61120,38899556,,,"PARDUE,JONATHAN ROGERS",10/21/1987,38,Male,White,"Not Hispanic, Latino/a, or Spanish origin",17.09,,1,1,1,1,1,1,o
+61121,38783245,,cannot entirely be excluded,"MCFARLAND,ROSIE WILKINS",3/23/1945,80,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+61122,38608370,,,"GILBERT,KAREN C",10/24/1964,61,Female,White,"Not Hispanic, Latino/a, or Spanish origin",23.04,,1,1,1,1,1,1,o
+61123,38605201,,,"WASHINGTON,YVONNDA MARIE",7/8/1960,65,Female,Unknown,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61124,38560795,,,"JENKINS,TIMOTHY WAYNE",7/21/1969,56,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",27.87,,0,1,1,1,1,1,o
+61125,38541211,,,"SANCHEZ-MORENO,TADEO",8/25/1955,70,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",21.5,,0,1,1,1,1,1,o
+61126,38530323,,no ct evidence of it,"JIMENEZ,ALMA",1/25/1958,67,Female,White,Hispanic or Latino,16.46,,1,1,0,1,1,1,YES
+61127,38521609,,area concerning fr abi. then they died,"PORTALES,PATRICIA SANDOVAL",5/26/1960,64,Female,White,Hispanic or Latino,21.95,,1,1,1,1,1,1,o
+61128,38514526,,"""likely from stroke and abi""","CRAIN,ASHLEY NICOLE",4/26/1988,37,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",34.01,,0,1,1,1,1,1,o
+61129,38487176,,,"MARTINEZ,JACOB P",9/11/1986,39,Male,Other,Hispanic or Latino,44.58,,1,1,1,1,1,1,o
+61130,38463018,,,"BAGNERIS,LAWANDA",6/26/1971,54,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61131,38442782,,findings of global anoxic injury not found,"Kabir,MIAN Muhammad",7/1/1958,67,Male,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",19.71,,0,1,0,1,1,1,o
+61132,38437992,,,"HERNANDEZ,JOSE",4/6/1962,62,Male,White,Hispanic or Latino,24.08,,1,1,1,1,0,1,o
+61133,38432213,,,"WADE,LINDA MANTHOOF",5/26/1951,73,Female,White,"Not Hispanic, Latino/a, or Spanish origin",34.53,,1,1,1,1,1,1,o
+61134,38375882,,,"SOWELL,VERGIE BROOKS",1/27/1953,72,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+61135,38356834,,no ct evidence of it,"WILSON,CELESTE DANIELLE",12/20/1990,35,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",31.48,,0,1,0,1,0,1,o
+61136,38321917,,,"SWARINGIM,BRANDON LYN",6/20/1984,40,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+61137,38309498,,no ct evidence of it,"QUINTANILLA,DESTINY ILENE",6/10/2002,23,Female,Hispanic,Hispanic or Latino,40.62,,0,1,0,1,0,1,o
+61138,38292042,,,"ROGERS,TOMMY LEE",10/23/1959,64,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+61139,38265079,,,"CASANOVA,BERNABE",8/19/1974,51,Male,Other,Hispanic or Latino,26.54,,0,1,1,1,0,1,o
+61140,38261501,,,"DOWNS,STEPHANIE JANEE",2/27/1984,41,Female,White,"Not Hispanic, Latino/a, or Spanish origin",25.73,,0,1,1,1,0,1,o
+61141,38254616,,,"PEARCE,THOMAS BRYANT JR.",6/22/1951,72,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+61142,38250517,,,"DAVIS,DONALD",10/12/1959,66,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61143,38222578,,,"PRICE,NATALIE ANN",5/12/2003,22,Female,White,"Not Hispanic, Latino/a, or Spanish origin",21.42,,1,1,1,1,0,1,o
+61144,38215551,,cannot entirely be excluded,"ROCKENSTEIN,KENNETH EDWARD",10/7/1937,88,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+61145,38204410,,cannot entirely be excluded,"FREEMAN,VELMA HORACE",1/23/1953,72,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+61146,38201465,,,"KELLY,KEVIN DWAYNE JR.",9/15/1993,31,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+61147,38174516,,,"KANG,EDWARD",9/29/2002,21,Male,"Other
+Other Asian","Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+61148,38168226,,,"MCGRATH,TREVOR",10/17/1944,79,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+61149,38168104,,cannot entirely be excluded,"WILLIS,YONA PARR",5/12/1932,93,Female,White,"Not Hispanic, Latino/a, or Spanish origin",24.94,,0,1,0,1,0,1,o
+61150,38153462,,no ct evidence of it,"THOMPSON,GEORGE ANTHONY",9/28/1955,70,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",32.24,,0,1,0,1,0,1,o
+61151,38119449,,,"CELESTINE,DEBRA W",6/22/1957,68,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",34.77,,0,1,1,1,1,1,o
+61152,38058590,,no ct evidence of it,"SILVA DE QUINTERO,GLORIA",3/23/1951,74,Female,Other,Hispanic or Latino,25.46,,0,1,0,1,1,1,o
+61153,38049877,,could be anxoic injury among other proglems. maybe an infection,"KIEU,FRANCIS",6/21/1990,35,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",21.94,,0,1,0,1,1,1,o
+61154,38026691,,cannot entirely be excluded,"EVANS,ALFRED BERNARD",1/2/1970,55,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",41.35,,0,1,0,1,1,1,o
+61155,38020298,,cannot entirely be excluded,"ABRAMSON,CHERYL M",8/4/1949,74,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,0,1,0,1,YES
+61156,37993626,,,"GRANT,CALVIN WAYNE",2/16/1963,62,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61158,37944937,,,"VEGA,MARCO ANTONIO",1/24/1977,48,Male,Hispanic,Hispanic or Latino,27.99,,1,1,1,1,1,1,o
+61159,37913551,,hypodensity may be acute subactuve infarct. nothing else mentions it,"SCHULDT,ALLAN",3/24/1981,44,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",34.68,,0,1,0,1,1,1,o
+61160,37824956,,,"SHERMAN,WILBERT GEORGE JR.",2/4/1967,58,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",24.65,,0,1,1,1,1,1,o
+61161,37811056,,"severse encephatlopathy rule out abi, keps syaing no signs of abi","PENA,ANGEL ANN",11/12/1968,57,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",34.43,,0,1,0,1,1,1,o
+61162,37810685,,,"LAROCHE,JULIE M",9/12/1969,56,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",26.49,,1,1,1,1,0,1,o
+61163,37800396,,"CT 3/22/24 - ""no evidence of anoxic brain injury""","AGUADO,DONNA KATHERINE",11/5/1958,67,Female,White,"Not Hispanic, Latino/a, or Spanish origin",29.33,,0,1,1,1,1,1,o
+61165,37767941,,,"SHARP,TERESA L",9/7/1950,75,Female,White,"Not Hispanic, Latino/a, or Spanish origin",25.08,,0,1,1,1,1,1,o
+61166,37735763,,only mentions abi once in a single ct scan its probably fine,"JACQUET,EDDIE HARRELL",5/29/1964,61,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+61167,37729991,,cannot entirely be excluded,"MARTINEZ,EULALIO JR.",6/22/1973,52,Male,Other Asian,Hispanic or Latino,48.86,,0,1,0,1,1,1,o
+61168,37686647,,last seen before death without signs of abi,"THOMAS,CURTIS LEE JR.",7/13/1970,55,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",43.65,,1,1,0,1,0,1,YES
+61170,37511592,,,"BENDER,ERIC CHARLES",1/31/1987,38,Male,White,"Not Hispanic, Latino/a, or Spanish origin",22.81,,0,1,1,1,1,1,o
+61171,37455475,,,"SHOEMAKER,JOHN LOOMIS",10/21/1948,75,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+61172,37447524,,,"LARSON,ERIC",1/26/1970,54,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+61173,37436235,,,"PORTLEY,TYRRELL DAMOND",9/20/1980,43,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",36.77,,1,1,1,1,1,1,o
+61174,37429507,,,"AMEZCUA,JAVIER BUENROSTR",9/12/1959,65,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",37.1,,1,1,1,1,1,1,o
+61175,37426268,,no findigns fo anoxic injury,"CANTU,HILDA",3/30/1954,71,Female,Other,Hispanic or Latino,23.83,,1,1,0,1,0,1,YES
+61176,37411994,,cannot entirely be excluded,"HENRY,CASSAUNDRA LYNN",7/11/1965,60,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",21.7,,0,1,0,1,0,1,o
+61177,37410306,,,"BRADLEY,ANTOINETTE RENA",8/1/1978,47,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",19.97,,0,1,1,1,1,1,o
+61178,37404279,,"doctr comment confirms abi, but the MRI and CT are both negative for acute intracranial abnromalities","THIBODEAUX,ROSIE",4/14/1943,82,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61179,37401163,,no findigns fo anoxic injury,"HAMBLIN,ROSA",5/16/1972,53,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",25.81,,0,1,0,1,0,1,o
+61180,37369937,,cannot entirely be excluded but also getign seisures 3 years later and now has some abnormalities??,"NGO,SO VI",4/7/1929,95,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,0,1,1,1,YES
+61181,37365235,,"MRI 8/18/24 - ""potential anoxic brain injury"" but ""limited examination due to artifact from patient's facial hardware""","Martinez,Anahi ",8/12/2003,22,Female,Hispanic,Hispanic or Latino,29.82,,0,1,1,1,1,1,o
+61182,37348918,,,"SPEARS,SANDRA GAIL",11/8/1967,58,Female,White,"Not Hispanic, Latino/a, or Spanish origin",18.74,,0,1,1,1,1,1,o
+61184,37341868,,etiehr severse metabolic or anoxic encephalopathy,"LUBANI,FATHI JAMAL",10/9/2000,25,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",18.75,,0,1,0,1,1,1,o
+61185,37339875,,,"AMOS,VIRSE JANE",4/24/1943,82,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",27.16,,0,1,1,1,1,1,o
+61186,37317820,,,"BENNETT,BETTY D",5/9/1946,79,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",28.62,,1,1,1,1,0,1,o
+61187,37280623,,,"PRUCHA,RICHARD GEORGE",7/5/1957,68,Male,White,"Not Hispanic, Latino/a, or Spanish origin",19.75,,0,1,1,1,1,1,o
+61188,37268316,,,"POLEMAN,GEORGE GREGORY",5/24/1961,63,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+61189,37252199,,"CT 3/4/22 ""mild or early hypoxic anoxic brain injury cannot be entirely excluded""","STAPP,RONALD LLOYD",6/28/1944,80,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,0,1,0,1,YES
+61190,37247092,,,"Dempsey,Mark ",9/24/1960,65,Male,White,"Not Hispanic, Latino/a, or Spanish origin",25.68,,1,1,1,1,1,1,o
+61191,37229120,,,"MARKS,WILLIAM PERCY",5/6/1964,61,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",32.75,,0,1,1,1,1,1,o
+61192,37199438,,,"WILLIS,ALONZO L",8/20/1987,38,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+61193,37150627,,patrt of another study,"CATALON MOUTON,ERICA LYNN",6/25/1983,42,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",17.47,,1,1,1,1,1,1,o
+61194,37145607,,concern for it but nothing in mri to suggest,"RUNDELL,STEPHANIE SALVAGGI",12/27/1972,52,Female,White,"Not Hispanic, Latino/a, or Spanish origin",28.53,,0,1,0,1,1,1,o
+61195,37092465,,possibility of abi cannot be ruled out,"TORRES,MARIBEL",4/15/1993,31,Female,Other,Hispanic or Latino,,,1,1,0,1,0,1,YES
+61196,37048124,,,"MATA,HUMBERTO M",10/25/1982,43,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",28.76,,0,1,1,1,1,1,o
+61197,37042641,,,"HARDY,PAULETTE YVETTE",7/15/1957,66,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+61198,37024754,,,"ZANJANI,NAVID",11/15/1981,43,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",25.54,,1,1,1,1,1,1,o
+61199,37023896,,no acute itnracranil process,"YAUGER,DOUGLAS BUCHANAN JR.",10/5/1939,86,Male,White,"Not Hispanic, Latino/a, or Spanish origin",28.45,,0,1,0,1,0,1,o
+61200,37020304,,,"STARKS,KATHERN LANELL",9/11/1958,67,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",29.14,,0,1,1,1,1,1,o
+61201,37017023,,,"REYES,BERTA ALICIA",2/11/1964,61,Female,Hispanic,Hispanic or Latino,26.45,,0,1,1,1,1,1,o
+61202,37011578,,,"BRUNO,JUAN FLORES",9/30/1952,73,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",29.91,,0,1,1,1,1,1,o
+61203,36502346,,,"HOLCOMBE,JANEISHA",12/7/1999,26,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",39.94,,1,1,1,1,0,1,o
+61204,36498407,,cannot entirely be excluded,"LOSTAUNAU,MARLENE LUZ",2/1/1971,54,Female,Other,Hispanic or Latino,23.78,,0,1,0,1,1,1,o
+61205,36493912,,concern for abi but unremarkable ct,"SALAZAR,JUAN D",3/8/1965,60,Male,White,Hispanic or Latino,,,0,1,0,1,0,1,o
+61206,36489801,,cannot entirely be excluded,"PENA,JASON",11/10/1978,47,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+61207,36480845,,,"PITTS,ESTHER VERA",10/21/1956,67,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",36.4,,1,1,1,1,0,1,o
+61208,36468392,,,"RINGO,SHANACHELLE NICOLE",7/27/1984,41,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",51.62,,0,1,1,1,1,1,o
+61209,36455884,,,"RHODES,JOCELYN BRESHAEA",3/22/1978,47,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",40.19,,1,1,1,1,1,1,o
+61210,36443530,,could represent sequela of prior anoxic injury but nothing else,"SWICK,WILLIAM GUSTAV",1/10/1952,73,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+61211,36427901,,,"WRIGHT,CHARLES LEE",9/6/1948,76,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",22.79,,1,1,1,1,0,1,o
+61212,36403585,,,"MCGOWAN,TAURA WILSON",5/25/1976,49,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",25.73,,0,1,1,1,0,1,o
+61213,36372936,,,"POSEY,ROLAND III",4/26/1973,52,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",35.08,,0,1,1,1,1,1,o
+61214,36367681,,CT concerning for abi then died,"SMITH,SHANNON",2/24/1976,49,Female,White,"Not Hispanic, Latino/a, or Spanish origin",27.9,,1,1,1,1,0,1,o
+61215,36330788,,,"PERKINS,YVETTE RENEE",4/26/1966,58,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",38.59,,1,1,1,1,0,1,o
+61216,36328174,,no sign of abi,"SIMMONS,JAMES E",8/28/1956,69,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",26.18,,0,1,0,1,1,1,o
+61217,36270862,,,"SCHEUERMANN,SUSAN MARIE",9/20/1953,71,Female,White,"Not Hispanic, Latino/a, or Spanish origin",21.18,,1,1,1,1,0,1,o
+61218,36259248,,,"ODOMS,CHANTEL MARIE",11/11/1970,55,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",28.15,,0,1,1,1,0,1,o
+61219,36209108,,"based on mri and eeg, patient seizrues are likely post anoxic - i assume this means abi","NGUYEN,XUAN ANH",1/13/1967,58,Female,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",23.56,,0,1,1,1,1,1,o
+61220,36207915,,cannot entirely be excluded,"RUSSELL,JUDY JOHNSON",8/12/1946,79,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",16.76,,0,1,0,1,0,1,o
+61221,36173222,,cannot entirely be excluded,"TRAN,VAN T",3/2/1953,72,Male,Other Asian,Unknown,,,0,1,0,1,0,1,o
+61222,36168112,,,"ROGERS,ANDREA NICOLE",5/11/1972,53,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",52.89,,0,1,1,1,1,1,o
+61223,36117505,,,"TREJO,JOEL ANGEL",10/25/1957,68,Male,White,Hispanic or Latino,46.02,,1,1,1,1,0,1,o
+61224,36106133,,,"DYKES,RONALD E",11/4/1946,79,Male,White,"Not Hispanic, Latino/a, or Spanish origin",32.8,,0,1,1,1,1,1,o
+61225,36071781,,concerning for abi but was following commands,"CASEY,ANALISE KRISTINE",3/7/2001,24,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+61226,36065120,,,"PHILLIPS,ANNA ELIZABETH",10/9/1945,80,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",16.38,,1,1,1,1,1,1,o
+61227,36034281,,,"PALEY,FLOYD",4/18/1957,68,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",18.75,,0,1,1,1,1,1,o
+61228,36030643,,CT 11/7/22 - anoxic brain injury from cardiac arrest,"SPUHLER,JENNIFER CHRISTINA",9/9/1984,41,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+61229,36016677,,,"JONES,BYRON",7/20/1956,68,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+61230,35940159,,cannot entirely be excluded,"EVANGELISTA,SUSAN LYNN",1/20/1956,69,Female,White,"Not Hispanic, Latino/a, or Spanish origin",40.24,,0,1,0,1,1,1,o
+61231,35938923,,cannot entirely be excluded,"HUDSON,AMY BABIN",2/8/1960,65,Female,Unknown,Unknown,,,0,1,0,1,0,1,o
+61232,35927250,,,"VASQUEZ,NIEVES",1/24/1955,70,Male,Other Asian,Hispanic or Latino,20.47,,1,1,1,1,0,1,o
+61233,35915897,,,"PETTIS,PHYLLIS WILLIAMS",1/8/1965,59,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",35.31,,1,1,1,1,0,1,o
+61234,35889102,,pos-anoxic encephalopathy resolved???,"SCOTT,MCALLEN",12/6/1952,72,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",23.25,,1,1,0,1,0,1,YES
+61235,35887648,,,"HOWARD,BRANDY BENOIT",7/28/1979,44,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+61236,35875313,,,"BISCAMP,WILLIAM TYSON",7/28/1951,72,Male,White,"Not Hispanic, Latino/a, or Spanish origin",33.89,,1,1,1,1,1,1,o
+61237,35855561,,,"HOPE,TERRY LAMAR",9/8/1951,73,Male,White,"Not Hispanic, Latino/a, or Spanish origin",36.4,,1,1,1,1,0,1,o
+61238,35829760,,no evidence of abi,"Wilson,jay D",1/9/2001,24,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",25.28,,0,1,0,1,0,1,o
+61239,35820106,,,"WAGNER,DEBRA GAYLE",2/19/1957,68,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",50.98,,1,1,1,1,0,1,o
+61240,35806426,,,"WHITE,ELIDA RICARDA",11/9/1991,34,Female,White,"Not Hispanic, Latino/a, or Spanish origin",41.1,,1,1,1,1,1,1,o
+61241,35804979,,no convincing evidecnce of abi at this time,"Hyde,Tim Ray",2/5/1961,64,Male,White,"Not Hispanic, Latino/a, or Spanish origin",26.57,,0,1,0,1,1,1,o
+61242,35790678,,cannot entirely be excluded,"CONTRERAS,KRISTOPHER",1/28/1987,38,Male,Other,Hispanic or Latino,17.4,,0,1,0,1,0,1,o
+61243,35758394,,cannot entirely be excluded,"WAGONER,DANNY WAYNE",3/6/1950,75,Male,White,"Not Hispanic, Latino/a, or Spanish origin",26.31,,0,1,0,1,0,1,o
+61244,35753497,,,"WRIGHT,ANITA BELINDA",9/4/1951,74,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61245,35749587,,no obvious ct evidnece of global anoxic injury,"WILLIAMS,LARRY ROBERT",6/4/1974,50,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,0,1,1,1,YES
+61246,35746608,,,"ROMERO,ARTURO PAZ",12/9/1950,75,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+61247,35735875,,,"PETTIES,MARK STEVEN",12/9/1966,59,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",34.74,,0,1,1,1,1,1,o
+61248,35723999,,"CT 7/4/22 - ""there is diffuse anoxic encephalopathy with loss of grey-white matter differentiation""","WHITE,MELVA KELLUMEN",3/1/1951,74,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61249,35688423,,no evidence of abi,"SIEGERT,LISA HARGROVE",3/3/1958,67,Female,White,"Not Hispanic, Latino/a, or Spanish origin",29.2,,0,1,0,1,1,1,o
+61250,35682215,,,"HARBES,SHANE M",9/19/1999,24,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+61251,35680782,,,"STANFORD,ROSARIO FLORES",10/24/1958,67,Female,White,Hispanic or Latino,30.3,,0,1,0,1,1,1,o
+61252,35678752,1,"CT, MRI, Cardiac Arrest, Cards Admit 8/26/24, DC 9/5/24, MRI: ""severe hypoxic ischemic encephalopathy""","SCOTT,TONYA",3/23/1954,70,Female,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",18.99,,1,1,1,1,1,1,o
+61254,35663879,,,"SINGLETON,PEARL F",4/16/1941,84,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",29.61,,0,1,1,1,1,1,o
+61255,35654387,,likely has sequela of remote injury?,"TROSPER,DARIUS JACOBY",9/13/1986,39,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",25.85,,0,1,0,1,1,1,o
+61256,35650409,,,"ORTIZ,CONCEPCION",12/8/1934,91,Male,Other,Hispanic or Latino,28.01,,1,1,1,1,1,1,o
+61257,35618842,,,"CUCINA,FRANK R",1/7/1954,71,Male,White,"Not Hispanic, Latino/a, or Spanish origin",33.87,,0,1,1,1,1,1,o
+61258,35613893,,,"WEBB,JOY D",8/8/1938,87,Female,White,"Not Hispanic, Latino/a, or Spanish origin",14.75,,0,1,1,1,0,1,o
+61259,35587674,,one of many int he differential,"WESLEY,WILMA S",3/18/1933,92,Female,White,"Not Hispanic, Latino/a, or Spanish origin",23.78,,0,1,0,1,0,1,o
+61261,35566698,,,"MUSTAPHA,ABDOOL MOMIN",10/11/1941,82,Male,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+61262,35555899,,ct did not reveal findings indicative of abi,"HOPKINS,MIKE G",12/16/1951,74,Male,White,"Not Hispanic, Latino/a, or Spanish origin",27.16,,0,1,0,1,0,1,o
+61263,35510042,,,"ASEME ZARAGOZA,DARLA KAY",10/9/1955,69,Female,White,"Not Hispanic, Latino/a, or Spanish origin",24.36,,1,1,1,1,0,1,o
+61264,35500230,,,"CLINEFELTER,DAVID EDWARD",8/15/1948,76,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+61265,35496596,,no evidence for brain anoxica,"MEDRANO,ELSY ESPERANZA",8/23/1944,81,Female,White,"Not Hispanic, Latino/a, or Spanish origin",19.9,,0,1,0,1,1,1,o
+61266,35477318,,,"HERNANDEZ,CAYETANO",8/7/1938,86,Male,Other,Hispanic or Latino,,,1,1,1,1,1,1,o
+61267,35467699,,no evidence for brain anoxica,"HAIRSTON,MARY ELIZABETH",12/8/1942,83,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+61268,35467391,,diffuse loss likely compatible with abi,"Mendel,Geri Hoehne",1/4/1947,78,Female,White,"Not Hispanic, Latino/a, or Spanish origin",44.99,,0,1,1,1,0,1,o
+61269,35458011,,no evidenc efo abi,"HARRIS,LOUISE JONES",1/31/1941,83,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,0,1,1,1,YES
+61270,35434289,,no fndings of concern for abi,"JOHNSON,LILLIE M",8/21/1950,75,Female,White,"Not Hispanic, Latino/a, or Spanish origin",23.78,,0,1,0,1,1,1,o
+61271,35417202,,,"GROVES,CONNIE PEEVY",5/16/1975,50,Female,"Black or African American
+Other","Not Hispanic, Latino/a, or Spanish origin",28.35,,0,1,1,1,1,1,o
+61272,35399581,,,"PICKENS,LEON NAPOLEON",10/22/1939,86,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",28.61,,1,1,1,1,1,1,o
+61273,35396313,,without findings of abi,"WILLIAMS,JEROD",3/17/1969,56,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+61274,35347558,,,"FOLLIE,LAWRENCE EDWARD",12/23/1985,40,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+61275,35325868,,no sure if mri is when the patient had abi,"WATSON,STEPHEN EDWARD",11/7/1954,71,Male,White,"Not Hispanic, Latino/a, or Spanish origin",26.79,,0,1,1,1,0,1,o
+61276,35323150,,,"GARCIA,BENNY RAYMOND",2/14/1963,62,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",18.69,,0,1,1,1,1,1,o
+61277,35315072,,,"CREECH,ROYCE",8/3/1960,65,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61278,35269270,,,"JORDAN,GLORIA AGNEW",1/5/1945,80,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",32.1,,0,1,1,1,1,1,o
+61279,35259796,,cannot entirely be excluded,"CORRAL,ORLANDO",5/9/1994,31,Male,White,Hispanic or Latino,,,0,1,0,1,0,1,o
+61280,35228485,,,"GONZALES,MANDY ANN",11/26/1976,49,Female,Other,Hispanic or Latino,32.85,,1,1,1,1,1,1,o
+61281,35214668,,,"WARD,THOMAS C",2/3/1987,38,Male,White,"Not Hispanic, Latino/a, or Spanish origin",29.13,,0,1,1,1,1,1,o
+61282,35177276,,ct findings compatible with abi,"MARTIN,JEFFREY LYNN",7/31/1953,72,Male,White,"Not Hispanic, Latino/a, or Spanish origin",25.8,,1,1,1,1,0,1,o
+61283,35169602,,,"REPSOLD,LINDEN K",2/7/1991,34,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61284,35168022,,,"Ring,Alicia ",7/6/1975,50,Female,White,"Not Hispanic, Latino/a, or Spanish origin",25.47,,0,1,1,1,1,1,o
+61285,35166581,,,"FUENTES,GUADALUPE",5/6/1951,74,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",33.25,,0,1,1,1,1,1,o
+61287,35145492,,,"ADAMS,WILLIAM G",9/17/1963,62,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+61288,35103536,,,"VILLALOBOS,DORA",8/10/1958,67,Female,Unknown,Hispanic or Latino,,,0,1,1,1,0,1,o
+61289,35068114,,unremarkable mri no clinical symptoms,"KNIGHT,JACQUELINE MICHELLE",2/14/1990,35,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",20.98,,0,1,0,1,1,1,o
+61290,35038743,,CT said it was possible but I think te patient died before an mri was taken,"MONTELONGO,JOSE LUIS",6/17/1987,38,Male,White,Hispanic or Latino,29.76,,1,1,1,1,0,1,o
+61291,35029699,,,"LAU,KIT YING",12/22/1961,64,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",17.14,,1,1,1,1,0,1,o
+61292,35025993,,unremarkable ct. thast it,"RODRIGUEZ,CHARLES ROY",10/17/1966,59,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",36.71,,1,1,0,1,0,1,YES
+61293,34923107,,"cannot entirely be excluded. mri said difuse atrophy and mild chronic small vessel ischemic change AFTER the exclusion statement, so I'm not ure","WOODS,LELA SMITH",4/22/1950,75,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",25.85,,0,1,0,1,1,1,o
+61294,34921641,,,"CANNETTI,LAURA BAXTER",3/26/1960,65,Female,White,"Not Hispanic, Latino/a, or Spanish origin",21.84,,0,1,1,1,1,1,o
+61295,34884448,,"cannot entirely be excluded. mri said difuse atrophy and mild chronic small vessel ischemic change AFTER the exclusion statement, so I'm not ure","BLOUNT,GLORETHA MCCARDELL",8/22/1927,98,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",27.65,,1,1,0,1,0,1,YES
+61296,34867140,,,"BLACKWELL,ROBERT A",11/17/1970,55,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61297,34840678,,"""chronic hypoxic respiratory failure s/p cardiopulmonary arrest with anoxic brain injury"" on 2/24/22 consult","BASEY,BARBARA",6/29/1966,59,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+61298,34839005,,,"WHITE,JOHNNIE R",9/1/1975,50,Female,White,"Not Hispanic, Latino/a, or Spanish origin",30.84,,1,1,1,1,0,1,o
+61299,34757476,,no obvious evience of global abi,"BRYANT,JOANNE TERRELL",10/31/1948,77,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",35.11,,0,1,0,1,1,1,o
+61300,34730890,,,"SUMRALL,JOHN CURTIS",1/5/1979,46,Male,White,"Not Hispanic, Latino/a, or Spanish origin",30.85,,0,1,1,1,1,1,o
+61301,34730252,,,"SHERMAN,CLAUD JOHNSON",4/6/1931,94,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",18.53,,0,1,1,1,1,1,o
+61302,34716586,,no signs on ct. no clinical either it seems,"CHIPONGIAN,TERESITA",9/13/1948,77,Female,Unknown,,,,0,1,0,1,0,1,o
+61303,34689663,,suspected ab,"GIVENS,LAKETHIA R",4/16/1984,41,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+61304,34687303,,,"SAMI,MOHAMMED ABDUL",6/2/1955,70,Male,"Asian Indian
+Other Asian","Not Hispanic, Latino/a, or Spanish origin",33.86,,1,1,1,1,1,1,o
+61305,34686205,,part of the diferential. not mentioned elsewhere,"DE LA PENA,CHARLOTTE P",9/21/1954,71,Female,Other,Hispanic or Latino,24.01,,0,1,0,1,1,1,o
+61306,34685770,,,"RUTHERFORD,BENJAMIN BURT",7/27/1945,80,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61307,34680897,,,"STILLWELL,KENT M SR.",12/29/1957,67,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",31.52,,0,1,1,1,1,1,o
+61308,34612877,,no evidence of abi,"CASSIDY,PAMELA",4/29/1959,66,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",26.67,,1,1,0,1,1,1,YES
+61309,34609732,,,"DANIEL,VELMA LEE",6/28/1947,78,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",45.4,,1,1,1,1,1,1,o
+61310,34591120,,,"PARKER,VEDA SULLIVAN",3/22/1948,76,Female,Black or African American,Unknown,27.28,,1,1,1,1,0,1,o
+61311,34580494,,,"HARMON,PAUL GARY",3/5/1954,71,Male,White,"Not Hispanic, Latino/a, or Spanish origin",32.43,,0,1,1,1,1,1,o
+61312,34579213,,concern but no definitive evidnece of abi,"CALL,JOHN EARL",8/13/1950,75,Male,White,"Not Hispanic, Latino/a, or Spanish origin",21.1,,0,1,0,1,1,1,o
+61313,34577282,,"MRI 8/18/21 ""no evidence of anoxic brain injury""","DIXON,TIJANA EMAURI",10/17/1991,34,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61314,34553785,,,"JOHNSON,SYLVESTER JR.",4/29/1964,61,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+61315,34544112,,,"ORTIZ,GREGORIO",11/21/1958,67,Male,Unknown,Unknown,,,0,1,1,1,1,1,o
+61316,34528453,,,"BRADDICK,MARTHA A",8/18/1938,86,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+61317,34519458,,,"Jackson,Jermaine ",7/23/1974,51,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",32.98,,0,1,1,1,1,1,o
+61318,34510033,,,"RAFIQ,ABDUL",9/8/1963,62,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",44.11,,0,1,1,1,1,1,o
+61319,34491335,,cannot entirely be excluded. CT could hav represented abi in certain context. the patient did that day,"GARCES,GERARDO",12/10/1956,69,Male,Other,Hispanic or Latino,25.82,,1,1,1,1,0,1,o
+61320,34470461,,,"RICKS,MICHAEL RAY",1/26/1954,71,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,1,1,o
+61321,34454132,,,"PRATT,PAUL AUBREY",6/14/1991,34,Male,White,"Not Hispanic, Latino/a, or Spanish origin",24.77,,0,1,1,1,1,1,o
+61322,34425243,,mri did not show anoxic,"DUNN,CALVIN GAYLORD",6/23/1953,72,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",37.29,,0,1,0,1,1,1,o
+61323,34401162,,,"CAMPBELL,ROSALIND YVETTE",5/17/1957,68,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61324,34369625,,no definite findins fo a difuse inury,"WILLIAMSON,STEVE A",10/27/1950,75,Male,White,"Not Hispanic, Latino/a, or Spanish origin",20.8,,0,1,0,1,1,1,o
+61325,34365396,,,"SMITH,ANDRE L",5/2/1979,46,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",16.23,,0,1,1,1,0,1,o
+61326,34364153,,cannot entirely be excluded,"EDWARDS,JAMES LEWIS",12/29/1941,83,Male,White,"Not Hispanic, Latino/a, or Spanish origin",33.91,,0,1,0,1,0,1,o
+61327,34361603,,,"WILLIAMS,LINDA",8/25/1958,65,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+61328,34357328,,,"VAUGHN,KYLE BRENT",11/27/1962,63,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",29.83,,0,1,0,1,1,1,o
+61329,34355459,,Progress notes state anoxic brain injury,"CONDET,SHARON DENISE",6/22/1959,64,Female,Other,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+61330,34343440,,cannot entirely be excluded,"RANGEL,JUNE GRAU",6/24/1950,75,Female,Other,Hispanic or Latino,23.34,,0,1,0,1,1,1,o
+61331,34342204,,,"HERRICK,DUANE ALLEN",4/4/1953,72,Male,White,"Not Hispanic, Latino/a, or Spanish origin",26.85,,0,1,1,1,1,1,o
+61332,34335838,,,"RILEY,JUSTIN SETH",11/24/1984,41,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+61333,34321937,,cannot entirely be excluded,"WEBSTER,JOYCELYN HOWARD",10/24/1950,75,Female,White,"Not Hispanic, Latino/a, or Spanish origin",30.59,,1,1,0,1,0,1,YES
+61334,34287370,,,"REVIS,CEDRIC A",11/20/1958,65,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+61335,34285770,,,"ZERKOW,WALTER JOSEPH",12/25/1951,73,Male,White,"Not Hispanic, Latino/a, or Spanish origin",29.93,,1,1,1,1,1,1,o
+61336,34274479,,cannot entirely be excluded,"MOHRHUSEN,FREDERICK W",8/31/1948,76,Male,White,"Not Hispanic, Latino/a, or Spanish origin",32.27,,1,1,0,1,0,1,YES
+61337,34268318,,in another study,"Smith,Brian Harold",2/12/1973,52,Male,White,"Not Hispanic, Latino/a, or Spanish origin",27.37,,0,1,1,1,1,1,o
+61338,34244988,,,"WATSON,JAMES LEON",9/7/1959,66,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",35.67,,0,1,1,1,1,1,o
+61339,34244202,,,"REYNOSO,ROBERTO I",11/16/1949,76,Male,Other Asian,Hispanic or Latino,23.47,,0,1,1,1,0,1,o
+61340,34237305,,,"NEWSOM,JED ANTHONY",4/28/1959,66,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+61341,34193822,,,"GENTRY,RYAN W",2/19/1983,42,Male,Unknown,"Not Hispanic, Latino/a, or Spanish origin",16.8,,1,1,1,1,1,1,o
+61342,34189277,,,"BURRELL,WINNIFRED ROVELL",2/9/1947,78,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",28.88,,0,1,1,1,1,1,o
+61343,34183830,,,"BAILEY,RICHARD JR.",6/17/1977,46,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+61344,34162482,,abi in appropraite clinical setting is possible. but nothing else references it,"WARNER,MICHAEL D",10/17/1963,62,Male,"Unknown
+White","Not Hispanic, Latino/a, or Spanish origin",26.14,,0,1,0,1,0,1,o
+61345,34157249,,"suspected abi, but CT ruled it out","DEAUVEARO,BETTY J",8/16/1951,74,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+61346,34129314,,neuro said he did not have ab,"RAWLS,CHRISTOPHER SHANNO",1/12/1974,51,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",56.26,,0,1,0,1,0,1,o
+61347,34128218,,,"SWIFT,ARGELIA",9/8/1936,87,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+61348,34107008,,no ct evidence of abi,"MEJIAS,ELEESHA CELIA",11/6/1989,36,Female,Other,Hispanic or Latino,,,0,1,0,1,1,1,o
+61349,34070110,,,"MOFFETT,ROSIE FRANKS",8/2/1944,80,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",25.51,,1,1,1,1,1,1,o
+61350,34040131,,,"ROCHA,ABEL",5/10/1968,57,Male,Unknown,Hispanic or Latino,,,0,1,1,1,0,1,o
+61351,34017213,,Anoxic brain injury secondary to PEA arrest 12/6/19,"HARRIS,STEPHANIE M",8/24/1958,67,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",23.23,,0,1,1,1,0,1,o
+61352,34004375,,,"CHACON,RICHARD",6/22/1951,74,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61353,33981687,,no mri evidence of abi,"GEORGE,MYRA HADNOT",8/3/1944,81,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",25.5,,0,1,0,1,1,1,o
+61354,33968228,,cannot entirely be excluded,"TIMME,BERNICE ROGERS",9/30/1932,93,Female,White,"Not Hispanic, Latino/a, or Spanish origin",19.42,,0,1,0,1,0,1,o
+61355,33961416,,"in setting of abi, the eeg was strongly associated with adverse neuro outcomes. the patient died that day","DIRDEN,WILLIE JAMES",9/15/1945,80,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",35.76,,1,1,1,1,0,1,o
+61356,33947357,,,"WEDDING,CHRISTINA C",5/25/1966,59,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+61357,33933685,,,"BANKS,ALAN",8/12/1961,64,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61358,33923578,,,"HERNANDEZ,GILBERT",11/12/1974,49,Male,Other,Hispanic or Latino,,,1,1,1,1,0,1,o
+61359,33921487,,,"AKPAN,GAIL GREGORY",3/10/1957,68,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",24.66,,0,1,1,1,0,1,o
+61360,33913657,,"MRI 9/6/24 - Mild diffuse abnormal cortical signal/diffusion restriction, findings compatible with global hypozix ischemic injury ","MALDONADO,RAFAEL",9/30/1947,76,Male,Other,Hispanic or Latino,,,1,1,1,1,1,1,o
+61361,33818118,,no ct evidence of abi,"MCDANIEL,ROBERT",6/13/1944,81,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+61362,33789843,,,"MOORE,SHAWN D",9/22/1964,61,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",50.19,,1,1,1,1,0,1,o
+61363,33779756,,,"MAXEY,DANITA LEE",5/9/1972,53,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61364,33733034,,without definite findings of abi,"MARTIN,PAULA",5/3/1966,59,Female,White,"Not Hispanic, Latino/a, or Spanish origin",34.79,,0,1,0,1,1,1,o
+61365,33716710,,,"KEELING,KEVIN SHON",9/11/1965,60,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",23.94,,0,1,1,1,1,1,o
+61366,33634483,,,"JONES,BARBARA SINGLETON",2/26/1945,80,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61367,33600473,,,"JOHNSON,KYREE VENEIA",12/21/1986,39,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",45.03,,0,1,1,1,1,1,o
+61368,33531616,,,"HAMILTON,ETHEL ESTES",7/9/1957,68,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",26.78,,1,1,1,1,1,1,o
+61369,33487249,,cannot entirely be excluded,"JACKSON,EVELYN BERGDORF",2/11/1929,96,Female,White,"Not Hispanic, Latino/a, or Spanish origin",20.24,,0,1,0,1,0,1,o
+61370,33473023,,,"CURRY,MICHELLE",3/1/1966,59,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",31.14,,0,1,1,1,1,1,o
+61371,33467216,,,"GUIDRY,DARIAN LAVAR",1/18/1978,47,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",21.14,,0,1,1,1,1,1,o
+61372,33458943,,,"GUERRA,VICTOR MARTIN",5/21/1984,41,Male,White,Hispanic or Latino,,,0,1,1,1,1,1,o
+61373,33458550,,cannot be entirely excludeed,"GUERRA,ROGELIO",1/11/1953,72,Male,Hispanic,"Not Hispanic, Latino/a, or Spanish origin",22.47,,1,1,0,1,0,1,YES
+61374,33434826,,,"GRIFFIN,SANTEE",2/24/1977,48,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61375,33422757,,,"FEARCE,RITA D",9/15/1949,76,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",19.44,,0,1,1,1,1,1,o
+61376,33393556,,,"EVANS,SARAH JONES",1/27/1958,67,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",28.23,,0,1,1,1,1,1,o
+61379,33321840,,"Had cardiopulmonary arrest, but CT reports says ""hypoxic anoxic brain injury cannot be entirely excluded"" but does not conclusively report anoxic brain injury","GONZALEZ,BALTAZAR H",1/2/1931,94,Male,Other,Hispanic or Latino,,,0,1,0,1,1,1,o
+61380,33316187,,,"COLEMAN,LYDIA SHELLEY",10/14/1958,67,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",36.01,,0,1,1,1,1,1,o
+61381,33311307,,,"COLEMAN,BETTY RUTH",12/30/1952,72,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",21.35,,0,1,1,1,1,1,o
+61382,33291844,,no definite findings f anoxic injury,"COATS,BETTY CATHERINE",12/21/1943,82,Female,"Other
+White","Not Hispanic, Latino/a, or Spanish origin",29.8,,1,1,0,1,1,1,YES
+61383,33283850,,cannot be entirely excludeed,"LOVICK,JACQUELINE GISTARB",4/13/1950,73,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,0,1,0,1,YES
+61384,33278308,,,"DURU,LESLIE CHIKWUNYERE",3/4/1986,39,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61386,33257892,,,"GIBSON,KEVIN JEROME",9/12/1957,68,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,0,1,o
+61387,33228620,,,"BLACKMON,MARIE",1/31/1932,93,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61388,33191297,,cannot be entirely excludeed,"BELL,RONALD DWAYNE",8/21/1961,64,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+61389,33189062,,"""possible / possible severe anoxic brain injury""","BELL,ERNEST LOCKERY",8/5/1949,76,Male,Unknown,Unknown,,,0,1,1,1,1,1,o
+61390,33183127,,no evidence of acute hypoxi injry,"CARSON,MARCUS LIONELL",2/2/1968,57,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",18.05,,0,1,0,1,0,1,o
+61391,33162307,,cannot be entirely excludeed,"CANTU,DAVID G",1/16/1988,37,Male,White,Hispanic or Latino,,,0,1,0,1,0,1,o
+61392,33151442,,,"BARNES,KELLY LEE",10/23/1967,58,Female,White,"Not Hispanic, Latino/a, or Spanish origin",36.21,,1,1,1,1,0,1,o
+61393,33115608,,,"AYOOLA,BILLY ADISA",5/13/1955,70,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",26.29,,0,1,1,1,1,1,o
+61394,33087839,,cannot be entirely excludeed,"BROWN,MENKA B",2/1/1989,36,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,0,1,0,1,o
+61395,33068387,,,"BROOKS,GERALD ANTHONY",11/5/1945,80,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",28.05,,1,1,1,1,1,1,o
+61396,33063709,,,"AMOS,KALEB WAYNE",7/25/1990,35,Male,Other,"Not Hispanic, Latino/a, or Spanish origin",,,0,1,1,1,1,1,o
+61398,33005672,,,"ACHTER,GEORGE JOHN",8/23/1940,85,Male,White,"Not Hispanic, Latino/a, or Spanish origin",28.28,,1,1,1,1,0,1,o
+61399,31197448,,,"ERICKSON,ALLEN LYNN",12/28/1968,56,Male,White,Unknown,22.32,,0,1,1,1,0,1,o
+61400,31169060,,one doc diagnosed with abi but later mri shos only chronic microvascular ischemic changes,"Hennigan,Murl Houston",9/5/1958,67,Male,White,Unknown,27.6,,0,1,1,1,1,1,o
+61401,31152619,,,"RODRIGUEZ,ADELINA",11/10/1947,78,Female,Hispanic,Hispanic or Latino,29.26,,1,1,1,1,1,1,o
+61402,31133803,,,"OWENS,MARK",12/6/1958,67,Male,White,"Not Hispanic, Latino/a, or Spanish origin",28.7,,1,1,1,1,0,1,o
+61403,31105744,,,"PRUETT,NORRIS D",11/21/1958,67,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",27.71,,0,1,1,1,0,1,o
+61404,31098368,,,"HENSLEE,LEE WALTER",2/15/1962,62,Male,White,"Not Hispanic, Latino/a, or Spanish origin",40.97,,1,1,0,1,0,1,YES
+61405,31045319,,,"TORRES,KEVIN",1/24/1962,63,Male,Hispanic,Unknown,19.82,,1,1,1,1,0,1,o
+61406,30962818,,no findings to indicate anoxic injury,"ELLIS,JACK",3/19/1937,88,Male,White,"Not Hispanic, Latino/a, or Spanish origin",26.88,,0,1,0,1,1,1,o
+61409,30962395,,"CT conerning for anoxic injury vs diffuse cerebral edema. but generally died because hemorrhagic shock, not abi","BONIFACE,ALEX",1/1/1998,27,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+61410,30962367,,mri no signs of hypoxic ,"BERRYMAN,JACOB",7/18/2002,23,Male,White,"Not Hispanic, Latino/a, or Spanish origin",22.32,,0,1,0,1,1,1,o
+61411,30962360,,,"BROWN,LEE CHRISTOPHER",7/20/1972,53,Male,White,"Not Hispanic, Latino/a, or Spanish origin",51.21,,1,1,1,1,0,1,o
+61412,30962323,,,"AVALOS,ANALISSE",1/24/2003,22,Female,Other,Hispanic or Latino,29.78,,1,1,1,1,0,1,o
+61413,30962303,,acute oxic metabolic encephalopathy,"JACKSON,CLARENCE",8/4/1947,78,Male,"Black or African American
+White","Not Hispanic, Latino/a, or Spanish origin",25.94,,1,1,0,1,0,1,YES
+61414,30961646,,,"LAMBERT,KENNETH FRANCIS",11/20/1955,70,Male,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,0,1,o
+61415,30961057,,concern for abi but no real other signs,"HAYNIE,RACHEL",7/6/1964,61,Female,White,"Not Hispanic, Latino/a, or Spanish origin",51.16,,0,1,0,1,1,1,o
+61416,30955559,,CT extensive global anoxic injury,"MAOKHAMPHIO,RICKY",3/15/1990,35,Male,Other Asian,Unknown,34.08,,1,1,1,1,0,1,o
+61417,30952004,,yes but the main problem is heart failure,"GORE,REKHA B",9/10/1945,80,Female,Other Asian,Unknown,24.71,,1,1,1,1,0,1,o
+61418,30843947,,,"ANDERSON,JAMES",12/27/1990,34,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",16.14,,0,1,1,1,1,1,o
+61419,30812893,,,"SHAPER,STEPHEN JAY",10/7/1936,89,Male,White,"Not Hispanic, Latino/a, or Spanish origin",28.52,,1,1,1,1,1,1,o
+61420,30804458,,,"LEWIS,BARRY",3/16/1969,56,Male,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",29.41,,0,1,1,1,1,1,o
+61421,30718677,,,"DARTEZ,SHERYL",2/10/1955,69,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",35.92,,1,1,1,1,0,1,o
+61423,30599473,,,"GREEN ADAMS,MINNIE",3/10/1946,79,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",24.34,,0,1,1,1,0,1,o
+61424,30441073,,,"SWENY,KRISTINA",9/1/1977,46,Female,White,"Not Hispanic, Latino/a, or Spanish origin",,,1,1,1,1,1,1,o
+61425,30340475,,,"VIRANI,AMYM",9/25/1956,69,Male,Other Asian,"Not Hispanic, Latino/a, or Spanish origin",27.76,,1,1,1,1,1,1,o
+61426,30335975,,,"RAMBLAS MIRANDA,VICTOR MANUEL",10/12/1974,51,Male,American Indian or Alaska Native,Hispanic or Latino,27.68,,1,1,1,1,1,1,o
+61427,30277273,,,"RODRIGUEZ,SANJUANITA",9/1/1954,71,Female,Hispanic,Hispanic or Latino,30.08,,0,1,1,1,1,1,o
+61428,30263901,,,"GRIFFITH,WYNOKA",10/27/1961,64,Female,Black or African American,"Not Hispanic, Latino/a, or Spanish origin",37.2,,0,1,1,1,0,1,o
+61429,30172101,,,"MCCLAIN,SALLY",3/20/1977,48,Female,White,"Not Hispanic, Latino/a, or Spanish origin",38.94,,1,1,1,1,0,1,o
